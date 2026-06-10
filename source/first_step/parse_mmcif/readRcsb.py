@@ -12,9 +12,12 @@ DATA_DIR = os.path.join(PROJECT_DIR, "data") #data directory
 if not os.path.isdir(DATA_DIR): # makes one if it does not exist
     os.makedirs(DATA_DIR)
 
+LOG_DIR = os.path.join(PROJECT_DIR, "log") 
+if not os.path.isdir(LOG_DIR):
+    os.makedirs(LOG_DIR)
 
-sys.path.insert(0, PROJECT_DIR)
-from first_step.parse_mmcif.readLegacyOne import LegacyReader
+sys.path.insert(0, SRC_DIR)
+from first_step.parse_mmcif.readLegacy import LegacyReader
 
 # sys.path.insert(0, UTIL_DIR)
 # from pathFinderNew import PathFinderWwpdbLocal, PathFinderWwpdbLegacy
@@ -25,7 +28,7 @@ import logging
 # logger = logging.getLogger(__name__)
 log_format = logging.Formatter(
     '%(asctime)s - %(name)s - %(levelname)s - %(module)s - %(funcName)s:%(lineno)d - %(message)s')
-f_handler = logging.FileHandler(os.path.join(LOG_DIR, "readRcsbAll.log"), mode='w', encoding='utf-8')
+f_handler = logging.FileHandler(os.path.join(LOG_DIR, "readRcsb.log"), mode='w', encoding='utf-8')
 f_handler.setLevel(logging.DEBUG)
 f_handler.setFormatter(log_format)
 
@@ -66,13 +69,13 @@ def writeDictToFile(d_all, fp, l_item):
     return True
 
 def workerOne(id, category):
-    fp = os.path.join(DATA_DIR, id, ".cif")
+    fp = os.path.join(DATA_DIR, "G_1002329",id, ".cif")
 
     logger.info("filepath at %s", fp)
     reader = LegacyReader(fp)
     reader.readCategory(category) # read category, save to dictionary
     reader.cleanDict() #clean
-    rt_data = reader.d_contact # return a dictionary
+    rt_data = reader.d_category # return a dictionary
 
     return rt_data
 
@@ -82,7 +85,7 @@ def processList(l_id, category):
     Returns:
         none.
     """
-    data_folder = "/Users/jessiewang/data"
+    #data_folder = "/Users/jessiewang/data"
     # data_folder = "/Users/chenghua/Projects/Training/data"
 
     l_id_test = l_id
@@ -109,7 +112,7 @@ def processList(l_id, category):
     fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
 
     l_item_contact = ['_audit_contact_author.name', '_audit_contact_author.address', '_audit_contact_author.phone', '_audit_contact_author.fax', '_audit_contact_author.email']
-    writeDictToFile(d_categroy_all, fp_category, l_item_contact)
+    writeDictToFile(d_category_all, fp_category, l_item_contact)
         
 
 def main():
@@ -123,7 +126,8 @@ def main():
     # # logger.info(l_id)
     category = "_struct_keywords"
     id = "D_1001407944"
-    workerOne(id, category)
+    res = workerOne(id, category)
+    print(res)
     #processList(l_id, category)    
 
 if __name__ == "__main__":
