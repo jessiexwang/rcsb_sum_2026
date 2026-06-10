@@ -132,7 +132,5 @@ class LegacyReader:
              return False
 
     def cleanDict(self):
-        if self.d_contact:
-            self.cleanDictOne(self.d_contact)
-        if self.d_citation:
-            self.cleanDictOne(self.d_citation)
+        if self.d_category:
+            self.cleanDictOne(self.d_category)
