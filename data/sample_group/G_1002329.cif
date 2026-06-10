@@ -1,0 +1,383 @@
+data_G_1002329
+
+_pdbx_deposit_group.group_id  G_1002329
+#
+loop_
+_pdbx_deposit_group_index.ordinal_id
+_pdbx_deposit_group_index.group_id
+_pdbx_deposit_group_index.auth_file_label
+_pdbx_deposit_group_index.auth_file_name
+_pdbx_deposit_group_index.auth_file_content_type
+_pdbx_deposit_group_index.auth_file_format_type
+_pdbx_deposit_group_index.auth_file_size
+_pdbx_deposit_group_index.dep_set_id
+_pdbx_deposit_group_index.pdb_id_code
+_pdbx_deposit_group_index.group_file_name
+_pdbx_deposit_group_index.group_file_timestamp
+  1  G_1002329  A71EV2A-x2972-ligand_bound  A71EV2A-x2972.mmcif     model                cif    211406  D_1001407944  7HUF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+  2  G_1002329  A71EV2A-x2972-ligand_bound  A71EV2A-x2972_sf.mmcif  "structure factors"  cif   7943380  D_1001407944  7HUF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+  3  G_1002329  A71EV2A-x3054-ligand_bound  A71EV2A-x3054.mmcif     model                cif    198067  D_1001407945  7HUG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+  4  G_1002329  A71EV2A-x3054-ligand_bound  A71EV2A-x3054_sf.mmcif  "structure factors"  cif   5663836  D_1001407945  7HUG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+  5  G_1002329  A71EV2A-x3175-ligand_bound  A71EV2A-x3175.mmcif     model                cif    391214  D_1001407946  7HUH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+  6  G_1002329  A71EV2A-x3175-ligand_bound  A71EV2A-x3175_sf.mmcif  "structure factors"  cif  15608553  D_1001407946  7HUH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+  7  G_1002329  A71EV2A-x3176-ligand_bound  A71EV2A-x3176.mmcif     model                cif    380968  D_1001407947  7HUI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+  8  G_1002329  A71EV2A-x3176-ligand_bound  A71EV2A-x3176_sf.mmcif  "structure factors"  cif  14072239  D_1001407947  7HUI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+  9  G_1002329  A71EV2A-x3177-ligand_bound  A71EV2A-x3177.mmcif     model                cif    392147  D_1001407948  7HUJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 10  G_1002329  A71EV2A-x3177-ligand_bound  A71EV2A-x3177_sf.mmcif  "structure factors"  cif  14511381  D_1001407948  7HUJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 11  G_1002329  A71EV2A-x3178-ligand_bound  A71EV2A-x3178.mmcif     model                cif    399009  D_1001407949  7HUK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 12  G_1002329  A71EV2A-x3178-ligand_bound  A71EV2A-x3178_sf.mmcif  "structure factors"  cif  36247836  D_1001407949  7HUK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 13  G_1002329  A71EV2A-x3181-ligand_bound  A71EV2A-x3181.mmcif     model                cif    220198  D_1001407950  7HUL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 14  G_1002329  A71EV2A-x3181-ligand_bound  A71EV2A-x3181_sf.mmcif  "structure factors"  cif  14494716  D_1001407950  7HUL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 15  G_1002329  A71EV2A-x3188-ligand_bound  A71EV2A-x3188.mmcif     model                cif    205055  D_1001407951  7HUM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 16  G_1002329  A71EV2A-x3188-ligand_bound  A71EV2A-x3188_sf.mmcif  "structure factors"  cif   4724198  D_1001407951  7HUM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 17  G_1002329  A71EV2A-x3189-ligand_bound  A71EV2A-x3189.mmcif     model                cif    198523  D_1001407952  7HUN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 18  G_1002329  A71EV2A-x3189-ligand_bound  A71EV2A-x3189_sf.mmcif  "structure factors"  cif   2343169  D_1001407952  7HUN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 19  G_1002329  A71EV2A-x3191-ligand_bound  A71EV2A-x3191.mmcif     model                cif    202700  D_1001407953  7HUO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 20  G_1002329  A71EV2A-x3191-ligand_bound  A71EV2A-x3191_sf.mmcif  "structure factors"  cif   6918509  D_1001407953  7HUO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 21  G_1002329  A71EV2A-x3193-ligand_bound  A71EV2A-x3193.mmcif     model                cif    199370  D_1001407954  7HUP  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 22  G_1002329  A71EV2A-x3193-ligand_bound  A71EV2A-x3193_sf.mmcif  "structure factors"  cif   4558903  D_1001407954  7HUP  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 23  G_1002329  A71EV2A-x3194-ligand_bound  A71EV2A-x3194.mmcif     model                cif    202984  D_1001407955  7HUQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 24  G_1002329  A71EV2A-x3194-ligand_bound  A71EV2A-x3194_sf.mmcif  "structure factors"  cif   6312719  D_1001407955  7HUQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 25  G_1002329  A71EV2A-x3201-ligand_bound  A71EV2A-x3201.mmcif     model                cif    196933  D_1001407956  7HUR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 26  G_1002329  A71EV2A-x3201-ligand_bound  A71EV2A-x3201_sf.mmcif  "structure factors"  cif   1552525  D_1001407956  7HUR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 27  G_1002329  A71EV2A-x3207-ligand_bound  A71EV2A-x3207.mmcif     model                cif    198914  D_1001407957  7HUS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 28  G_1002329  A71EV2A-x3207-ligand_bound  A71EV2A-x3207_sf.mmcif  "structure factors"  cif   5173608  D_1001407957  7HUS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 29  G_1002329  A71EV2A-x3208-ligand_bound  A71EV2A-x3208.mmcif     model                cif    394219  D_1001407958  7HUT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 30  G_1002329  A71EV2A-x3208-ligand_bound  A71EV2A-x3208_sf.mmcif  "structure factors"  cif  17372417  D_1001407958  7HUT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 31  G_1002329  A71EV2A-x3210-ligand_bound  A71EV2A-x3210.mmcif     model                cif    200228  D_1001407959  7HUU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 32  G_1002329  A71EV2A-x3210-ligand_bound  A71EV2A-x3210_sf.mmcif  "structure factors"  cif   5357856  D_1001407959  7HUU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 33  G_1002329  A71EV2A-x3218-ligand_bound  A71EV2A-x3218.mmcif     model                cif    200331  D_1001407960  7HUV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 34  G_1002329  A71EV2A-x3218-ligand_bound  A71EV2A-x3218_sf.mmcif  "structure factors"  cif   6969933  D_1001407960  7HUV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 35  G_1002329  A71EV2A-x3221-ligand_bound  A71EV2A-x3221.mmcif     model                cif    199560  D_1001407961  7HUW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 36  G_1002329  A71EV2A-x3221-ligand_bound  A71EV2A-x3221_sf.mmcif  "structure factors"  cif   5654761  D_1001407961  7HUW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 37  G_1002329  A71EV2A-x3225-ligand_bound  A71EV2A-x3225.mmcif     model                cif    199108  D_1001407962  7HUX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 38  G_1002329  A71EV2A-x3225-ligand_bound  A71EV2A-x3225_sf.mmcif  "structure factors"  cif   3703863  D_1001407962  7HUX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 39  G_1002329  A71EV2A-x3229-ligand_bound  A71EV2A-x3229.mmcif     model                cif    197559  D_1001407963  7HUY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 40  G_1002329  A71EV2A-x3229-ligand_bound  A71EV2A-x3229_sf.mmcif  "structure factors"  cif   4367432  D_1001407963  7HUY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 41  G_1002329  A71EV2A-x3264-ligand_bound  A71EV2A-x3264.mmcif     model                cif    216228  D_1001407964  7HUZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 42  G_1002329  A71EV2A-x3264-ligand_bound  A71EV2A-x3264_sf.mmcif  "structure factors"  cif   9565662  D_1001407964  7HUZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 43  G_1002329  A71EV2A-x3279-ligand_bound  A71EV2A-x3279.mmcif     model                cif    387563  D_1001407965  7HV0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 44  G_1002329  A71EV2A-x3279-ligand_bound  A71EV2A-x3279_sf.mmcif  "structure factors"  cif  18923650  D_1001407965  7HV0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 45  G_1002329  A71EV2A-x3286-ligand_bound  A71EV2A-x3286.mmcif     model                cif    209800  D_1001407966  7HV1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 46  G_1002329  A71EV2A-x3286-ligand_bound  A71EV2A-x3286_sf.mmcif  "structure factors"  cif  14808857  D_1001407966  7HV1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 47  G_1002329  A71EV2A-x3305-ligand_bound  A71EV2A-x3305.mmcif     model                cif    215385  D_1001407967  7HV2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 48  G_1002329  A71EV2A-x3305-ligand_bound  A71EV2A-x3305_sf.mmcif  "structure factors"  cif  10294689  D_1001407967  7HV2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 49  G_1002329  A71EV2A-x3306-ligand_bound  A71EV2A-x3306.mmcif     model                cif    198236  D_1001407968  7HV3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 50  G_1002329  A71EV2A-x3306-ligand_bound  A71EV2A-x3306_sf.mmcif  "structure factors"  cif   3581440  D_1001407968  7HV3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 51  G_1002329  A71EV2A-x3324-ligand_bound  A71EV2A-x3324.mmcif     model                cif    213204  D_1001407969  7HV4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 52  G_1002329  A71EV2A-x3324-ligand_bound  A71EV2A-x3324_sf.mmcif  "structure factors"  cif   9073395  D_1001407969  7HV4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 53  G_1002329  A71EV2A-x3371-ligand_bound  A71EV2A-x3371.mmcif     model                cif    386750  D_1001407970  7HV5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 54  G_1002329  A71EV2A-x3371-ligand_bound  A71EV2A-x3371_sf.mmcif  "structure factors"  cif  18952275  D_1001407970  7HV5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 55  G_1002329  A71EV2A-x3410-ligand_bound  A71EV2A-x3410.mmcif     model                cif    215763  D_1001407971  7HV6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 56  G_1002329  A71EV2A-x3410-ligand_bound  A71EV2A-x3410_sf.mmcif  "structure factors"  cif  11006395  D_1001407971  7HV6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 57  G_1002329  A71EV2A-x3417-ligand_bound  A71EV2A-x3417.mmcif     model                cif    393957  D_1001407972  7HV7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 58  G_1002329  A71EV2A-x3417-ligand_bound  A71EV2A-x3417_sf.mmcif  "structure factors"  cif  25449506  D_1001407972  7HV7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 59  G_1002329  A71EV2A-x3419-ligand_bound  A71EV2A-x3419.mmcif     model                cif    213580  D_1001407973  7HV8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 60  G_1002329  A71EV2A-x3419-ligand_bound  A71EV2A-x3419_sf.mmcif  "structure factors"  cif  10027627  D_1001407973  7HV8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 61  G_1002329  A71EV2A-x3450-ligand_bound  A71EV2A-x3450.mmcif     model                cif    198332  D_1001407974  7HV9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 62  G_1002329  A71EV2A-x3450-ligand_bound  A71EV2A-x3450_sf.mmcif  "structure factors"  cif   6853108  D_1001407974  7HV9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 63  G_1002329  A71EV2A-x3480-ligand_bound  A71EV2A-x3480.mmcif     model                cif    395094  D_1001407975  7HVA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 64  G_1002329  A71EV2A-x3480-ligand_bound  A71EV2A-x3480_sf.mmcif  "structure factors"  cif  32392827  D_1001407975  7HVA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 65  G_1002329  A71EV2A-x3483-ligand_bound  A71EV2A-x3483.mmcif     model                cif    201534  D_1001407976  7HVB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 66  G_1002329  A71EV2A-x3483-ligand_bound  A71EV2A-x3483_sf.mmcif  "structure factors"  cif   8025944  D_1001407976  7HVB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 67  G_1002329  A71EV2A-x3485-ligand_bound  A71EV2A-x3485.mmcif     model                cif    201477  D_1001407977  7HVC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 68  G_1002329  A71EV2A-x3485-ligand_bound  A71EV2A-x3485_sf.mmcif  "structure factors"  cif  10097568  D_1001407977  7HVC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 69  G_1002329  A71EV2A-x3488-ligand_bound  A71EV2A-x3488.mmcif     model                cif    210049  D_1001407978  7HVD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 70  G_1002329  A71EV2A-x3488-ligand_bound  A71EV2A-x3488_sf.mmcif  "structure factors"  cif   8030801  D_1001407978  7HVD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 71  G_1002329  A71EV2A-x3489-ligand_bound  A71EV2A-x3489.mmcif     model                cif    200349  D_1001407979  7HVE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 72  G_1002329  A71EV2A-x3489-ligand_bound  A71EV2A-x3489_sf.mmcif  "structure factors"  cif   5941018  D_1001407979  7HVE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 73  G_1002329  A71EV2A-x3509-ligand_bound  A71EV2A-x3509.mmcif     model                cif    390577  D_1001407980  7HVF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 74  G_1002329  A71EV2A-x3509-ligand_bound  A71EV2A-x3509_sf.mmcif  "structure factors"  cif  15029950  D_1001407980  7HVF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 75  G_1002329  A71EV2A-x3510-ligand_bound  A71EV2A-x3510.mmcif     model                cif    195922  D_1001407981  7HVG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 76  G_1002329  A71EV2A-x3510-ligand_bound  A71EV2A-x3510_sf.mmcif  "structure factors"  cif   3188184  D_1001407981  7HVG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 77  G_1002329  A71EV2A-x3546-ligand_bound  A71EV2A-x3546.mmcif     model                cif    200315  D_1001407982  7HVH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 78  G_1002329  A71EV2A-x3546-ligand_bound  A71EV2A-x3546_sf.mmcif  "structure factors"  cif   6065117  D_1001407982  7HVH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 79  G_1002329  A71EV2A-x3548-ligand_bound  A71EV2A-x3548.mmcif     model                cif    196452  D_1001407983  7HVI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 80  G_1002329  A71EV2A-x3548-ligand_bound  A71EV2A-x3548_sf.mmcif  "structure factors"  cif   3960044  D_1001407983  7HVI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 81  G_1002329  A71EV2A-x3550-ligand_bound  A71EV2A-x3550.mmcif     model                cif    211130  D_1001407984  7HVJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 82  G_1002329  A71EV2A-x3550-ligand_bound  A71EV2A-x3550_sf.mmcif  "structure factors"  cif  12346346  D_1001407984  7HVJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 83  G_1002329  A71EV2A-x3556-ligand_bound  A71EV2A-x3556.mmcif     model                cif    210738  D_1001407985  7HVK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 84  G_1002329  A71EV2A-x3556-ligand_bound  A71EV2A-x3556_sf.mmcif  "structure factors"  cif   5588097  D_1001407985  7HVK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 85  G_1002329  A71EV2A-x3557-ligand_bound  A71EV2A-x3557.mmcif     model                cif    391468  D_1001407986  7HVL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 86  G_1002329  A71EV2A-x3557-ligand_bound  A71EV2A-x3557_sf.mmcif  "structure factors"  cif  18198163  D_1001407986  7HVL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 87  G_1002329  A71EV2A-x3564-ligand_bound  A71EV2A-x3564.mmcif     model                cif    203905  D_1001407987  7HVM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 88  G_1002329  A71EV2A-x3564-ligand_bound  A71EV2A-x3564_sf.mmcif  "structure factors"  cif   9450867  D_1001407987  7HVM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 89  G_1002329  A71EV2A-x3568-ligand_bound  A71EV2A-x3568.mmcif     model                cif    370113  D_1001407988  7HVN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 90  G_1002329  A71EV2A-x3568-ligand_bound  A71EV2A-x3568_sf.mmcif  "structure factors"  cif  20717376  D_1001407988  7HVN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 91  G_1002329  A71EV2A-x3571-ligand_bound  A71EV2A-x3571.mmcif     model                cif    396920  D_1001407989  7HVO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 92  G_1002329  A71EV2A-x3571-ligand_bound  A71EV2A-x3571_sf.mmcif  "structure factors"  cif  19725000  D_1001407989  7HVO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 93  G_1002329  A71EV2A-x3575-ligand_bound  A71EV2A-x3575.mmcif     model                cif    200684  D_1001407990  7HVQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 94  G_1002329  A71EV2A-x3575-ligand_bound  A71EV2A-x3575_sf.mmcif  "structure factors"  cif   8106030  D_1001407990  7HVQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 95  G_1002329  A71EV2A-x3579-ligand_bound  A71EV2A-x3579.mmcif     model                cif    206139  D_1001407991  7HVR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 96  G_1002329  A71EV2A-x3579-ligand_bound  A71EV2A-x3579_sf.mmcif  "structure factors"  cif   6604094  D_1001407991  7HVR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 97  G_1002329  A71EV2A-x3581-ligand_bound  A71EV2A-x3581.mmcif     model                cif    211993  D_1001407992  7HVS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 98  G_1002329  A71EV2A-x3581-ligand_bound  A71EV2A-x3581_sf.mmcif  "structure factors"  cif  10007662  D_1001407992  7HVS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+ 99  G_1002329  A71EV2A-x3593-ligand_bound  A71EV2A-x3593.mmcif     model                cif    396807  D_1001407993  7HVT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+100  G_1002329  A71EV2A-x3593-ligand_bound  A71EV2A-x3593_sf.mmcif  "structure factors"  cif  35130692  D_1001407993  7HVT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+101  G_1002329  A71EV2A-x3606-ligand_bound  A71EV2A-x3606.mmcif     model                cif    394561  D_1001407994  7HVU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+102  G_1002329  A71EV2A-x3606-ligand_bound  A71EV2A-x3606_sf.mmcif  "structure factors"  cif  18861677  D_1001407994  7HVU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+103  G_1002329  A71EV2A-x3612-ligand_bound  A71EV2A-x3612.mmcif     model                cif    201370  D_1001407995  7HVV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+104  G_1002329  A71EV2A-x3612-ligand_bound  A71EV2A-x3612_sf.mmcif  "structure factors"  cif   7488545  D_1001407995  7HVV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+105  G_1002329  A71EV2A-x3616-ligand_bound  A71EV2A-x3616.mmcif     model                cif    395979  D_1001407996  7HVW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+106  G_1002329  A71EV2A-x3616-ligand_bound  A71EV2A-x3616_sf.mmcif  "structure factors"  cif  20798284  D_1001407996  7HVW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+107  G_1002329  A71EV2A-x3623-ligand_bound  A71EV2A-x3623.mmcif     model                cif    390658  D_1001407997  7HVX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+108  G_1002329  A71EV2A-x3623-ligand_bound  A71EV2A-x3623_sf.mmcif  "structure factors"  cif  35759797  D_1001407997  7HVX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+109  G_1002329  A71EV2A-x3634-ligand_bound  A71EV2A-x3634.mmcif     model                cif    391208  D_1001407998  7HVY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+110  G_1002329  A71EV2A-x3634-ligand_bound  A71EV2A-x3634_sf.mmcif  "structure factors"  cif  32318120  D_1001407998  7HVY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+111  G_1002329  A71EV2A-x3663-ligand_bound  A71EV2A-x3663.mmcif     model                cif    394712  D_1001407999  7HVZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+112  G_1002329  A71EV2A-x3663-ligand_bound  A71EV2A-x3663_sf.mmcif  "structure factors"  cif  30817499  D_1001407999  7HVZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+113  G_1002329  A71EV2A-x3665-ligand_bound  A71EV2A-x3665.mmcif     model                cif    200545  D_1001408000  7HW0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+114  G_1002329  A71EV2A-x3665-ligand_bound  A71EV2A-x3665_sf.mmcif  "structure factors"  cif   6426098  D_1001408000  7HW0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+115  G_1002329  A71EV2A-x3685-ligand_bound  A71EV2A-x3685.mmcif     model                cif    397143  D_1001408001  7HW1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+116  G_1002329  A71EV2A-x3685-ligand_bound  A71EV2A-x3685_sf.mmcif  "structure factors"  cif  33171286  D_1001408001  7HW1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+117  G_1002329  A71EV2A-x3694-ligand_bound  A71EV2A-x3694.mmcif     model                cif    392221  D_1001408002  7HW2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+118  G_1002329  A71EV2A-x3694-ligand_bound  A71EV2A-x3694_sf.mmcif  "structure factors"  cif  21173557  D_1001408002  7HW2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+119  G_1002329  A71EV2A-x3849-ligand_bound  A71EV2A-x3849.mmcif     model                cif    202390  D_1001408003  7HW3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+120  G_1002329  A71EV2A-x3849-ligand_bound  A71EV2A-x3849_sf.mmcif  "structure factors"  cif   6764145  D_1001408003  7HW3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+121  G_1002329  A71EV2A-x3862-ligand_bound  A71EV2A-x3862.mmcif     model                cif    385756  D_1001408004  7HW4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+122  G_1002329  A71EV2A-x3862-ligand_bound  A71EV2A-x3862_sf.mmcif  "structure factors"  cif  13270437  D_1001408004  7HW4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+123  G_1002329  A71EV2A-x3867-ligand_bound  A71EV2A-x3867.mmcif     model                cif    203630  D_1001408005  7HW5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+124  G_1002329  A71EV2A-x3867-ligand_bound  A71EV2A-x3867_sf.mmcif  "structure factors"  cif   8814639  D_1001408005  7HW5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+125  G_1002329  A71EV2A-x3868-ligand_bound  A71EV2A-x3868.mmcif     model                cif    196946  D_1001408006  7HW6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+126  G_1002329  A71EV2A-x3868-ligand_bound  A71EV2A-x3868_sf.mmcif  "structure factors"  cif   4882070  D_1001408006  7HW6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+127  G_1002329  A71EV2A-x3869-ligand_bound  A71EV2A-x3869.mmcif     model                cif    200744  D_1001408007  7HW7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+128  G_1002329  A71EV2A-x3869-ligand_bound  A71EV2A-x3869_sf.mmcif  "structure factors"  cif   5060460  D_1001408007  7HW7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+129  G_1002329  A71EV2A-x3884-ligand_bound  A71EV2A-x3884.mmcif     model                cif    395023  D_1001408008  7HW8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+130  G_1002329  A71EV2A-x3884-ligand_bound  A71EV2A-x3884_sf.mmcif  "structure factors"  cif  18770977  D_1001408008  7HW8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+131  G_1002329  A71EV2A-x3890-ligand_bound  A71EV2A-x3890.mmcif     model                cif    383326  D_1001408009  7HW9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+132  G_1002329  A71EV2A-x3890-ligand_bound  A71EV2A-x3890_sf.mmcif  "structure factors"  cif  15357511  D_1001408009  7HW9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+133  G_1002329  A71EV2A-x3895-ligand_bound  A71EV2A-x3895.mmcif     model                cif    201227  D_1001408010  7HWA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+134  G_1002329  A71EV2A-x3895-ligand_bound  A71EV2A-x3895_sf.mmcif  "structure factors"  cif   9370257  D_1001408010  7HWA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+135  G_1002329  A71EV2A-x3901-ligand_bound  A71EV2A-x3901.mmcif     model                cif    390739  D_1001408011  7HWB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+136  G_1002329  A71EV2A-x3901-ligand_bound  A71EV2A-x3901_sf.mmcif  "structure factors"  cif  29330584  D_1001408011  7HWB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+137  G_1002329  A71EV2A-x3908-ligand_bound  A71EV2A-x3908.mmcif     model                cif    370625  D_1001408012  7HWC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+138  G_1002329  A71EV2A-x3908-ligand_bound  A71EV2A-x3908_sf.mmcif  "structure factors"  cif  17627576  D_1001408012  7HWC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+139  G_1002329  A71EV2A-x3914-ligand_bound  A71EV2A-x3914.mmcif     model                cif    197641  D_1001408013  7HWD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+140  G_1002329  A71EV2A-x3914-ligand_bound  A71EV2A-x3914_sf.mmcif  "structure factors"  cif   5150064  D_1001408013  7HWD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+141  G_1002329  A71EV2A-x3920-ligand_bound  A71EV2A-x3920.mmcif     model                cif    196778  D_1001408014  7HWE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+142  G_1002329  A71EV2A-x3920-ligand_bound  A71EV2A-x3920_sf.mmcif  "structure factors"  cif   2670020  D_1001408014  7HWE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+143  G_1002329  A71EV2A-x3936-ligand_bound  A71EV2A-x3936.mmcif     model                cif    394931  D_1001408015  7HWF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+144  G_1002329  A71EV2A-x3936-ligand_bound  A71EV2A-x3936_sf.mmcif  "structure factors"  cif  27868355  D_1001408015  7HWF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+145  G_1002329  A71EV2A-x3939-ligand_bound  A71EV2A-x3939.mmcif     model                cif    395326  D_1001408016  7HWG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+146  G_1002329  A71EV2A-x3939-ligand_bound  A71EV2A-x3939_sf.mmcif  "structure factors"  cif  25522684  D_1001408016  7HWG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+147  G_1002329  A71EV2A-x3940-ligand_bound  A71EV2A-x3940.mmcif     model                cif    195104  D_1001408017  7HWH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+148  G_1002329  A71EV2A-x3940-ligand_bound  A71EV2A-x3940_sf.mmcif  "structure factors"  cif   2543541  D_1001408017  7HWH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+149  G_1002329  A71EV2A-x3942-ligand_bound  A71EV2A-x3942.mmcif     model                cif    196555  D_1001408018  7HWI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+150  G_1002329  A71EV2A-x3942-ligand_bound  A71EV2A-x3942_sf.mmcif  "structure factors"  cif   3540940  D_1001408018  7HWI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+151  G_1002329  A71EV2A-x3944-ligand_bound  A71EV2A-x3944.mmcif     model                cif    204371  D_1001408019  7HWJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+152  G_1002329  A71EV2A-x3944-ligand_bound  A71EV2A-x3944_sf.mmcif  "structure factors"  cif   9560421  D_1001408019  7HWJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+153  G_1002329  A71EV2A-x3954-ligand_bound  A71EV2A-x3954.mmcif     model                cif    198031  D_1001408020  7HWK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+154  G_1002329  A71EV2A-x3954-ligand_bound  A71EV2A-x3954_sf.mmcif  "structure factors"  cif   3398693  D_1001408020  7HWK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+155  G_1002329  A71EV2A-x3956-ligand_bound  A71EV2A-x3956.mmcif     model                cif    389838  D_1001408021  7HWL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+156  G_1002329  A71EV2A-x3956-ligand_bound  A71EV2A-x3956_sf.mmcif  "structure factors"  cif  24319914  D_1001408021  7HWL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+157  G_1002329  A71EV2A-x3963-ligand_bound  A71EV2A-x3963.mmcif     model                cif    387300  D_1001408022  7HWM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+158  G_1002329  A71EV2A-x3963-ligand_bound  A71EV2A-x3963_sf.mmcif  "structure factors"  cif  17677576  D_1001408022  7HWM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+159  G_1002329  A71EV2A-x3968-ligand_bound  A71EV2A-x3968.mmcif     model                cif    200334  D_1001408023  7HWN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+160  G_1002329  A71EV2A-x3968-ligand_bound  A71EV2A-x3968_sf.mmcif  "structure factors"  cif   9409517  D_1001408023  7HWN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+161  G_1002329  A71EV2A-x3975-ligand_bound  A71EV2A-x3975.mmcif     model                cif    209984  D_1001408024  7HWO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+162  G_1002329  A71EV2A-x3975-ligand_bound  A71EV2A-x3975_sf.mmcif  "structure factors"  cif   9717662  D_1001408024  7HWO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+163  G_1002329  A71EV2A-x3977-ligand_bound  A71EV2A-x3977.mmcif     model                cif    210774  D_1001408025  7HWP  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+164  G_1002329  A71EV2A-x3977-ligand_bound  A71EV2A-x3977_sf.mmcif  "structure factors"  cif   7597109  D_1001408025  7HWP  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+165  G_1002329  A71EV2A-x3981-ligand_bound  A71EV2A-x3981.mmcif     model                cif    215649  D_1001408026  7HWQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+166  G_1002329  A71EV2A-x3981-ligand_bound  A71EV2A-x3981_sf.mmcif  "structure factors"  cif   7952460  D_1001408026  7HWQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+167  G_1002329  A71EV2A-x3982-ligand_bound  A71EV2A-x3982.mmcif     model                cif    202064  D_1001408027  7HWR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+168  G_1002329  A71EV2A-x3982-ligand_bound  A71EV2A-x3982_sf.mmcif  "structure factors"  cif   5282074  D_1001408027  7HWR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+169  G_1002329  A71EV2A-x3986-ligand_bound  A71EV2A-x3986.mmcif     model                cif    393443  D_1001408028  7HWS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+170  G_1002329  A71EV2A-x3986-ligand_bound  A71EV2A-x3986_sf.mmcif  "structure factors"  cif  23182741  D_1001408028  7HWS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+171  G_1002329  A71EV2A-x3989-ligand_bound  A71EV2A-x3989.mmcif     model                cif    200486  D_1001408029  7HWT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+172  G_1002329  A71EV2A-x3989-ligand_bound  A71EV2A-x3989_sf.mmcif  "structure factors"  cif   8861724  D_1001408029  7HWT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+173  G_1002329  A71EV2A-x3990-ligand_bound  A71EV2A-x3990.mmcif     model                cif    199822  D_1001408030  7HWU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+174  G_1002329  A71EV2A-x3990-ligand_bound  A71EV2A-x3990_sf.mmcif  "structure factors"  cif   7074720  D_1001408030  7HWU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+175  G_1002329  A71EV2A-x3992-ligand_bound  A71EV2A-x3992.mmcif     model                cif    388122  D_1001408031  7HWV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+176  G_1002329  A71EV2A-x3992-ligand_bound  A71EV2A-x3992_sf.mmcif  "structure factors"  cif  19771457  D_1001408031  7HWV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+177  G_1002329  A71EV2A-x3993-ligand_bound  A71EV2A-x3993.mmcif     model                cif    390649  D_1001408032  7HWW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+178  G_1002329  A71EV2A-x3993-ligand_bound  A71EV2A-x3993_sf.mmcif  "structure factors"  cif  12134860  D_1001408032  7HWW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+179  G_1002329  A71EV2A-x4012-ligand_bound  A71EV2A-x4012.mmcif     model                cif    386028  D_1001408033  7HWX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+180  G_1002329  A71EV2A-x4012-ligand_bound  A71EV2A-x4012_sf.mmcif  "structure factors"  cif  22977714  D_1001408033  7HWX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+181  G_1002329  A71EV2A-x4017-ligand_bound  A71EV2A-x4017.mmcif     model                cif    390280  D_1001408034  7HWY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+182  G_1002329  A71EV2A-x4017-ligand_bound  A71EV2A-x4017_sf.mmcif  "structure factors"  cif  18220317  D_1001408034  7HWY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+183  G_1002329  A71EV2A-x4018-ligand_bound  A71EV2A-x4018.mmcif     model                cif    389026  D_1001408035  7HWZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+184  G_1002329  A71EV2A-x4018-ligand_bound  A71EV2A-x4018_sf.mmcif  "structure factors"  cif  18399429  D_1001408035  7HWZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+185  G_1002329  A71EV2A-x4020-ligand_bound  A71EV2A-x4020.mmcif     model                cif    390119  D_1001408036  7HX0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+186  G_1002329  A71EV2A-x4020-ligand_bound  A71EV2A-x4020_sf.mmcif  "structure factors"  cif  19658328  D_1001408036  7HX0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+187  G_1002329  A71EV2A-x4028-ligand_bound  A71EV2A-x4028.mmcif     model                cif    200646  D_1001408037  7HX1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+188  G_1002329  A71EV2A-x4028-ligand_bound  A71EV2A-x4028_sf.mmcif  "structure factors"  cif   6928495  D_1001408037  7HX1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+189  G_1002329  A71EV2A-x4029-ligand_bound  A71EV2A-x4029.mmcif     model                cif    198480  D_1001408038  7HX2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+190  G_1002329  A71EV2A-x4029-ligand_bound  A71EV2A-x4029_sf.mmcif  "structure factors"  cif   7627950  D_1001408038  7HX2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+191  G_1002329  A71EV2A-x4031-ligand_bound  A71EV2A-x4031.mmcif     model                cif    390602  D_1001408039  7HX3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+192  G_1002329  A71EV2A-x4031-ligand_bound  A71EV2A-x4031_sf.mmcif  "structure factors"  cif  25121827  D_1001408039  7HX3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+193  G_1002329  A71EV2A-x4032-ligand_bound  A71EV2A-x4032.mmcif     model                cif    391424  D_1001408040  7HX4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+194  G_1002329  A71EV2A-x4032-ligand_bound  A71EV2A-x4032_sf.mmcif  "structure factors"  cif  16335355  D_1001408040  7HX4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+195  G_1002329  A71EV2A-x4035-ligand_bound  A71EV2A-x4035.mmcif     model                cif    386390  D_1001408041  7HX5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+196  G_1002329  A71EV2A-x4035-ligand_bound  A71EV2A-x4035_sf.mmcif  "structure factors"  cif  11741075  D_1001408041  7HX5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+197  G_1002329  A71EV2A-x4202-ligand_bound  A71EV2A-x4202.mmcif     model                cif    393497  D_1001408042  7HX6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+198  G_1002329  A71EV2A-x4202-ligand_bound  A71EV2A-x4202_sf.mmcif  "structure factors"  cif  22501659  D_1001408042  7HX6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+199  G_1002329  A71EV2A-x4203-ligand_bound  A71EV2A-x4203.mmcif     model                cif    198880  D_1001408043  7HX7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+200  G_1002329  A71EV2A-x4203-ligand_bound  A71EV2A-x4203_sf.mmcif  "structure factors"  cif   3588102  D_1001408043  7HX7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+201  G_1002329  A71EV2A-x4207-ligand_bound  A71EV2A-x4207.mmcif     model                cif    390984  D_1001408044  7HX8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+202  G_1002329  A71EV2A-x4207-ligand_bound  A71EV2A-x4207_sf.mmcif  "structure factors"  cif  10139338  D_1001408044  7HX8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+203  G_1002329  A71EV2A-x4209-ligand_bound  A71EV2A-x4209.mmcif     model                cif    198648  D_1001408045  7HX9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+204  G_1002329  A71EV2A-x4209-ligand_bound  A71EV2A-x4209_sf.mmcif  "structure factors"  cif   5160906  D_1001408045  7HX9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+205  G_1002329  A71EV2A-x4214-ligand_bound  A71EV2A-x4214.mmcif     model                cif    390463  D_1001408046  7HXA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+206  G_1002329  A71EV2A-x4214-ligand_bound  A71EV2A-x4214_sf.mmcif  "structure factors"  cif  14085330  D_1001408046  7HXA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+207  G_1002329  A71EV2A-x4237-ligand_bound  A71EV2A-x4237.mmcif     model                cif    404093  D_1001408047  7HXB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+208  G_1002329  A71EV2A-x4237-ligand_bound  A71EV2A-x4237_sf.mmcif  "structure factors"  cif  15029364  D_1001408047  7HXB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+209  G_1002329  A71EV2A-x4239-ligand_bound  A71EV2A-x4239.mmcif     model                cif    203173  D_1001408048  7HXC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+210  G_1002329  A71EV2A-x4239-ligand_bound  A71EV2A-x4239_sf.mmcif  "structure factors"  cif   9504841  D_1001408048  7HXC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+211  G_1002329  A71EV2A-x4254-ligand_bound  A71EV2A-x4254.mmcif     model                cif    198562  D_1001408049  7HXD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+212  G_1002329  A71EV2A-x4254-ligand_bound  A71EV2A-x4254_sf.mmcif  "structure factors"  cif   4059670  D_1001408049  7HXD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+213  G_1002329  A71EV2A-x4260-ligand_bound  A71EV2A-x4260.mmcif     model                cif    199270  D_1001408050  7HXE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+214  G_1002329  A71EV2A-x4260-ligand_bound  A71EV2A-x4260_sf.mmcif  "structure factors"  cif   4463017  D_1001408050  7HXE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+215  G_1002329  A71EV2A-x4274-ligand_bound  A71EV2A-x4274.mmcif     model                cif    393665  D_1001408051  7HXF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+216  G_1002329  A71EV2A-x4274-ligand_bound  A71EV2A-x4274_sf.mmcif  "structure factors"  cif  27740396  D_1001408051  7HXF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+217  G_1002329  A71EV2A-x4283-ligand_bound  A71EV2A-x4283.mmcif     model                cif    392492  D_1001408052  7HXG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+218  G_1002329  A71EV2A-x4283-ligand_bound  A71EV2A-x4283_sf.mmcif  "structure factors"  cif  13604530  D_1001408052  7HXG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+219  G_1002329  A71EV2A-x4290-ligand_bound  A71EV2A-x4290.mmcif     model                cif    200259  D_1001408053  7HXH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+220  G_1002329  A71EV2A-x4290-ligand_bound  A71EV2A-x4290_sf.mmcif  "structure factors"  cif   5020538  D_1001408053  7HXH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+221  G_1002329  A71EV2A-x4291-ligand_bound  A71EV2A-x4291.mmcif     model                cif    392671  D_1001408054  7HXI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+222  G_1002329  A71EV2A-x4291-ligand_bound  A71EV2A-x4291_sf.mmcif  "structure factors"  cif  19150813  D_1001408054  7HXI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+223  G_1002329  A71EV2A-x4292-ligand_bound  A71EV2A-x4292.mmcif     model                cif    208437  D_1001408055  7HXJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+224  G_1002329  A71EV2A-x4292-ligand_bound  A71EV2A-x4292_sf.mmcif  "structure factors"  cif   8004729  D_1001408055  7HXJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+225  G_1002329  A71EV2A-x4295-ligand_bound  A71EV2A-x4295.mmcif     model                cif    401104  D_1001408056  7HXK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+226  G_1002329  A71EV2A-x4295-ligand_bound  A71EV2A-x4295_sf.mmcif  "structure factors"  cif  30012171  D_1001408056  7HXK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+227  G_1002329  A71EV2A-x4298-ligand_bound  A71EV2A-x4298.mmcif     model                cif    392770  D_1001408057  7HXL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+228  G_1002329  A71EV2A-x4298-ligand_bound  A71EV2A-x4298_sf.mmcif  "structure factors"  cif  20049781  D_1001408057  7HXL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+229  G_1002329  A71EV2A-x4303-ligand_bound  A71EV2A-x4303.mmcif     model                cif    400032  D_1001408058  7HXM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+230  G_1002329  A71EV2A-x4303-ligand_bound  A71EV2A-x4303_sf.mmcif  "structure factors"  cif  11930804  D_1001408058  7HXM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+231  G_1002329  A71EV2A-x4305-ligand_bound  A71EV2A-x4305.mmcif     model                cif    389529  D_1001408059  7HXN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+232  G_1002329  A71EV2A-x4305-ligand_bound  A71EV2A-x4305_sf.mmcif  "structure factors"  cif  15552752  D_1001408059  7HXN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+233  G_1002329  A71EV2A-x4306-ligand_bound  A71EV2A-x4306.mmcif     model                cif    210564  D_1001408060  7HXO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+234  G_1002329  A71EV2A-x4306-ligand_bound  A71EV2A-x4306_sf.mmcif  "structure factors"  cif   7695728  D_1001408060  7HXO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+235  G_1002329  A71EV2A-x4308-ligand_bound  A71EV2A-x4308.mmcif     model                cif    199889  D_1001408061  7HXP  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+236  G_1002329  A71EV2A-x4308-ligand_bound  A71EV2A-x4308_sf.mmcif  "structure factors"  cif   5241055  D_1001408061  7HXP  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+237  G_1002329  A71EV2A-x4309-ligand_bound  A71EV2A-x4309.mmcif     model                cif    401562  D_1001408062  7HXQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+238  G_1002329  A71EV2A-x4309-ligand_bound  A71EV2A-x4309_sf.mmcif  "structure factors"  cif  12241539  D_1001408062  7HXQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+239  G_1002329  A71EV2A-x4310-ligand_bound  A71EV2A-x4310.mmcif     model                cif    399122  D_1001408063  7HXR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+240  G_1002329  A71EV2A-x4310-ligand_bound  A71EV2A-x4310_sf.mmcif  "structure factors"  cif  20598012  D_1001408063  7HXR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+241  G_1002329  A71EV2A-x4311-ligand_bound  A71EV2A-x4311.mmcif     model                cif    397914  D_1001408064  7HXS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+242  G_1002329  A71EV2A-x4311-ligand_bound  A71EV2A-x4311_sf.mmcif  "structure factors"  cif  25625371  D_1001408064  7HXS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+243  G_1002329  A71EV2A-x4312-ligand_bound  A71EV2A-x4312.mmcif     model                cif    392920  D_1001408065  7HXT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+244  G_1002329  A71EV2A-x4312-ligand_bound  A71EV2A-x4312_sf.mmcif  "structure factors"  cif  15887035  D_1001408065  7HXT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+245  G_1002329  A71EV2A-x4313-ligand_bound  A71EV2A-x4313.mmcif     model                cif    389506  D_1001408066  7HXU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+246  G_1002329  A71EV2A-x4313-ligand_bound  A71EV2A-x4313_sf.mmcif  "structure factors"  cif  20818487  D_1001408066  7HXU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+247  G_1002329  A71EV2A-x4315-ligand_bound  A71EV2A-x4315.mmcif     model                cif    211738  D_1001408067  7HXV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+248  G_1002329  A71EV2A-x4315-ligand_bound  A71EV2A-x4315_sf.mmcif  "structure factors"  cif   8015652  D_1001408067  7HXV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+249  G_1002329  A71EV2A-x4316-ligand_bound  A71EV2A-x4316.mmcif     model                cif    395773  D_1001408068  7HXW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+250  G_1002329  A71EV2A-x4316-ligand_bound  A71EV2A-x4316_sf.mmcif  "structure factors"  cif  26019358  D_1001408068  7HXW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+251  G_1002329  A71EV2A-x4317-ligand_bound  A71EV2A-x4317.mmcif     model                cif    392440  D_1001408069  7HXX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+252  G_1002329  A71EV2A-x4317-ligand_bound  A71EV2A-x4317_sf.mmcif  "structure factors"  cif  23918198  D_1001408069  7HXX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+253  G_1002329  A71EV2A-x4319-ligand_bound  A71EV2A-x4319.mmcif     model                cif    200096  D_1001408070  7HXY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+254  G_1002329  A71EV2A-x4319-ligand_bound  A71EV2A-x4319_sf.mmcif  "structure factors"  cif   5243500  D_1001408070  7HXY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+255  G_1002329  A71EV2A-x4321-ligand_bound  A71EV2A-x4321.mmcif     model                cif    396150  D_1001408071  7HXZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+256  G_1002329  A71EV2A-x4321-ligand_bound  A71EV2A-x4321_sf.mmcif  "structure factors"  cif  12696354  D_1001408071  7HXZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+257  G_1002329  A71EV2A-x4322-ligand_bound  A71EV2A-x4322.mmcif     model                cif    393669  D_1001408072  7HY0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+258  G_1002329  A71EV2A-x4322-ligand_bound  A71EV2A-x4322_sf.mmcif  "structure factors"  cif  29325102  D_1001408072  7HY0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+259  G_1002329  A71EV2A-x4324-ligand_bound  A71EV2A-x4324.mmcif     model                cif    212613  D_1001408073  7HY1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+260  G_1002329  A71EV2A-x4324-ligand_bound  A71EV2A-x4324_sf.mmcif  "structure factors"  cif   9621014  D_1001408073  7HY1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+261  G_1002329  A71EV2A-x4331-ligand_bound  A71EV2A-x4331.mmcif     model                cif    390745  D_1001408074  7HY2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+262  G_1002329  A71EV2A-x4331-ligand_bound  A71EV2A-x4331_sf.mmcif  "structure factors"  cif  10554029  D_1001408074  7HY2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+263  G_1002329  A71EV2A-x4333-ligand_bound  A71EV2A-x4333.mmcif     model                cif    201896  D_1001408075  7HY3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+264  G_1002329  A71EV2A-x4333-ligand_bound  A71EV2A-x4333_sf.mmcif  "structure factors"  cif   6019334  D_1001408075  7HY3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+265  G_1002329  A71EV2A-x4334-ligand_bound  A71EV2A-x4334.mmcif     model                cif    393150  D_1001408076  7HY4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+266  G_1002329  A71EV2A-x4334-ligand_bound  A71EV2A-x4334_sf.mmcif  "structure factors"  cif  16753967  D_1001408076  7HY4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+267  G_1002329  A71EV2A-x4336-ligand_bound  A71EV2A-x4336.mmcif     model                cif    196721  D_1001408077  7HY5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+268  G_1002329  A71EV2A-x4336-ligand_bound  A71EV2A-x4336_sf.mmcif  "structure factors"  cif   3727600  D_1001408077  7HY5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+269  G_1002329  A71EV2A-x4341-ligand_bound  A71EV2A-x4341.mmcif     model                cif    200371  D_1001408078  7HY6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+270  G_1002329  A71EV2A-x4341-ligand_bound  A71EV2A-x4341_sf.mmcif  "structure factors"  cif   7721487  D_1001408078  7HY6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+271  G_1002329  A71EV2A-x4342-ligand_bound  A71EV2A-x4342.mmcif     model                cif    199203  D_1001408079  7HY7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+272  G_1002329  A71EV2A-x4342-ligand_bound  A71EV2A-x4342_sf.mmcif  "structure factors"  cif   5080169  D_1001408079  7HY7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+273  G_1002329  A71EV2A-x4343-ligand_bound  A71EV2A-x4343.mmcif     model                cif    389516  D_1001408080  7HY8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+274  G_1002329  A71EV2A-x4343-ligand_bound  A71EV2A-x4343_sf.mmcif  "structure factors"  cif  13677788  D_1001408080  7HY8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+275  G_1002329  A71EV2A-x4344-ligand_bound  A71EV2A-x4344.mmcif     model                cif    199541  D_1001408081  7HY9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+276  G_1002329  A71EV2A-x4344-ligand_bound  A71EV2A-x4344_sf.mmcif  "structure factors"  cif   5694429  D_1001408081  7HY9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+277  G_1002329  A71EV2A-x4346-ligand_bound  A71EV2A-x4346.mmcif     model                cif    198068  D_1001408082  7HYA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+278  G_1002329  A71EV2A-x4346-ligand_bound  A71EV2A-x4346_sf.mmcif  "structure factors"  cif   4283675  D_1001408082  7HYA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+279  G_1002329  A71EV2A-x4347-ligand_bound  A71EV2A-x4347.mmcif     model                cif    204533  D_1001408083  7HYB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+280  G_1002329  A71EV2A-x4347-ligand_bound  A71EV2A-x4347_sf.mmcif  "structure factors"  cif   6548152  D_1001408083  7HYB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+281  G_1002329  A71EV2A-x4350-ligand_bound  A71EV2A-x4350.mmcif     model                cif    199667  D_1001408084  7HYC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+282  G_1002329  A71EV2A-x4350-ligand_bound  A71EV2A-x4350_sf.mmcif  "structure factors"  cif   5053059  D_1001408084  7HYC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+283  G_1002329  A71EV2A-x4351-ligand_bound  A71EV2A-x4351.mmcif     model                cif    394103  D_1001408085  7HYD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+284  G_1002329  A71EV2A-x4351-ligand_bound  A71EV2A-x4351_sf.mmcif  "structure factors"  cif  18192963  D_1001408085  7HYD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+285  G_1002329  A71EV2A-x4365-ligand_bound  A71EV2A-x4365.mmcif     model                cif    397135  D_1001408086  7HYE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+286  G_1002329  A71EV2A-x4365-ligand_bound  A71EV2A-x4365_sf.mmcif  "structure factors"  cif  14819943  D_1001408086  7HYE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+287  G_1002329  A71EV2A-x4368-ligand_bound  A71EV2A-x4368.mmcif     model                cif    210071  D_1001408087  7HYF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+288  G_1002329  A71EV2A-x4368-ligand_bound  A71EV2A-x4368_sf.mmcif  "structure factors"  cif   4804277  D_1001408087  7HYF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+289  G_1002329  A71EV2A-x4372-ligand_bound  A71EV2A-x4372.mmcif     model                cif    199336  D_1001408088  7HYG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+290  G_1002329  A71EV2A-x4372-ligand_bound  A71EV2A-x4372_sf.mmcif  "structure factors"  cif   4682984  D_1001408088  7HYG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+291  G_1002329  A71EV2A-x4373-ligand_bound  A71EV2A-x4373.mmcif     model                cif    198948  D_1001408089  7HYH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+292  G_1002329  A71EV2A-x4373-ligand_bound  A71EV2A-x4373_sf.mmcif  "structure factors"  cif   7595155  D_1001408089  7HYH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+293  G_1002329  A71EV2A-x4374-ligand_bound  A71EV2A-x4374.mmcif     model                cif    394432  D_1001408090  7HYI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+294  G_1002329  A71EV2A-x4374-ligand_bound  A71EV2A-x4374_sf.mmcif  "structure factors"  cif  13125762  D_1001408090  7HYI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+295  G_1002329  A71EV2A-x4380-ligand_bound  A71EV2A-x4380.mmcif     model                cif    197941  D_1001408091  7HYJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+296  G_1002329  A71EV2A-x4380-ligand_bound  A71EV2A-x4380_sf.mmcif  "structure factors"  cif   4060649  D_1001408091  7HYJ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+297  G_1002329  A71EV2A-x4381-ligand_bound  A71EV2A-x4381.mmcif     model                cif    199017  D_1001408092  7HYK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+298  G_1002329  A71EV2A-x4381-ligand_bound  A71EV2A-x4381_sf.mmcif  "structure factors"  cif   4141643  D_1001408092  7HYK  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+299  G_1002329  A71EV2A-x4386-ligand_bound  A71EV2A-x4386.mmcif     model                cif    199192  D_1001408093  7HYL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+300  G_1002329  A71EV2A-x4386-ligand_bound  A71EV2A-x4386_sf.mmcif  "structure factors"  cif   9491927  D_1001408093  7HYL  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+301  G_1002329  A71EV2A-x4388-ligand_bound  A71EV2A-x4388.mmcif     model                cif    199782  D_1001408094  7HYM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+302  G_1002329  A71EV2A-x4388-ligand_bound  A71EV2A-x4388_sf.mmcif  "structure factors"  cif   7362653  D_1001408094  7HYM  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+303  G_1002329  A71EV2A-x4390-ligand_bound  A71EV2A-x4390.mmcif     model                cif    393730  D_1001408095  7HYN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+304  G_1002329  A71EV2A-x4390-ligand_bound  A71EV2A-x4390_sf.mmcif  "structure factors"  cif  25449665  D_1001408095  7HYN  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+305  G_1002329  A71EV2A-x4402-ligand_bound  A71EV2A-x4402.mmcif     model                cif    391948  D_1001408096  7HYO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+306  G_1002329  A71EV2A-x4402-ligand_bound  A71EV2A-x4402_sf.mmcif  "structure factors"  cif  34113613  D_1001408096  7HYO  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+307  G_1002329  A71EV2A-x4403-ligand_bound  A71EV2A-x4403.mmcif     model                cif    210651  D_1001408097  7HYP  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+308  G_1002329  A71EV2A-x4403-ligand_bound  A71EV2A-x4403_sf.mmcif  "structure factors"  cif   7372454  D_1001408097  7HYP  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+309  G_1002329  A71EV2A-x4409-ligand_bound  A71EV2A-x4409.mmcif     model                cif    396126  D_1001408098  7HYQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+310  G_1002329  A71EV2A-x4409-ligand_bound  A71EV2A-x4409_sf.mmcif  "structure factors"  cif  24828624  D_1001408098  7HYQ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+311  G_1002329  A71EV2A-x4415-ligand_bound  A71EV2A-x4415.mmcif     model                cif    201171  D_1001408099  7HYR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+312  G_1002329  A71EV2A-x4415-ligand_bound  A71EV2A-x4415_sf.mmcif  "structure factors"  cif   6423327  D_1001408099  7HYR  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+313  G_1002329  A71EV2A-x4416-ligand_bound  A71EV2A-x4416.mmcif     model                cif    397384  D_1001408100  7HYS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+314  G_1002329  A71EV2A-x4416-ligand_bound  A71EV2A-x4416_sf.mmcif  "structure factors"  cif  35737153  D_1001408100  7HYS  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+315  G_1002329  A71EV2A-x4420-ligand_bound  A71EV2A-x4420.mmcif     model                cif    210960  D_1001408101  7HYT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+316  G_1002329  A71EV2A-x4420-ligand_bound  A71EV2A-x4420_sf.mmcif  "structure factors"  cif   7023303  D_1001408101  7HYT  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+317  G_1002329  A71EV2A-x4421-ligand_bound  A71EV2A-x4421.mmcif     model                cif    205612  D_1001408102  7HYU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+318  G_1002329  A71EV2A-x4421-ligand_bound  A71EV2A-x4421_sf.mmcif  "structure factors"  cif  10697576  D_1001408102  7HYU  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+319  G_1002329  A71EV2A-x4423-ligand_bound  A71EV2A-x4423.mmcif     model                cif    206634  D_1001408103  7HYV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+320  G_1002329  A71EV2A-x4423-ligand_bound  A71EV2A-x4423_sf.mmcif  "structure factors"  cif   6218555  D_1001408103  7HYV  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+321  G_1002329  A71EV2A-x4429-ligand_bound  A71EV2A-x4429.mmcif     model                cif    202665  D_1001408104  7HYW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+322  G_1002329  A71EV2A-x4429-ligand_bound  A71EV2A-x4429_sf.mmcif  "structure factors"  cif   7688447  D_1001408104  7HYW  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+323  G_1002329  A71EV2A-x4431-ligand_bound  A71EV2A-x4431.mmcif     model                cif    200273  D_1001408105  7HYX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+324  G_1002329  A71EV2A-x4431-ligand_bound  A71EV2A-x4431_sf.mmcif  "structure factors"  cif   4579357  D_1001408105  7HYX  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+325  G_1002329  A71EV2A-x4445-ligand_bound  A71EV2A-x4445.mmcif     model                cif    397577  D_1001408106  7HYY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+326  G_1002329  A71EV2A-x4445-ligand_bound  A71EV2A-x4445_sf.mmcif  "structure factors"  cif  25915666  D_1001408106  7HYY  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+327  G_1002329  A71EV2A-x4447-ligand_bound  A71EV2A-x4447.mmcif     model                cif    393925  D_1001408107  7HYZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+328  G_1002329  A71EV2A-x4447-ligand_bound  A71EV2A-x4447_sf.mmcif  "structure factors"  cif  14132648  D_1001408107  7HYZ  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+329  G_1002329  A71EV2A-x4449-ligand_bound  A71EV2A-x4449.mmcif     model                cif    396303  D_1001408108  7HZ0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+330  G_1002329  A71EV2A-x4449-ligand_bound  A71EV2A-x4449_sf.mmcif  "structure factors"  cif  14961020  D_1001408108  7HZ0  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+331  G_1002329  A71EV2A-x4451-ligand_bound  A71EV2A-x4451.mmcif     model                cif    394720  D_1001408109  7HZ1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+332  G_1002329  A71EV2A-x4451-ligand_bound  A71EV2A-x4451_sf.mmcif  "structure factors"  cif  16274753  D_1001408109  7HZ1  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+333  G_1002329  A71EV2A-x4456-ligand_bound  A71EV2A-x4456.mmcif     model                cif    395571  D_1001408110  7HZ2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+334  G_1002329  A71EV2A-x4456-ligand_bound  A71EV2A-x4456_sf.mmcif  "structure factors"  cif  28559008  D_1001408110  7HZ2  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+335  G_1002329  A71EV2A-x4461-ligand_bound  A71EV2A-x4461.mmcif     model                cif    197886  D_1001408111  7HZ3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+336  G_1002329  A71EV2A-x4461-ligand_bound  A71EV2A-x4461_sf.mmcif  "structure factors"  cif   4721429  D_1001408111  7HZ3  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+337  G_1002329  A71EV2A-x4463-ligand_bound  A71EV2A-x4463.mmcif     model                cif    199896  D_1001408112  7HZ4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+338  G_1002329  A71EV2A-x4463-ligand_bound  A71EV2A-x4463_sf.mmcif  "structure factors"  cif   6379502  D_1001408112  7HZ4  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+339  G_1002329  A71EV2A-x4476-ligand_bound  A71EV2A-x4476.mmcif     model                cif    391620  D_1001408113  7HZ5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+340  G_1002329  A71EV2A-x4476-ligand_bound  A71EV2A-x4476_sf.mmcif  "structure factors"  cif  20693895  D_1001408113  7HZ5  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+341  G_1002329  A71EV2A-x4489-ligand_bound  A71EV2A-x4489.mmcif     model                cif    390894  D_1001408114  7HZ6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+342  G_1002329  A71EV2A-x4489-ligand_bound  A71EV2A-x4489_sf.mmcif  "structure factors"  cif  22498502  D_1001408114  7HZ6  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+343  G_1002329  A71EV2A-x4490-ligand_bound  A71EV2A-x4490.mmcif     model                cif    201984  D_1001408115  7HZ7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+344  G_1002329  A71EV2A-x4490-ligand_bound  A71EV2A-x4490_sf.mmcif  "structure factors"  cif   7298349  D_1001408115  7HZ7  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+345  G_1002329  A71EV2A-x4509-ligand_bound  A71EV2A-x4509.mmcif     model                cif    198800  D_1001408116  7HZ8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+346  G_1002329  A71EV2A-x4509-ligand_bound  A71EV2A-x4509_sf.mmcif  "structure factors"  cif   7084198  D_1001408116  7HZ8  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+347  G_1002329  A71EV2A-x4514-ligand_bound  A71EV2A-x4514.mmcif     model                cif    209753  D_1001408117  7HZ9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+348  G_1002329  A71EV2A-x4514-ligand_bound  A71EV2A-x4514_sf.mmcif  "structure factors"  cif   7754289  D_1001408117  7HZ9  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+349  G_1002329  A71EV2A-x4519-ligand_bound  A71EV2A-x4519.mmcif     model                cif    396458  D_1001408118  7HZA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+350  G_1002329  A71EV2A-x4519-ligand_bound  A71EV2A-x4519_sf.mmcif  "structure factors"  cif  15220907  D_1001408118  7HZA  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+351  G_1002329  A71EV2A-x4524-ligand_bound  A71EV2A-x4524.mmcif     model                cif    389693  D_1001408119  7HZB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+352  G_1002329  A71EV2A-x4524-ligand_bound  A71EV2A-x4524_sf.mmcif  "structure factors"  cif  17546396  D_1001408119  7HZB  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+353  G_1002329  A71EV2A-x4537-ligand_bound  A71EV2A-x4537.mmcif     model                cif    204806  D_1001408120  7HZC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+354  G_1002329  A71EV2A-x4537-ligand_bound  A71EV2A-x4537_sf.mmcif  "structure factors"  cif   9295062  D_1001408120  7HZC  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+355  G_1002329  A71EV2A-x4538-ligand_bound  A71EV2A-x4538.mmcif     model                cif    197414  D_1001408121  7HZD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+356  G_1002329  A71EV2A-x4538-ligand_bound  A71EV2A-x4538_sf.mmcif  "structure factors"  cif   4707981  D_1001408121  7HZD  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+357  G_1002329  A71EV2A-x4540-ligand_bound  A71EV2A-x4540.mmcif     model                cif    196689  D_1001408122  7HZE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+358  G_1002329  A71EV2A-x4540-ligand_bound  A71EV2A-x4540_sf.mmcif  "structure factors"  cif   3203641  D_1001408122  7HZE  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+359  G_1002329  A71EV2A-x4541-ligand_bound  A71EV2A-x4541.mmcif     model                cif    392332  D_1001408123  7HZF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+360  G_1002329  A71EV2A-x4541-ligand_bound  A71EV2A-x4541_sf.mmcif  "structure factors"  cif  13691588  D_1001408123  7HZF  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+361  G_1002329  A71EV2A-x4544-ligand_bound  A71EV2A-x4544.mmcif     model                cif    198364  D_1001408124  7HZG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+362  G_1002329  A71EV2A-x4544-ligand_bound  A71EV2A-x4544_sf.mmcif  "structure factors"  cif   5214048  D_1001408124  7HZG  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+363  G_1002329  A71EV2A-x4547-ligand_bound  A71EV2A-x4547.mmcif     model                cif    210591  D_1001408125  7HZH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+364  G_1002329  A71EV2A-x4547-ligand_bound  A71EV2A-x4547_sf.mmcif  "structure factors"  cif  10168769  D_1001408125  7HZH  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+365  G_1002329  A71EV2A-x4554-ligand_bound  A71EV2A-x4554.mmcif     model                cif    197976  D_1001408126  7HZI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+366  G_1002329  A71EV2A-x4554-ligand_bound  A71EV2A-x4554_sf.mmcif  "structure factors"  cif   4250179  D_1001408126  7HZI  A71EV2A_modified_max_090125.tar.bz2  2025-01-10:05:59  
+##
