@@ -105,7 +105,7 @@ def processList(l_id, category, l_item_category):
             id = l_id[i]
             d_category = results_list[i]
             logger.info(f"Processing {id} with category {d_category}")    
-            d_category[id] = d_category # for a key [the id], add category info
+            d_category_all[id] = d_category # for a key [the id], add category info
             
         except IndexError as e:
             logger.error("entry %s with error %s", id, e)
