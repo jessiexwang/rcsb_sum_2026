@@ -94,25 +94,26 @@ def processList(l_id, category, l_item_category):
         results = executor.map(workerOne, l_id_test, category)
     # map returns a generator, so convert to list if needed
     results_list = list(results)
+    print(results_list)
 
-    d_category_all = {}
+    # d_category_all = {}
 
-    for i in range(len(l_id_test)):
-        try:
-            id = l_id[i]
-            d_category = results_list[i]
-            logger.info(f"Processing {id} with category {d_category}")    
-            d_category[id] = d_category # for a key [the id], add category info
+    # for i in range(len(l_id_test)):
+    #     try:
+    #         id = l_id[i]
+    #         d_category = results_list[i]
+    #         logger.info(f"Processing {id} with category {d_category}")    
+    #         d_category[id] = d_category # for a key [the id], add category info
             
-        except IndexError as e:
-            logger.error("entry %s with error %s", id, e)
-            continue
+    #     except IndexError as e:
+    #         logger.error("entry %s with error %s", id, e)
+    #         continue
 
-    fn_category = category + ".tsv"
-    fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
+    # fn_category = category + ".tsv"
+    # fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
 
 
-    writeDictToFile(d_category_all, fp_category, l_item_category)
+    # writeDictToFile(d_category_all, fp_category, l_item_category)
         
 
 def main():
