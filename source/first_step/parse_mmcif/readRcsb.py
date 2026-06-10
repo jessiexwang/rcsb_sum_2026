@@ -126,7 +126,8 @@ def main():
     # # logger.info(l_id)
     category = 'struct_keywords'
     l_id = ["D_1001407944"]
-    processList(l_id, category)    
+    l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
+    processList(l_id, category, l_struct_keywords)    
 
 if __name__ == "__main__":
     main()
