@@ -74,12 +74,11 @@ def workerOne(category, id):
 
     logger.info("filepath at %s", fp)
     reader = LegacyReader(fp)
-    print(reader.dc0.getObjNameList())
-    # reader.readCategory(category) # read category, save to dictionary
-    # reader.cleanDict() #clean
-    # rt_data = reader.d_category # return a dictionary
+    reader.readCategory(category) # read category, save to dictionary
+    reader.cleanDict() #clean
+    rt_data = reader.d_category # return a dictionary
 
-    # return rt_data
+    return rt_data
 
 def processList(l_id, category, l_item_category):
     """a method to take a list of data files and extracts information from each file  of thelist into two dictionaries: one for  audit contact information and one for  primary citation information. Then, it converts each dictionary into a tsv file.
@@ -128,13 +127,14 @@ def main():
     #     l_id = f.read().splitlines() # list of ids, split file at a new line 
 
     # # logger.info(l_id)
-    category = '_database_2'
+
+
+    category = '_entity_poly_seq'
     id = "D_1001407944"
     l_id = ["D_1001407944"]
-    # l_struct_keywords = ['_database_2.database_id', '_database_2.database_code', '_database_2.pdbx_database_accession', '_database_2.pdbx_DOI']
-    # processList(l_id, category, l_struct_keywords) 
-
-    workerOne(category, id)   
+    l_struct_keywords = ['_entity_poly_seq.entity_id', '_entity_poly_seq', '_entity_poly_seq.mon_id', '_entity_poly_seq.hetero']
+    processList(l_id, category, l_struct_keywords) 
+  
 
 if __name__ == "__main__":
     main()
