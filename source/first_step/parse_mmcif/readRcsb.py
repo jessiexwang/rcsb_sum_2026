@@ -69,7 +69,7 @@ def writeDictToFile(d_all, fp, l_item):
     return True
 
 def workerOne(id, category):
-    fp = os.path.join(DATA_DIR, "G_1002329",id + ".cif")
+    fp = os.path.join(DATA_DIR, "G_1002329", id + ".cif")
 
     logger.info("filepath at %s", fp)
     reader = LegacyReader(fp)
@@ -126,8 +126,9 @@ def main():
 
     # # logger.info(l_id)
     category = 'struct_keywords'
+    id = "D_1001407944"
     l_id = ["D_1001407944"]
-    print(workerOne(l_id, category))
+    print(workerOne(id, category))
     #l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
     #processList(l_id, category, l_struct_keywords)    
 
