@@ -127,10 +127,10 @@ def main():
     #     l_id = f.read().splitlines() # list of ids, split file at a new line 
 
     # # logger.info(l_id)
-    category = 'struct_keywords'
+    category = '_database_2'
     id = "D_1001407944"
-    l_id = ["D_1001407944", "D_1001407945"]
-    l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
+    l_id = ["D_1001407944"]
+    l_struct_keywords = ['_database_2.database_id', '_database_2.database_code', '_database_2.pdbx_database_accession', '_database_2.pdbx_DOI']
     processList(l_id, category, l_struct_keywords)    
 
 if __name__ == "__main__":
