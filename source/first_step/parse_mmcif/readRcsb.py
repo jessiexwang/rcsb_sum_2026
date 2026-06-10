@@ -127,7 +127,7 @@ def main():
     #     l_id = f.read().splitlines() # list of ids, split file at a new line 
 
     # # logger.info(l_id)
-    category = "_struct_keywords"
+    category = 'struct_keywords'
     id = "D_1001407944"
     workerOne(id, category)
     #processList(l_id, category)    
