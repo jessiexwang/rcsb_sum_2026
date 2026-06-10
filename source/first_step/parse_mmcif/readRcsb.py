@@ -1,6 +1,7 @@
 import csv
 import os
 import sys
+import functools
 
 from concurrent.futures import ProcessPoolExecutor
 
@@ -90,8 +91,10 @@ def processList(l_id, category, l_item_category):
 
     l_id_test = l_id
 
+    partial_workerOne = functools.partial(workerOne, category)
+
     with ProcessPoolExecutor() as executor:
-        results = executor.map(workerOne, l_id_test, category)
+        results = executor.map(partial_workerOne, l_id_test)
     # map returns a generator, so convert to list if needed
     results_list = list(results)
     print(results_list)
@@ -128,9 +131,8 @@ def main():
     category = 'struct_keywords'
     id = "D_1001407944"
     l_id = ["D_1001407944"]
-    print(workerOne(id, category))
-    #l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
-    #processList(l_id, category, l_struct_keywords)    
+    l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
+    processList(l_id, category, l_struct_keywords)    
 
 if __name__ == "__main__":
     main()
