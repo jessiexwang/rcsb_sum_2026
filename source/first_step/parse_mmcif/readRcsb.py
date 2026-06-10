@@ -69,7 +69,7 @@ def writeDictToFile(d_all, fp, l_item):
     return True
 
 def workerOne(id, category):
-    fp = os.path.join(DATA_DIR, "G_1002329",id, ".cif")
+    fp = os.path.join(DATA_DIR, "G_1002329",id + ".cif")
 
     logger.info("filepath at %s", fp)
     reader = LegacyReader(fp)
