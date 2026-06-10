@@ -74,7 +74,9 @@ def workerOne(category, id):
 
     logger.info("filepath at %s", fp)
     reader = LegacyReader(fp)
-    print(category not in reader.dc0.getObjNameList())
+    print(category)
+    print(type(category))
+    print(reader.dc0.getObjNameList())
     # reader.readCategory(category) # read category, save to dictionary
     # reader.cleanDict() #clean
     # rt_data = reader.d_category # return a dictionary
