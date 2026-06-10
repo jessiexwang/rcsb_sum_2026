@@ -74,12 +74,10 @@ def workerOne(id, category):
     logger.info("filepath at %s", fp)
     reader = LegacyReader(fp)
     reader.readCategory(category) # read category, save to dictionary
-    
-    print(reader.d_category)
-    #reader.cleanDict() #clean
-    #rt_data = reader.d_category # return a dictionary
+    reader.cleanDict() #clean
+    rt_data = reader.d_category # return a dictionary
 
-    #return rt_data
+    return rt_data
 
 def processList(l_id, category):
     """a method to take a list of data files and extracts information from each file  of thelist into two dictionaries: one for  audit contact information and one for  primary citation information. Then, it converts each dictionary into a tsv file.
@@ -128,7 +126,8 @@ def main():
     # # logger.info(l_id)
     category = 'struct_keywords'
     id = "D_1001407944"
-    workerOne(id, category)
+    res = workerOne(id, category)
+    print(res)
     #processList(l_id, category)    
 
 if __name__ == "__main__":
