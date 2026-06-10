@@ -79,7 +79,7 @@ def workerOne(id, category):
 
     return rt_data
 
-def processList(l_id, category):
+def processList(l_id, category, l_item_category):
     """a method to take a list of data files and extracts information from each file  of thelist into two dictionaries: one for  audit contact information and one for  primary citation information. Then, it converts each dictionary into a tsv file.
     
     Returns:
@@ -111,8 +111,8 @@ def processList(l_id, category):
     fn_category = category + ".tsv"
     fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
 
-    l_item_contact = ['_audit_contact_author.name', '_audit_contact_author.address', '_audit_contact_author.phone', '_audit_contact_author.fax', '_audit_contact_author.email']
-    writeDictToFile(d_category_all, fp_category, l_item_contact)
+
+    writeDictToFile(d_category_all, fp_category, l_item_category)
         
 
 def main():
@@ -125,10 +125,8 @@ def main():
 
     # # logger.info(l_id)
     category = 'struct_keywords'
-    id = "D_1001407944"
-    res = workerOne(id, category)
-    print(res)
-    #processList(l_id, category)    
+    l_id = ["D_1001407944"]
+    processList(l_id, category)    
 
 if __name__ == "__main__":
     main()
