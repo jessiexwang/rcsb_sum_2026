@@ -73,8 +73,10 @@ def workerOne(id, category):
 
     logger.info("filepath at %s", fp)
     reader = LegacyReader(fp)
-    reader.readCategory(category) # read category, save to dictionary
-    print(reader.d_category)
+    print(reader.l_dc)
+    #reader.readCategory(category) # read category, save to dictionary
+    
+    #print(reader.d_category)
     #reader.cleanDict() #clean
     #rt_data = reader.d_category # return a dictionary
 
