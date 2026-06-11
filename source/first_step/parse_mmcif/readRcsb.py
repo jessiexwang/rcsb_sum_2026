@@ -2,6 +2,7 @@ import csv
 import os
 import sys
 import functools
+import json
 
 from concurrent.futures import ProcessPoolExecutor
 
@@ -113,8 +114,13 @@ def processList_id(l_id, category, l_item_category):
 
     fn_category = category + ".tsv"
     fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
+    fn_category_json = category + ".json"
 
     writeDictToFile(d_category_all, fp_category, l_item_category)
+
+    with open(fn_category_json, 'w') as fp:
+        json.dump(d_category_all, fp)
+
 
 
 def processList_category(l_id, l_category, l_item_category):
