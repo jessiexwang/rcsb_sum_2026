@@ -137,18 +137,18 @@ def main():
 
 
     category = 'exptl_crystal_grow'
-    category2 = 'source_diffrn_source'
+    category2 = 'source_diffrn'
     l_category = ['exptl_crystal_grow', 'diffrn_radiation_wavelength', 'source_diffrn_source']
     id = "D_1001407944"
     l_id = ["D_1001407944", "D_1001407945"]
     l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
     l_crystal_grow = ['_exptl_crystal_grow.temp', '_exptl_crystal_grow.method']
     l_radiation_wl = ['_diffrn_radiation_wavelength.wavelength']
-    l_diffrn_source = ['_source_diffrn_source.type']
+    l_diffrn_source = ['_source_diffrn.type']
     l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
 
-    processList_id(l_id, category2, l_diffrn_source)
-    #processList_category(l_id, l_category, l_item_cat) 
+    #processList_id(l_id, category2, l_diffrn_source)
+    processList_category(l_id, l_category, l_item_cat) 
     
 
 if __name__ == "__main__":
