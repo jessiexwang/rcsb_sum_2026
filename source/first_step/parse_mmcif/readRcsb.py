@@ -117,9 +117,11 @@ def processList_id(l_id, category, l_item_category):
     writeDictToFile(d_category_all, fp_category, l_item_category)
 
 
-def processList_category(l_category, l_id, l_item_category):
-    for i in range(len(l_category)):
-        processList_id(l_id=l_id, category=l_category[i], l_item_category=l_item_category[i])
+def processList_category(l_id, l_category, l_item_category):
+    partial_processList_id = functools.partial(processList_id, l_id)
+
+    with ProcessPoolExecutor() as executor:
+        results = executor.map(partial_processList_id, l_category, l_item_category)
 
         
 
