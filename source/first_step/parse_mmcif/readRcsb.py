@@ -138,7 +138,7 @@ def main():
 
     category = 'exptl_crystal_grow'
     category2 = 'source_diffrn'
-    l_category = ['exptl_crystal_grow', 'diffrn_radiation_wavelength', 'source_diffrn_source']
+    l_category = ['exptl_crystal_grow', 'diffrn_radiation_wavelength', 'source_diffrn']
     id = "D_1001407944"
     l_id = ["D_1001407944", "D_1001407945"]
     l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
