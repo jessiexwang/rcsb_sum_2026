@@ -80,7 +80,7 @@ def workerOne(category, id):
 
     return rt_data
 
-def processList(l_id, category, l_item_category):
+def processList_id(l_id, category, l_item_category):
     """a method to take a list of data files and extracts information from each file  of thelist into two dictionaries: one for  audit contact information and one for  primary citation information. Then, it converts each dictionary into a tsv file.
     
     Returns:
@@ -114,8 +114,15 @@ def processList(l_id, category, l_item_category):
     fn_category = category + ".tsv"
     fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
 
-
     writeDictToFile(d_category_all, fp_category, l_item_category)
+
+
+def processList_category(l_category, l_id, l_item_category):
+    partial_processList_id = functools.partial(processList_id, l_id)
+
+    with ProcessPoolExecutor() as executor:
+        results = executor.map(partial_processList_id, l_category, l_item_category)
+
         
 
 def main():
@@ -130,10 +137,15 @@ def main():
 
 
     category = 'entity_poly_seq'
-    id = "D_1001407944"
-    l_id = ["D_1001407944"]
-    l_struct_keywords = ['_entity_poly_seq.entity_id', '_entity_poly_seq.num', '_entity_poly_seq.mon_id', '_entity_poly_seq.hetero']
-    processList(l_id, category, l_struct_keywords) 
+    l_category = ['exptl_crystal_grow', 'diffrn_radiation_wavelength', 'source_diffrn_source']
+    #id = "D_1001407944"
+    l_id = ["D_1001407944", "D_1001407944"]
+    l_crystal_grow = ['_exptl_crystal_grow.temp', '_exptl_crystal_grow.method']
+    l_radiation_wl = ['_diffrn_radiation_wavelength.wavelength']
+    l_diffrn_source = ['_source_diffrn_source.type']
+    l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
+    #l_struct_keywords = ['_entity_poly_seq.entity_id', '_entity_poly_seq.num', '_entity_poly_seq.mon_id', '_entity_poly_seq.hetero']
+    processList_category(l_id, l_category, l_item_cat) 
     
 
 if __name__ == "__main__":
