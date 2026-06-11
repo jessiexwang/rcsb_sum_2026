@@ -136,16 +136,18 @@ def main():
     # # logger.info(l_id)
 
 
-    category = 'entity_poly_seq'
+    category = 'exptl_crystal_grow'
     l_category = ['exptl_crystal_grow', 'diffrn_radiation_wavelength', 'source_diffrn_source']
-    #id = "D_1001407944"
+    id = "D_1001407944"
     l_id = ["D_1001407944", "D_1001407944"]
+    l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
     l_crystal_grow = ['_exptl_crystal_grow.temp', '_exptl_crystal_grow.method']
     l_radiation_wl = ['_diffrn_radiation_wavelength.wavelength']
     l_diffrn_source = ['_source_diffrn_source.type']
     l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
-    #l_struct_keywords = ['_entity_poly_seq.entity_id', '_entity_poly_seq.num', '_entity_poly_seq.mon_id', '_entity_poly_seq.hetero']
-    processList_category(l_id, l_category, l_item_cat) 
+
+    processList_id(l_id, category, l_crystal_grow)
+    #processList_category(l_id, l_category, l_item_cat) 
     
 
 if __name__ == "__main__":
