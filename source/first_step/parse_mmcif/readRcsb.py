@@ -104,7 +104,7 @@ def processList_id(l_id, category, l_item_category):
         try:
             id = l_id[i]
             d_category = results_list[i]
-            logger.info(f"Processing {id} with category {d_category}")    
+            logger.info(f"Processing {id} with category {category}")    
             d_category_all[id] = d_category # for a key [the id], add category info
             
         except IndexError as e:
@@ -137,6 +137,7 @@ def main():
 
 
     category = 'exptl_crystal_grow'
+    category2 = 'source_diffrn_source'
     l_category = ['exptl_crystal_grow', 'diffrn_radiation_wavelength', 'source_diffrn_source']
     id = "D_1001407944"
     l_id = ["D_1001407944", "D_1001407945"]
@@ -146,8 +147,8 @@ def main():
     l_diffrn_source = ['_source_diffrn_source.type']
     l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
 
-    #processList_id(l_id, category, l_crystal_grow)
-    processList_category(l_id, l_category, l_item_cat) 
+    processList_id(l_id, category2, l_diffrn_source)
+    #processList_category(l_id, l_category, l_item_cat) 
     
 
 if __name__ == "__main__":
