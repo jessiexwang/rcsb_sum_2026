@@ -118,9 +118,8 @@ def processList_id(l_id, category, l_item_category):
 
 
 def processList_category(l_category, l_id, l_item_category):
-
-    with ProcessPoolExecutor() as executor:
-        results = executor.map(processList_id,l_id, l_category, l_item_category)
+    for i in l_category:
+        processList_id(l_id, l_category[i], l_item_category[i])
 
         
 
