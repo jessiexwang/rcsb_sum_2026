@@ -61,7 +61,7 @@ def writeDictToFile(d_all, fp, l_item):
                 for i in range(len(list(d_one.values())[0])): # for every value in the dictionary
                     l_line = [id] # new line staring w id
                     for item in l_item: # item (not category)
-                        l_line.append(d_one[item][i]) # add all contact info (items only)
+                        l_line.append(d_one[item][i]) # add all info (items only)
                     f.write("\t".join(l_line)) # combine into a line w a tab separation
                     f.write("\n") # new line for  new data
             else:
@@ -118,10 +118,9 @@ def processList_id(l_id, category, l_item_category):
 
 
 def processList_category(l_category, l_id, l_item_category):
-    partial_processList_id = functools.partial(processList_id, l_id)
 
     with ProcessPoolExecutor() as executor:
-        results = executor.map(partial_processList_id, l_category, l_item_category)
+        results = executor.map(processList_id,l_id, l_category, l_item_category)
 
         
 
@@ -146,8 +145,8 @@ def main():
     l_diffrn_source = ['_source_diffrn_source.type']
     l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
 
-    processList_id(l_id, category, l_crystal_grow)
-    #processList_category(l_id, l_category, l_item_cat) 
+    #processList_id(l_id, category, l_crystal_grow)
+    processList_category(l_id, l_category, l_item_cat) 
     
 
 if __name__ == "__main__":
