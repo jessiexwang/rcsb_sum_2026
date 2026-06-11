@@ -118,7 +118,7 @@ def processList_id(l_id, category, l_item_category):
 
 
 def processList_category(l_category, l_id, l_item_category):
-    for i in len(l_category):
+    for i in range(len(l_category)):
         processList_id(l_id, l_category[i], l_item_category[i])
 
         
