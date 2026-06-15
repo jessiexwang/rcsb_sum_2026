@@ -97,45 +97,47 @@ def processList_id(l_id, category, l_item_category):
     with ProcessPoolExecutor() as executor:
         results = executor.map(partial_workerOne, l_id_test)
     # map returns a generator, so convert to list if needed
+    print(results)
     results_list = list(results)
+    print(results_list)
 
-    d_category_all = {}
+#     d_category_all = {}
 
-    for i in range(len(l_id_test)):
-        try:
-            id = l_id[i]
-            d_category = results_list[i]
-            logger.info(f"Processing {id} with category {category}")    
-            d_category_all[id] = d_category # for a key [the id], add category info
+#     for i in range(len(l_id_test)):
+#         try:
+#             id = l_id[i]
+#             d_category = results_list[i]
+#             logger.info(f"Processing {id} with category {category}")    
+#             d_category_all[id] = d_category # for a key [the id], add category info
             
-        except IndexError as e:
-            logger.error("entry %s with error %s", id, e)
-            continue
+#         except IndexError as e:
+#             logger.error("entry %s with error %s", id, e)
+#             continue
 
-    fn_category = category + ".tsv"
-    fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
-    fn_category_json = category + ".json"
-    fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
+#     fn_category = category + ".tsv"
+#     fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
+#     fn_category_json = category + ".json"
+#     fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
 
-    writeDictToFile(d_category_all, fp_category, l_item_category)
+#     writeDictToFile(d_category_all, fp_category, l_item_category)
 
-    with open(fp_category_json, 'w') as fp:
-        json.dump(d_category_all, fp)
+#     with open(fp_category_json, 'w') as fp:
+#         json.dump(d_category_all, fp)
 
 
 
-def processList_category(l_id, l_category, l_item_category):
-    """ a method to parse info ids with a list of categories and a list of the corresponding attributes
+# def processList_category(l_id, l_category, l_item_category):
+#     """ a method to parse info ids with a list of categories and a list of the corresponding attributes
 
-    Args:
-        l_id (str): list of ids
-        l_category (str): list of categories
-        l_item_category (str): list of lists, each of attributes corresponding with l_category
-    """
-    partial_processList_id = functools.partial(processList_id, l_id)
+#     Args:
+#         l_id (str): list of ids
+#         l_category (str): list of categories
+#         l_item_category (str): list of lists, each of attributes corresponding with l_category
+#     """
+#     partial_processList_id = functools.partial(processList_id, l_id)
 
-    with ProcessPoolExecutor() as executor:
-        results = executor.map(partial_processList_id, l_category, l_item_category)
+#     with ProcessPoolExecutor() as executor:
+#         results = executor.map(partial_processList_id, l_category, l_item_category)
 
         
 
