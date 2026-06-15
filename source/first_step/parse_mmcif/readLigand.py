@@ -66,11 +66,10 @@ class readLignad():
 
     
     def searchNull(self, id_tuple):
-        dict = id_tuple[1]
-        print(dict['_pdbx_entity_instance_feature.ordinal'])
-        # dict['pdbx_entity_instance_feature.auth_comp_id'] = '?' # for testing purposes
-        # if dict['pdbx_entity_instance_feature.auth_comp_id'] == '?' or dict['pdbx_entity_instance_feature.auth_comp_id'] == '.' or dict['pdbx_entity_instance_feature.auth_comp_id'] == " ": 
-        #     self.l_id_null_val.append(id_tuple[0])
+        info = id_tuple[1]
+        info = info + "'pdbx_entity_instance_feature.comp_id': ['?']" # for testing
+        if "'pdbx_entity_instance_feature.comp_id': ['?']" in info or "'_pdbx_entity_instance_feature.comp_id': ['.']" in info or "'_pdbx_entity_instance_feature.comp_id': ['']" in info: 
+            self.l_id_null_val.append(id_tuple[0])
 
         
     def filterLigand(self, group, l_id, l_category):
