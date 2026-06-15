@@ -125,6 +125,13 @@ def processList_id(l_id, category, l_item_category):
 
 
 def processList_category(l_id, l_category, l_item_category):
+    """ a method to parse info ids with a list of categories and a list of the corresponding attributes
+
+    Args:
+        l_id (str): list of ids
+        l_category (str): list of categories
+        l_item_category (str): list of lists, each of attributes corresponding with l_category
+    """
     partial_processList_id = functools.partial(processList_id, l_id)
 
     with ProcessPoolExecutor() as executor:
