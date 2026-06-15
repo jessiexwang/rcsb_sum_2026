@@ -68,7 +68,7 @@ class readLignad():
     def searchNull(self, id_tuple):
         info = id_tuple[1]
          # for testing
-        if "'_pdbx_entity_instance_feature.auth_seq_num': ['?']" in info or "'_pdbx_entity_instance_feature.comp_id': ['.']" in info or "'_pdbx_entity_instance_feature.comp_id': ['']" in info: 
+        if "'_pdbx_entity_instance_feature.auth_seq_num': ['?']" in info: #or "'_pdbx_entity_instance_feature.comp_id': ['.']" in info or "'_pdbx_entity_instance_feature.comp_id': ['']" in info: 
             self.l_id_null_val.append(id_tuple[0])
 
         
