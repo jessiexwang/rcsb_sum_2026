@@ -67,7 +67,8 @@ class readLignad():
     
     def searchNull(self, id_tuple):
         info = id_tuple[1]
-        if info['_pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
+        info['pdbx_entity_instance_feature.comp_id'] = ['?']
+        if info['pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
            self.l_id_null.append(id_tuple[0])
 
         
