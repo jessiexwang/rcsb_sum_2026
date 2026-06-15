@@ -48,7 +48,7 @@ class readLignad():
     def __init__(self):
         self.l_id_no_cat = []
         self.l_id_to_null =[]
-        self.l_id_no_null = []
+        self.l_id_null_val = []
 
     def searchCategory(self, group, id, category):
         fp = os.path.join(DATA_DIR, group, id + ".cif")
@@ -66,7 +66,10 @@ class readLignad():
 
     
     def searchNull(self, id_tuple):
-        print(id_tuple)
+        dict = id_tuple[1]
+        dict['pdbx_entity_instance_feature.auth_comp_id'] == '?' # for testing purposes
+        if dict['pdbx_entity_instance_feature.auth_comp_id'] == '?' or dict['pdbx_entity_instance_feature.auth_comp_id'] == '.' or dict['pdbx_entity_instance_feature.auth_comp_id'] == " ": 
+            self.l_id_null_val.append(id_tuple[0])
 
         
     def filterLigand(self, group, l_id, l_category):
