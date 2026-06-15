@@ -67,9 +67,10 @@ class readLignad():
     
     def searchNull(self, id_tuple):
         info = id_tuple[1]
-         # for testing
-        if "'_pdbx_entity_instance_feature.auth_seq_num': ['?']" in info: #or "'_pdbx_entity_instance_feature.comp_id': ['.']" in info or "'_pdbx_entity_instance_feature.comp_id': ['']" in info: 
-            self.l_id_null_val.append(id_tuple[0])
+        print(type(info))
+        #info = info + "'pdbx_entity_instance_feature.comp_id': ['?']" # for testing
+        #if "'pdbx_entity_instance_feature.comp_id': ['?']" in info or "'_pdbx_entity_instance_feature.comp_id': ['.']" in info or "'_pdbx_entity_instance_feature.comp_id': ['']" in info: 
+           # self.l_id_null_val.append(id_tuple[0])
 
         
     def filterLigand(self, group, l_id, l_category):
