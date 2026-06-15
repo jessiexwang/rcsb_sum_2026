@@ -161,8 +161,11 @@ def main():
     l_diffrn_source = ['_diffrn_source.type']
     l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
 
-    #processList_id(l_id, category2, l_diffrn_source)
-    processList_category(l_id, l_category, l_item_cat) 
+    category3 = 'citation_author'
+    l_citation_author = ['_citation_author.name', '_citation_author.ordinal']
+
+    processList_id(l_id, category3, l_citation_author)
+    #processList_category(l_id, l_category, l_item_cat) 
     
 
 if __name__ == "__main__":
