@@ -55,8 +55,8 @@ class readLignad():
         reader = LegacyReader(fp)
         res = reader.readCategory("_pdbx_entity_instance_feature")
         if res == False: # read category, save to dictionary
-            print("its false")
             self.l_id_pass.append(id)
+            print(self.l_id_pass)
             
         else:
             reader.cleanDict() #clean
