@@ -48,12 +48,12 @@ class readLignad():
     def __init__(self):
         self.l_id_pass = []
 
-    def searchCategory(self, group, id):
+    def searchCategory(self, group, id, category):
         fp = os.path.join(DATA_DIR, group, id + ".cif")
 
         logger.info("filepath at %s", fp)
         reader = LegacyReader(fp)
-        res = reader.readCategory("_pdbx_entity_instance_feature")
+        res = reader.readCategory(category)
         if res == False: # read category, save to dictionary)
             return id
             
@@ -67,11 +67,11 @@ class readLignad():
 
         pass
         
-    def filterLigand(self, group, l_id):
+    def filterLigand(self, group, l_id, l_category):
         partial_searchCategory = functools.partial(self.searchCategory, group)
 
         with ProcessPoolExecutor() as executor:
-            results = executor.map(partial_searchCategory, l_id)
+            results = executor.map(partial_searchCategory, l_id, l_category)
 
         results_list = list(results)
 
@@ -82,9 +82,11 @@ def main():
     l_id = ["D_1001407944", "D_1001407945"]
     group = 'G_1002329'
 
+    l_category = ["_pdbx_entity_instance_feature", "pdbx_entity_instance_feature"] # testing purposes
+
     rl = readLignad()
 
-    rl.filterLigand(group, l_id)
+    rl.filterLigand(group, l_id, l_category)
 
 
 
