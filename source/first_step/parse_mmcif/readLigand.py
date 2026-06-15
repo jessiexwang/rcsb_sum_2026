@@ -53,11 +53,11 @@ class readLignad():
 
         logger.info("filepath at %s", fp)
         reader = LegacyReader(fp)
-        if not reader.readCategory("_pdbx_entity_instance_feature"): # read category, save to dictionary
+        res = reader.readCategory("_pdbx_entity_instance_feature")
+        if not res: # read category, save to dictionary
             self.l_id_pass.append(id)
             
         else:
-            reader.readCategory("_pdbx_entity_instance_feature")
             reader.cleanDict() #clean
             rt_data = reader.d_category # return a dictionary
             return rt_data
