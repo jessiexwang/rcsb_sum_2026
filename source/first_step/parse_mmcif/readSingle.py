@@ -70,8 +70,8 @@ def writeDictToFile(d_all, fp, l_item):
                 continue
     return True
 
-def workerOne(category, id):
-    fp = os.path.join(DATA_DIR, "G_1002329", id + ".cif")
+def workerOne(category, group, id):
+    fp = os.path.join(DATA_DIR, group, id + ".cif")
 
     logger.info("filepath at %s", fp)
     reader = LegacyReader(fp)
@@ -81,7 +81,7 @@ def workerOne(category, id):
     
     return rt_data
 
-def processList_id(l_id, category, l_item_category):
+def processList_id(l_id, category, l_item_category, group):
     """a method to take a list of data files and extracts information from each file  of thelist into two dictionaries: one for  audit contact information and one for  primary citation information. Then, it converts each dictionary into a tsv file.
     
     Returns:
@@ -92,7 +92,7 @@ def processList_id(l_id, category, l_item_category):
 
     l_id_test = l_id
 
-    partial_workerOne = functools.partial(workerOne, category)
+    partial_workerOne = functools.partial(workerOne, category, group)
 
     with ProcessPoolExecutor() as executor:
         results = executor.map(partial_workerOne, l_id_test)
@@ -124,7 +124,7 @@ def processList_id(l_id, category, l_item_category):
 
 
 
-def processList_category(l_id, l_category, l_item_category):
+def processList_category(l_id, l_category, l_item_category, group):
     """ a method to parse info ids with a list of categories and a list of the corresponding attributes
 
     Args:
@@ -135,7 +135,7 @@ def processList_category(l_id, l_category, l_item_category):
     partial_processList_id = functools.partial(processList_id, l_id)
 
     with ProcessPoolExecutor() as executor:
-        results = executor.map(partial_processList_id, l_category, l_item_category)
+        results = executor.map(partial_processList_id, l_category, l_item_category, group)
 
         
 
@@ -160,12 +160,13 @@ def main():
     l_radiation_wl = ['_diffrn_radiation_wavelength.wavelength']
     l_diffrn_source = ['_diffrn_source.type']
     l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
+    group = 'G_1002329'
 
     #category3 = 'citation_author'
     #l_citation_author = ['_citation_author.name', '_citation_author.ordinal']
 
     #processList_id(l_id, category3, l_citation_author)
-    processList_category(l_id, l_category, l_item_cat) 
+    processList_category(l_id, l_category, l_item_cat, group) 
     
 
 if __name__ == "__main__":

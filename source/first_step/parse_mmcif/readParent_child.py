@@ -14,5 +14,27 @@ if not os.path.isdir(LOG_DIR):
     os.makedirs(LOG_DIR)
 
 
-sys.path.insert(0, SRC_DIR)
-from first_step.parse_mmcif.readLegacy import LegacyReader
+def sort():
+    """sort list of ids into diff processes
+    """
+    #Source, expression system
+    #Ligand
+    #Assembly (look at note on confluence)
+    #Polymer
+
+
+
+
+
+
+    pass
+
+
+def main():
+    pass
+
+
+
+
+if __name__ == "__main__":
+    main()
