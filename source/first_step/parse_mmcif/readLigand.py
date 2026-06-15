@@ -54,9 +54,8 @@ class readLignad():
         logger.info("filepath at %s", fp)
         reader = LegacyReader(fp)
         res = reader.readCategory("_pdbx_entity_instance_feature")
-        if res == False: # read category, save to dictionary
-            self.l_id_pass.append(id)
-            print(self.l_id_pass)
+        if res == False: # read category, save to dictionary)
+            return
             
         else:
             reader.cleanDict() #clean
@@ -76,7 +75,7 @@ class readLignad():
 
         results_list = list(results)
 
-        print(self.l_id_pass)
+        print(results_list)
 
 
 def main():
