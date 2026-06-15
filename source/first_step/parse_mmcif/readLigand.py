@@ -67,11 +67,12 @@ class readLignad():
 
     
     def searchNull(self, id_tuple):
-        info = id_tuple[1]
-        info = ast.literal_eval(info)
-        info['pdbx_entity_instance_feature.comp_id'] = ['?'] # for testing
-        if info['pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
-           self.l_id_null_val.append(id_tuple[0])
+        print(id_tuple)
+        # info = id_tuple[1]
+        # #info = ast.literal_eval(info)
+        # info['pdbx_entity_instance_feature.comp_id'] = ['?'] # for testing
+        # if info['pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
+        #    self.l_id_null_val.append(id_tuple[0])
 
         
     def filterLigand(self, group, l_id, l_category):
@@ -93,7 +94,7 @@ class readLignad():
         for i in range(len(self.l_id_to_null)):
             self.searchNull(self.l_id_to_null[i])
         
-        print(self.l_id_null_val)
+        #print(self.l_id_null_val)
         
             
 
