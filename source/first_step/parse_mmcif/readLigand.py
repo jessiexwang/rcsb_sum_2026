@@ -47,9 +47,8 @@ class readLignad():
 
 
     def __init__(self):
-        self.l_id_no_cat = []
+        self.l_id_null = []
         self.l_id_to_null =[]
-        self.l_id_null_val = []
 
     def searchCategory(self, group, id, category):
         fp = os.path.join(DATA_DIR, group, id + ".cif")
@@ -68,9 +67,8 @@ class readLignad():
     
     def searchNull(self, id_tuple):
         info = id_tuple[1]
-        info['pdbx_entity_instance_feature.comp_id'] = ['?'] # for testing
-        if info['pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
-           self.l_id_null_val.append(id_tuple[0])
+        if info['_pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
+           self.l_id_null.append(id_tuple[0])
 
         
     def filterLigand(self, group, l_id, l_category):
@@ -84,7 +82,7 @@ class readLignad():
 
         for i in range(len(results_list)):
             if type(results_list[i]) == str:
-                self.l_id_no_cat.append(results_list[i])
+                self.l_id_null.append(results_list[i])
 
             else: 
                 self.l_id_to_null.append(results_list[i])
@@ -95,8 +93,15 @@ class readLignad():
         for i in range(len(self.l_id_to_null)):
             self.searchNull(self.l_id_to_null[i])
         
-        print(self.l_id_null_val)
+        fn = "ligand_missing.list"
+        fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
         
+        with open(fp, 'w') as f:
+            # Join the list elements into a single string with a newline character
+            data_to_write = '\n'.join(self.l_id_null)
+    
+            # Write the data to the file
+            f.write(data_to_write)
             
 
 
