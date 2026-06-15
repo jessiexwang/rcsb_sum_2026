@@ -67,6 +67,7 @@ class readLignad():
 
     
     def searchNull(self, id_tuple):
+        print("printing id_tuple")
         print(id_tuple)
         # info = id_tuple[1]
         # #info = ast.literal_eval(info)
