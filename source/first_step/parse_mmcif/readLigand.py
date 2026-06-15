@@ -50,12 +50,12 @@ class readLignad():
         self.l_id_null = []
         self.l_id_to_null =[]
 
-    def searchCategory(self, group, id, category):
+    def searchCategory(self, group, id, ):
         fp = os.path.join(DATA_DIR, group, id + ".cif")
 
         logger.info("filepath at %s", fp)
         reader = LegacyReader(fp)
-        res = reader.readCategory(category)
+        res = reader.readCategory("pdbx_entity_instance_feature")
         if res == False: # read category, save to dictionary)
             return id
             
@@ -67,16 +67,15 @@ class readLignad():
     
     def searchNull(self, id_tuple):
         info = id_tuple[1]
-        info['pdbx_entity_instance_feature.comp_id'] = ['?']
-        if info['pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
+        if info['_pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
            self.l_id_null.append(id_tuple[0])
 
         
-    def filterLigand(self, group, l_id, l_category):
+    def filterLigand(self, group, l_id):
         partial_searchCategory = functools.partial(self.searchCategory, group)
 
         with ProcessPoolExecutor() as executor:
-            results = executor.map(partial_searchCategory, l_id, l_category)
+            results = executor.map(partial_searchCategory, l_id)
 
         results_list = list(results)
         
@@ -110,11 +109,11 @@ def main():
     l_id = ["D_1001407944", "D_1001407945"]
     group = 'G_1002329'
 
-    l_category = ["_pdbx_entity_instance_feature", "pdbx_entity_instance_feature"] # testing purposes
+    #l_category = ["_pdbx_entity_instance_feature", "pdbx_entity_instance_feature"] # testing purposes
 
     rl = readLignad()
 
-    rl.filterLigand(group, l_id, l_category)
+    rl.filterLigand(group, l_id)
 
 
 
