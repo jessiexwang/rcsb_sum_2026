@@ -89,11 +89,14 @@ class readLignad():
                 self.l_id_no_cat.append(results_list[i])
 
             else: 
-                self.l_id_to_null.append (results_list[i])
+                self.l_id_to_null.append(results_list[i])
+
+        print(self.l_id_no_cat)
+        print(self.l_id_to_null)
 
         
-        for i in range(len(self.l_id_to_null)):
-            self.searchNull(self.l_id_to_null[i])
+        #for i in range(len(self.l_id_to_null)):
+            #self.searchNull(self.l_id_to_null[i])
         
         #print(self.l_id_null_val)
         
