@@ -67,13 +67,10 @@ class readLignad():
 
     
     def searchNull(self, id_tuple):
-        print("printing id_tuple")
-        print(id_tuple)
-        # info = id_tuple[1]
-        # #info = ast.literal_eval(info)
-        # info['pdbx_entity_instance_feature.comp_id'] = ['?'] # for testing
-        # if info['pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
-        #    self.l_id_null_val.append(id_tuple[0])
+        info = id_tuple[1]
+        info['pdbx_entity_instance_feature.comp_id'] = ['?'] # for testing
+        if info['pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
+           self.l_id_null_val.append(id_tuple[0])
 
         
     def filterLigand(self, group, l_id, l_category):
@@ -84,22 +81,21 @@ class readLignad():
 
         results_list = list(results)
         
-        print(type(results_list[0]))
 
-        # for i in range(len(results_list)):
-        #     if type(results_list[i]) == "str":
-        #         self.l_id_no_cat.append(results_list[i])
+        for i in range(len(results_list)):
+            if type(results_list[i]) == str:
+                self.l_id_no_cat.append(results_list[i])
 
-        #     else: 
-        #         self.l_id_to_null.append(results_list[i])
-
-        
+            else: 
+                self.l_id_to_null.append(results_list[i])
 
         
-        #for i in range(len(self.l_id_to_null)):
-            #self.searchNull(self.l_id_to_null[i])
+
         
-        #print(self.l_id_null_val)
+        for i in range(len(self.l_id_to_null)):
+            self.searchNull(self.l_id_to_null[i])
+        
+        print(self.l_id_null_val)
         
             
 
