@@ -2,6 +2,7 @@ import os
 import sys
 import functools
 from concurrent.futures import ProcessPoolExecutor
+import ast
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 SRC_DIR = os.path.dirname(os.path.dirname(DIR))
@@ -67,10 +68,10 @@ class readLignad():
     
     def searchNull(self, id_tuple):
         info = id_tuple[1]
-        print(type(info))
-        #info = info + "'pdbx_entity_instance_feature.comp_id': ['?']" # for testing
-        #if "'pdbx_entity_instance_feature.comp_id': ['?']" in info or "'_pdbx_entity_instance_feature.comp_id': ['.']" in info or "'_pdbx_entity_instance_feature.comp_id': ['']" in info: 
-           # self.l_id_null_val.append(id_tuple[0])
+        info = ast.literal_eval(info)
+        info['pdbx_entity_instance_feature.comp_id'] = ['?'] # for testing
+        if info['pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
+           self.l_id_null_val.append(id_tuple[0])
 
         
     def filterLigand(self, group, l_id, l_category):
