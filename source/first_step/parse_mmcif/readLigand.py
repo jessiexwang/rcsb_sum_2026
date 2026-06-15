@@ -46,7 +46,9 @@ class readLignad():
 
 
     def __init__(self):
-        self.l_id_pass = []
+        self.l_id_no_cat = []
+        self.l_id_to_null =[]
+        self.l_id_no_null = []
 
     def searchCategory(self, group, id, category):
         fp = os.path.join(DATA_DIR, group, id + ".cif")
@@ -60,12 +62,12 @@ class readLignad():
         else:
             reader.cleanDict() #clean
             rt_data = reader.d_category # return a dictionary
-            return rt_data
+            return (id, rt_data)
 
     
-    def searchNull(self):
+    def searchNull(self, id_tuple):
+        print(id_tuple)
 
-        pass
         
     def filterLigand(self, group, l_id, l_category):
         partial_searchCategory = functools.partial(self.searchCategory, group)
@@ -75,7 +77,18 @@ class readLignad():
 
         results_list = list(results)
 
-        print(results_list)
+        for i in range(len(results_list)):
+            if type(results_list[i]) == "string":
+                self.l_id_no_cat.append(results_list[i])
+
+            else: 
+                self.l_id_to_null.append (results_list[i])
+
+        
+        for i in range(len(self.l_id_to_null)):
+            self.searchNull(self.l_id_to_null[i])
+        
+            
 
 
 def main():
