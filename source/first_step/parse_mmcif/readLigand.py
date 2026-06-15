@@ -1,5 +1,7 @@
 import os
 import sys
+import functools
+from concurrent.futures import ProcessPoolExecutor
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 SRC_DIR = os.path.dirname(os.path.dirname(DIR))
@@ -17,6 +19,26 @@ sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLegacy import LegacyReader
 
 
+#----------logging-----------
+import logging
+# logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+# logger = logging.getLogger(__name__)
+log_format = logging.Formatter(
+    '%(asctime)s - %(name)s - %(levelname)s - %(module)s - %(funcName)s:%(lineno)d - %(message)s')
+f_handler = logging.FileHandler(os.path.join(LOG_DIR, "readRcsb.log"), mode='w', encoding='utf-8')
+f_handler.setLevel(logging.DEBUG)
+f_handler.setFormatter(log_format)
+
+c_handler = logging.StreamHandler()
+c_handler.setLevel(logging.DEBUG)
+c_handler.setFormatter(log_format)
+
+logger = logging.getLogger("")
+logger.setLevel(logging.DEBUG)
+logger.addHandler(f_handler)
+logger.addHandler(c_handler)
+#-----------------------------
+
 class readLignad():
     """class to read the information needed from ligands
     """
@@ -26,23 +48,43 @@ class readLignad():
     def __init__(self):
         self.l_id_pass = []
 
-    def read(self, id):
-        fp = os.path.join(DATA_DIR, "G_1002329", id + ".cif")
+    def searchCategory(self, group, id):
+        fp = os.path.join(DATA_DIR, group, id + ".cif")
 
         logger.info("filepath at %s", fp)
         reader = LegacyReader(fp)
-        reader.readCategory(category) # read category, save to dictionary
-        reader.cleanDict() #clean
-        rt_data = reader.d_category # return a dictionary
+        if not reader.readCategory("_pdbx_entity_instance_feature"): # read category, save to dictionary
+            self.l_id_pass.append(id)
+            
+        else:
+            reader.readCategory("_pdbx_entity_instance_feature")
+            reader.cleanDict() #clean
+            rt_data = reader.d_category # return a dictionary
+            return rt_data
+
     
-        return rt_data
+    def searchNull(self):
+
+        pass
         
-        
-    
+    def filterLigand(self, group, l_id):
+        partial_searchCategory = functools.partial(self.searchCategory, group)
+
+        with ProcessPoolExecutor() as executor:
+            results = executor.map(partial_searchCategory, l_id)
+
+        results_list = list(results)
+
+        print(self.l_id_pass)
 
 
 def main():
-    pass
+    l_id = ["D_1001407944", "D_1001407945"]
+    group = 'G_1002329'
+
+    rl = readLignad()
+
+    rl.filterLigand(group, l_id)
 
 
 
