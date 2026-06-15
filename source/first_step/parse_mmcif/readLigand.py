@@ -83,16 +83,17 @@ class readLignad():
             results = executor.map(partial_searchCategory, l_id, l_category)
 
         results_list = list(results)
+        
+        print(results_list[0])
 
-        for i in range(len(results_list)):
-            if type(results_list[i]) == "string":
-                self.l_id_no_cat.append(results_list[i])
+        # for i in range(len(results_list)):
+        #     if type(results_list[i]) == "string":
+        #         self.l_id_no_cat.append(results_list[i])
 
-            else: 
-                self.l_id_to_null.append(results_list[i])
+        #     else: 
+        #         self.l_id_to_null.append(results_list[i])
 
-        print(self.l_id_no_cat)
-        print(self.l_id_to_null)
+        
 
         
         #for i in range(len(self.l_id_to_null)):
