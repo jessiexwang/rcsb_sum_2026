@@ -84,10 +84,10 @@ class readLignad():
 
         results_list = list(results)
         
-        print(results_list[0])
+        print(type(results_list[0]))
 
         # for i in range(len(results_list)):
-        #     if type(results_list[i]) == "string":
+        #     if type(results_list[i]) == "str":
         #         self.l_id_no_cat.append(results_list[i])
 
         #     else: 
