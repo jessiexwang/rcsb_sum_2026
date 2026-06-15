@@ -81,7 +81,7 @@ def workerOne(category, group, id):
     
     return rt_data
 
-def processList_id(l_id, category, l_item_category, group):
+def processList_id(l_id, group, category, l_item_category):
     """a method to take a list of data files and extracts information from each file  of thelist into two dictionaries: one for  audit contact information and one for  primary citation information. Then, it converts each dictionary into a tsv file.
     
     Returns:
@@ -132,10 +132,10 @@ def processList_category(l_id, l_category, l_item_category, group):
         l_category (str): list of categories
         l_item_category (str): list of lists, each of attributes corresponding with l_category
     """
-    partial_processList_id = functools.partial(processList_id, l_id)
+    partial_processList_id = functools.partial(processList_id, l_id, group)
 
     with ProcessPoolExecutor() as executor:
-        results = executor.map(partial_processList_id, l_category, l_item_category, group)
+        results = executor.map(partial_processList_id, l_category, l_item_category)
 
         
 
