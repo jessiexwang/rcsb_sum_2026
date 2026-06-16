@@ -170,7 +170,7 @@ def main():
     #category3 = 'citation_author'
     #l_citation_author = ['_citation_author.name', '_citation_author.ordinal']
 
-    processList_id(l_id2, category3, l_asym)
+    processList_id(l_id2, group, category3, l_asym)
     #processList_category(l_id, l_category, l_item_cat, group) 
     
 
