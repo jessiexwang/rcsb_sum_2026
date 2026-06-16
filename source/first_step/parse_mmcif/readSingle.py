@@ -78,6 +78,7 @@ def workerOne(category, group, id):
     reader.readCategory(category) # read category, save to dictionary
     reader.cleanDict() #clean
     rt_data = reader.d_category # return a dictionary
+    print(rt_data)
     
     return rt_data
 
@@ -152,8 +153,11 @@ def main():
 
     category = 'exptl_crystal_grow'
     category2 = 'source_diffrn'
+    category3 = 'pdbx_struct_assembly_gen'
+    l_asym = ["_pdbx_struct_assembly_gen.asym_id_list"]
     l_category = ['exptl_crystal_grow', 'diffrn_radiation_wavelength', 'diffrn_source']
     id = "D_1001407944"
+    l_id2 = ["D_1001407948"]
     l_id = ["D_1001407944", "D_1001407945"]
     l_struct_keywords = ['_struct_keywords.entry_id', '_struct_keywords.pdbx_keywords', '_struct_keywords.text']
     l_crystal_grow = ['_exptl_crystal_grow.temp', '_exptl_crystal_grow.method']
@@ -162,11 +166,12 @@ def main():
     l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
     group = 'G_1002329'
 
+
     #category3 = 'citation_author'
     #l_citation_author = ['_citation_author.name', '_citation_author.ordinal']
 
-    #processList_id(l_id, category3, l_citation_author)
-    processList_category(l_id, l_category, l_item_cat, group) 
+    processList_id(l_id, category3, l_asym)
+    #processList_category(l_id, l_category, l_item_cat, group) 
     
 
 if __name__ == "__main__":

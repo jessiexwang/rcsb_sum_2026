@@ -1,5 +1,8 @@
 import os
 import sys
+import functools
+
+from concurrent.futures import ProcessPoolExecutor
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 SRC_DIR = os.path.dirname(os.path.dirname(DIR))
@@ -14,35 +17,20 @@ if not os.path.isdir(LOG_DIR):
     os.makedirs(LOG_DIR)
 
 sys.path.insert(0, SRC_DIR)
-from first_step.parse_mmcif.readLigand import readLigand
+from first_step.parse_mmcif.readLegacy import LegacyReader
+
+class compareAssembly:
+    def __init__(self):
+        pass
 
 
-
-def sort():
-    """sort list of ids into diff processes
-    """
-    #Source, expression system
-        # - made for lopping ids (one id as input, for parallel processing)
-    #Ligand [done!]
-        # - takes in a list, built in parallel processing
-    #Assembly (look at note on confluence)
-        # - wtf does that even mean
-    #Polymer
-        # - use readSingle ig 
-
-
-
-
-
-
-    pass
-
+    def compareAssembly(self):
+        
+        pass
 
 def main():
-    pass
-
-
-
+   pass
 
 if __name__ == "__main__":
     main()
+        
