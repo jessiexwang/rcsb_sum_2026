@@ -78,7 +78,6 @@ def workerOne(category, group, id):
     reader.readCategory(category) # read category, save to dictionary
     reader.cleanDict() #clean
     rt_data = reader.d_category # return a dictionary
-    print(rt_data)
     
     return rt_data
 
@@ -99,29 +98,30 @@ def processList_id(l_id, group, category, l_item_category):
         results = executor.map(partial_workerOne, l_id_test)
     # map returns a generator, so convert to list if needed
     results_list = list(results)
+    print(results_list)
 
-    d_category_all = {}
+    # d_category_all = {}
 
-    for i in range(len(l_id_test)):
-        try:
-            id = l_id[i]
-            d_category = results_list[i]
-            logger.info(f"Processing {id} with category {category}")    
-            d_category_all[id] = d_category # for a key [the id], add category info
+    # for i in range(len(l_id_test)):
+    #     try:
+    #         id = l_id[i]
+    #         d_category = results_list[i]
+    #         logger.info(f"Processing {id} with category {category}")    
+    #         d_category_all[id] = d_category # for a key [the id], add category info
             
-        except IndexError as e:
-            logger.error("entry %s with error %s", id, e)
-            continue
+    #     except IndexError as e:
+    #         logger.error("entry %s with error %s", id, e)
+    #         continue
 
-    fn_category = category + ".tsv"
-    fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
-    fn_category_json = category + ".json"
-    fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
+    # fn_category = category + ".tsv"
+    # fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
+    # fn_category_json = category + ".json"
+    # fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
 
-    writeDictToFile(d_category_all, fp_category, l_item_category)
+    # writeDictToFile(d_category_all, fp_category, l_item_category)
 
-    with open(fp_category_json, 'w') as fp:
-        json.dump(d_category_all, fp)
+    # with open(fp_category_json, 'w') as fp:
+    #     json.dump(d_category_all, fp)
 
 
 
@@ -170,8 +170,8 @@ def main():
     #category3 = 'citation_author'
     #l_citation_author = ['_citation_author.name', '_citation_author.ordinal']
 
-    processList_id(l_id2, group, category3, l_asym)
-    #processList_category(l_id, l_category, l_item_cat, group) 
+    #processList_id(l_id2, group, category3, l_asym)
+    processList_category(l_id, l_category, l_item_cat, group) 
     
 
 if __name__ == "__main__":
