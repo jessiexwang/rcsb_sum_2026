@@ -98,7 +98,6 @@ def processList_id(l_id, group, category, l_item_category):
         results = executor.map(partial_workerOne, l_id_test)
     # map returns a generator, so convert to list if needed
     results_list = list(results)
-    print(type(results_list))
 
     d_category_all = {}
 
