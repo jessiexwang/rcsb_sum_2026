@@ -39,7 +39,7 @@ logger.addHandler(f_handler)
 logger.addHandler(c_handler)
 #-----------------------------
 
-class readSource():
+class readSource:
     def __init__(self):
         self.source = ""
 
@@ -99,7 +99,8 @@ def main():
     l_id = ["D_1001407944", "D_1001407945"]
     group = 'G_1002329'
 
-    res = readSource(group, l_id[0])
+    r = readSource()
+    res = r.readSource(group, l_id[0])
     print(res)
 
 if __name__ == "__main__":
