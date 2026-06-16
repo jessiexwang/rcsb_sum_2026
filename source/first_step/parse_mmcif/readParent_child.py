@@ -13,14 +13,19 @@ LOG_DIR = os.path.join(PROJECT_DIR, "log")
 if not os.path.isdir(LOG_DIR):
     os.makedirs(LOG_DIR)
 
+sys.path.insert(0, SRC_DIR)
+from first_step.parse_mmcif.readLigand import readLigand
+
+
 
 def sort():
     """sort list of ids into diff processes
     """
     #Source, expression system
-    #Ligand
+    #Ligand [done!]
     #Assembly (look at note on confluence)
     #Polymer
+        # - use readSingle
 
 
 

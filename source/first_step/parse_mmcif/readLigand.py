@@ -40,7 +40,7 @@ logger.addHandler(f_handler)
 logger.addHandler(c_handler)
 #-----------------------------
 
-class readLignad():
+class readLigand():
     """class to read the information needed from ligands
     """
 
@@ -50,13 +50,13 @@ class readLignad():
         self.l_id_null = []
         self.l_id_to_null =[]
 
-    def searchCategory(self, group, id, ):
+    def searchCategory(self, group, id):
         fp = os.path.join(DATA_DIR, group, id + ".cif")
 
         logger.info("filepath at %s", fp)
         reader = LegacyReader(fp)
         res = reader.readCategory("pdbx_entity_instance_feature")
-        if res == False: # read category, save to dictionary)
+        if res == False: # check if category exists
             return id
             
         else:
@@ -111,7 +111,7 @@ def main():
 
     #l_category = ["_pdbx_entity_instance_feature", "pdbx_entity_instance_feature"] # testing purposes
 
-    rl = readLignad()
+    rl = readLigand()
 
     rl.filterLigand(group, l_id)
 
