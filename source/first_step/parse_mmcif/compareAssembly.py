@@ -39,9 +39,9 @@ class compareAssembly:
         sorted2 = sorted(list2)
 
         if sorted1 == sorted2:
-            print ("The {id1} and {id2} are the same")
+            print({id1} + " and " +  {id2} + " are the same")
         else:
-            print ("The{id1} and {id2} are not the same")
+            print({id1} +  " and " +  {id2} + " are not the same")
 
 
 
