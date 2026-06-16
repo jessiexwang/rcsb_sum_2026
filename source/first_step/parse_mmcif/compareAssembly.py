@@ -33,7 +33,7 @@ class compareAssembly:
         #list1 = self.data1["_pdbx_struct_assembly_gen.asym_id_list"]
         #list2 = self.data2["_pdbx_struct_assembly_gen.asym_id_list"]
         list1 = ['A,C,D,I', 'B,E,F,G,H,J']
-        list2 = ['B,E,F,G,H,J', 'A,C,D,I']
+        list2 = ['B,E,F,G,H,J']
 
         sorted1 = sorted(list1)
         sorted2 = sorted(list2)
