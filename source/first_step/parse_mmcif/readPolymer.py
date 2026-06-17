@@ -85,12 +85,12 @@ class readPolymer():
             if item == "polymer":
                 index_list.append(en_type.index(item))
         
-        for i in index_list:
+        for item in d1:
             l_new = []
-            for item in d1:
-                print(d1[item][i])
+            for i in index_list:
                 l_new.append(d1[item][i])
             d1[item] = l_new
+            
 
         print(d1)
 
