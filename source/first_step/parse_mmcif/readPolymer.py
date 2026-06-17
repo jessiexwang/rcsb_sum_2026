@@ -69,6 +69,7 @@ class readPolymer():
     def readPolymer(self, l_id, group):
         
         for id in range(len(l_id)):
+            print(id)
             dict = self.readMultipleCat(group, id)
             self.list.append(dict)
 
