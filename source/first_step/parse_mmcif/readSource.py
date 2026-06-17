@@ -42,6 +42,9 @@ logger.addHandler(c_handler)
 class readSource:
     def __init__(self):
         self.source = ""
+        self.src_nat = []
+        self.src_gen = []
+        self.src_syn = []
 
     
     def filterSource(self, group, id):
@@ -94,6 +97,28 @@ class readSource:
             res = self.srcSyn(group, id)
 
         return res
+    
+    def mapSource(self, group, l_id):
+        partialSource = functools.partial(self.source, group)
+        
+        with ProcessPoolExecutor() as executor:
+            results = executor.map(partialSource, l_id)
+        
+        results_list = list(results)
+
+        for i in range(len(results_list)):
+            if "_entity_src_gen.entity_id" in results_list[i]: 
+                self.src_gen.append(results_list[i])
+            if "_entity_src_nat.entity_id" in results_list[i]: 
+                self.src_nat.append(results_list[i])
+            if "_pdbx_entity_src_syn.entity_id" in results_list[i]: 
+                self.src_syn.append(results_list[i])
+            
+        # to separate into lists, read into json?
+
+        
+
+
 
 def main():
     l_id = ["D_1001407944", "D_1001407945"]

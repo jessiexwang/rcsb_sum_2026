@@ -21,28 +21,41 @@ from first_step.parse_mmcif.readSingle import workerOne
 
 class compareAssembly:
     def __init__(self):
+        self.base = ""
         self.data1 = {}
         self.data2 = {}
 
 
     def compareAssembly(self, group, id1, id2):
-        category = "pdbx_struct_assembly_gen"
-        #self.data1 = workerOne(category, group, id1)
-        #self.data2 = workerOne(category, group, id2)
+        category = "pdbx_struct_assembly.oligomeric_details"
 
-        #list1 = self.data1["_pdbx_struct_assembly_gen.asym_id_list"]
-        #list2 = self.data2["_pdbx_struct_assembly_gen.asym_id_list"]
-        list1 = ['A,C,D,I', 'B,E,F,G,H,J']
-        list2 = ['B,E,F,G,H,J']
+        self.data1 = workerOne(category, group, id1)
+        self.data2 = workerOne(category, group, id2)
+
+        list1 = self.data1["_pdbx_struct_assembly.oligomeric_details"]
+        list2 = self.data2["_pdbx_struct_assembly.oligomeric_details"]
+    
 
         sorted1 = sorted(list1)
         sorted2 = sorted(list2)
 
         if sorted1 == sorted2:
-            print(id1 + " and " +  id2 + " are the same")
+            return
         else:
-            print(id1 +  " and " +  id2 + " are not the same")
+            return id2
 
+    def mapAssembly(self, l_id, index):
+        self.base = l_id[index] # pick an id to serve as the basis
+
+        partialCompare = functools.partial(self.compareAssembly, self.base)
+        
+        with ProcessPoolExecutor() as executor:
+            results = executor.map(partialCompare, l_id)
+        
+        results_list = list(results)
+
+        return results_list
+        
 
 
 
@@ -55,7 +68,6 @@ def main():
    group = 'G_1002329'
    ca = compareAssembly()
    ca.compareAssembly(group, id1, id2)
-   pass
 
 if __name__ == "__main__":
     main()
