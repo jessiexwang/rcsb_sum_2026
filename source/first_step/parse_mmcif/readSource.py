@@ -115,6 +115,7 @@ class readSource:
                 self.src_syn.append(results_list[i])
             
         # to separate into lists, read into json?
+        # inprogress
 
         
 

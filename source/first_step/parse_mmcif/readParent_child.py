@@ -44,14 +44,14 @@ def sort(process, group, l_id, index = None):
     """
 
     if process == "source":
-        rS.mapSource(group, l_id)
+        rS.mapSource(group, l_id) # in progress
         src_nat = rS.srcNat
         src_gen = rS.srcGen
         src_syn = rS.srcSyn
     elif process == "ligand":
         rL.filterLigand(group, l_id)
     elif process == "assembly":
-        cA.mapAssembly(group, l_id, index)
+        cA.mapAssembly(group, l_id, index) # also in progress??? change to just parsing out the data
     else:
         logger.error("Not a valid process.")
 
