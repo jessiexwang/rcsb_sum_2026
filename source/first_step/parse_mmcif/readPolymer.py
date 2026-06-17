@@ -92,18 +92,15 @@ class readPolymer():
             d1[item] = l_new
             
 
-        print(d1)
+        d2 = workerOne(self.category2, group, id)
+        d3 = workerOne(self.category3, group, id)
+        d4 = workerOne(self.category4, group, id)
 
+        d1.update(d2)
+        d1.update(d3)
+        d1.update(d4)
 
-        # d2 = workerOne(self.category2, group, id)
-        # d3 = workerOne(self.category3, group, id)
-        # d4 = workerOne(self.category4, group, id)
-
-        # d1.update(d2)
-        # d1.update(d3)
-        # d1.update(d4)
-
-        #print(d1)
+    
 
         return d1
 
