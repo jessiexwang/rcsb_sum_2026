@@ -78,7 +78,7 @@ class readPolymer():
 
     def readMultipleCat(self, group, id):
         d1 = workerOne(self.category1, group, id)
-        en_type = d1['_entity.type']
+        en_type = d1['_entity.type'].copy()
     
         for i in range(len(en_type)):
             print(en_type)
