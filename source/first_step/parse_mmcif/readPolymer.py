@@ -64,11 +64,10 @@ class readPolymer():
             f.write("\n") # start adding data on a new line
             for id, d_one in d_all.items(): # for each id, take one of the dictionaries (contact/citation)
                 if d_one:
-                    print(len(list(d_one.values())[0])-1)
                     for i in range(len(list(d_one.values())[0])-1): # for every value in the dictionary
                         l_line = [id] # new line staring w id
                         for item in l_item: # item (not category)
-                            print(i)
+                            print(d_one[item])
                             l_line.append(d_one[item][i]) # add all info (items only)
                         f.write("\t".join(l_line)) # combine into a line w a tab separation
                         f.write("\n") # new line for  new data
