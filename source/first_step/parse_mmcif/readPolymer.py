@@ -81,7 +81,8 @@ class readPolymer():
         en_type = d1['_entity.type'].copy()
         index_list = []
         for item in en_type:
-            if item != "polymer":
+            print(item)
+            if item == "polymer":
                 index_list.append(en_type.index(item))
         
         for i in index_list:
