@@ -85,13 +85,14 @@ class readPolymer():
             if item == "polymer":
                 index_list.append(en_type.index(item))
         
-        for i in index_list:
-            l_new = []
-            for item in d1:
-                l_new.append(d1[item][i])
-            d1[item] = l_new
+        print(index_list)
+        # for i in index_list:
+        #     l_new = []
+        #     for item in d1:
+        #         l_new.append(d1[item][i])
+        #     d1[item] = l_new
 
-        print(d1)
+        # print(d1)
 
 
         # d2 = workerOne(self.category2, group, id)
