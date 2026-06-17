@@ -46,8 +46,7 @@ class readPolymer():
         self.category2 = "entity_poly"
         self.category3 = "struct_ref"
         self.category4 = "entity_src_gen"
-        self.cat_list = ["_entity.src_method", "_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", 
-                         "_struct_ref.db_code"]
+        self.cat_list = ["_entity.src_method", "_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", "_struct_ref.db_code"]
         self.list = []
 
 
