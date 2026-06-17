@@ -46,7 +46,7 @@ class readPolymer():
         self.category2 = "entity_poly"
         self.category3 = "struct_ref"
         self.category4 = "entity_src_gen"
-        self.cat_list = ["_entity.src_method", "_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", "_struct_ref.db_code"]
+        self.cat_list = ["_entity.src_method", "_entity_src_gen.pdbx_gene_src_scientific_name" ,"_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", "_struct_ref.db_code"]
         self.list = []
 
 
@@ -79,26 +79,35 @@ class readPolymer():
     def readMultipleCat(self, group, id):
         d1 = workerOne(self.category1, group, id)
         ids = d1['_entity.id']
-        print(ids)
-        # type = d1['_entity.type']
-        # for i in range(len(type)):
-        #     if type[i] != "polymer":
-        #         ids.remove(i+1)
-        #         type.pop(i)
+        en_type = d1['_entity.type']
+        en_src = d1["_entity.src_method"]
+        en_dis = d1["_entity.pdbx_description"]
+        for i in range(len(en_type)):
+            if en_type[i] != "polymer":
+                del ids[i]
+                del en_type[i]
+                del en_src[i]
+                del en_dis[i]
+
+                d1['_entity.id'] = ids
+                d1['_entity.type'] = en_type
+                d1["_entity.src_method"] = en_src
+                d1["_entity.pdbx_description"] = en_dis
+        
 
 
 
 
 
-        # d2 = workerOne(self.category2, group, id)
-        # d3 = workerOne(self.category3, group, id)
-        # d4 = workerOne(self.category4, group, id)
+        d2 = workerOne(self.category2, group, id)
+        d3 = workerOne(self.category3, group, id)
+        d4 = workerOne(self.category4, group, id)
 
-        # d1.update(d2)
-        # d1.update(d3)
-        # d1.update(d4)
+        d1.update(d2)
+        d1.update(d3)
+        d1.update(d4)
 
-        # print(d1)
+        print(d1)
 
         return d1
 
