@@ -86,15 +86,17 @@ class readPolymer():
                 logger.error("entry %s with error %s", id, e)
                 continue
 
-        fn = "polymer.tsv"
-        fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        fn_json = "polymer.json"
-        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+        print(d_category_all)
 
-        writeDictToFile(d_category_all, fp, self.cat_list)
+        # fn = "polymer.tsv"
+        # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+        # fn_json = "polymer.json"
+        # fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
-        with open(fp_category_json, 'w') as fp:
-            json.dump(d_category_all, fp)
+        # writeDictToFile(d_category_all, fp, self.cat_list)
+
+        # with open(fp_category_json, 'w') as fp:
+        #     json.dump(d_category_all, fp)
 
 
 def main():
