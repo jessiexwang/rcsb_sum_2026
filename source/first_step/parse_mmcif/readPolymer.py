@@ -84,6 +84,7 @@ class readPolymer():
             print(en_type)
             if en_type[i] != "polymer":
                 for item in d1:
+                    print(d1[item][i])
                     del d1[item][i]
         
 
