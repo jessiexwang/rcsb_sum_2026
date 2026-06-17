@@ -79,13 +79,16 @@ class readPolymer():
     def readMultipleCat(self, group, id):
         d1 = workerOne(self.category1, group, id)
         en_type = d1['_entity.type'].copy()
-    
-        for i in range(len(en_type)):
-            print(en_type)
-            if en_type[i] != "polymer":
-                for item in d1:
-                    d1[item].remove(en_type[i])
+        index_list = []
+        for item in en_type:
+            if item != "polymer":
+                index_list.append(item.index())
         
+        for i in index_list:
+            l_new = []
+            for item in d1:
+                l_new.append(d1[item][i])
+            d1[item] = l_new
 
         print(d1)
 
