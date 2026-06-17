@@ -58,6 +58,7 @@ class readPolymer():
         """
         l_h = ["id"]
         l_h.extend(l_item) # add rest of headings
+        print(l_item)
         
         with open(fp, 'w') as f:
             f.write("\t".join(l_h)) #separate headings w tabs
