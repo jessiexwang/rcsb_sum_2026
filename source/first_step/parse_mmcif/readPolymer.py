@@ -142,8 +142,7 @@ class readPolymer():
 
 
 def main():
-    l_id = ["D_1001407944"]
-    # , "D_1001407945"
+    l_id = ["D_1001407944", "D_1001407945"]
     group = 'G_1002329'
 
     rp = readPolymer()
