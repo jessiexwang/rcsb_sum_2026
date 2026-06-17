@@ -81,6 +81,7 @@ class readPolymer():
         en_type = d1['_entity.type']
     
         for i in range(len(en_type)):
+            print(en_type)
             if en_type[i] != "polymer":
                 for item in d1:
                     del d1[item][i]
