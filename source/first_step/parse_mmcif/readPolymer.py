@@ -67,8 +67,6 @@ class readPolymer():
                     for i in range(len(list(d_one.values())[0])): # for every value in the dictionary
                         l_line = [id] # new line staring w id
                         for item in l_item: # item (not category)
-                            print(i)
-                            print(len(d_one[item]))
                             l_line.append(d_one[item][i]) # add all info (items only)
                         f.write("\t".join(l_line)) # combine into a line w a tab separation
                         f.write("\n") # new line for  new data
@@ -126,7 +124,8 @@ class readPolymer():
 
 
 def main():
-    l_id = ["D_1001407944", "D_1001407945"]
+    l_id = ["D_1001407944"]
+    # , "D_1001407945"
     group = 'G_1002329'
 
     rp = readPolymer()
