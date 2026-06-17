@@ -86,6 +86,8 @@ class readPolymer():
         d1.update(d3)
         d1.update(d4)
 
+        print(d1)
+
         return d1
 
      
@@ -98,29 +100,29 @@ class readPolymer():
             dict = self.readMultipleCat(group, id)
             self.list.append(dict)
 
-        d_category_all = {}
+        # d_category_all = {}
 
-        for i in range(len(l_id)):
-            try:
-                id = l_id[i]
-                d_category = self.list[i]
-                logger.info(f"Processing {id}")    
-                d_category_all[id] = d_category # for a key [the id], add category info
+        # for i in range(len(l_id)):
+        #     try:
+        #         id = l_id[i]
+        #         d_category = self.list[i]
+        #         logger.info(f"Processing {id}")    
+        #         d_category_all[id] = d_category # for a key [the id], add category info
                 
-            except IndexError as e:
-                logger.error("entry %s with error %s", id, e)
-                continue
+        #     except IndexError as e:
+        #         logger.error("entry %s with error %s", id, e)
+        #         continue
 
 
-        fn = "polymer.tsv"
-        fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        fn_json = "polymer.json"
-        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+        # fn = "polymer.tsv"
+        # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+        # fn_json = "polymer.json"
+        # fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
-        self.writeDictToFile(d_category_all, fp, self.cat_list)
+        # self.writeDictToFile(d_category_all, fp, self.cat_list)
 
-        # with open(fp_category_json, 'w') as fp:
-        #     json.dump(d_category_all, fp)
+        # # with open(fp_category_json, 'w') as fp:
+        # #     json.dump(d_category_all, fp)
 
 
 def main():
