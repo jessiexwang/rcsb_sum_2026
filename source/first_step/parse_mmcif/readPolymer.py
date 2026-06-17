@@ -93,8 +93,8 @@ class readPolymer():
 
         writeDictToFile(d_category_all, fp, self.cat_list)
 
-        with open(fp_category_json, 'w') as fp:
-            json.dump(d_category_all, fp)
+        # with open(fp_category_json, 'w') as fp:
+        #     json.dump(d_category_all, fp)
 
 
 def main():
