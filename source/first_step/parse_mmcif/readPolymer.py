@@ -1,7 +1,6 @@
 import os
 import sys
-import functools
-from concurrent.futures import ProcessPoolExecutor
+import json
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 SRC_DIR = os.path.dirname(os.path.dirname(DIR))
@@ -18,6 +17,7 @@ if not os.path.isdir(LOG_DIR):
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLegacy import LegacyReader
 from first_step.parse_mmcif.readSingle import workerOne
+from first_step.parse_mmcif.readSingle import writeDictToFile
 
 
 #----------logging-----------
@@ -46,45 +46,54 @@ class readPolymer():
         self.category2 = "entity_poly"
         self.category3 = "struct_ref"
         self.category4 = "entity_src_gen"
-        self.cat_list1 = ["_entity.src_method", "_entity.pdbx_description"]
-        self.cat_list2 = ["_entity_poly.pdbx_seq_one_letter_code "]
-        self.cat_list3 = ["_struct_ref.db_code"]
-        self.cat_list4 = ["_entity_src_gen.pdbx_gene_src_scientific_name"]
-        self.l_category = ["entity", "entity_poly","struct_ref", "entity_src_gen"]
-        self.l_cat = [self.cat_list1, self.cat_list2, self.cat_list3, self.cat_list4 ]
+        self.cat_list = ["_entity.src_method", "_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", 
+                         "_struct_ref.db_code", "entity", "entity_poly","struct_ref", "entity_src_gen"]
+        self.list = []
+
+
+    def readMultipleCat(self, group, id):
+        d1 = workerOne(self.category1, group, id)
+        d2 = workerOne(self.category2, group, id)
+        d3 = workerOne(self.category3, group, id)
+        d4 = workerOne(self.category4, group, id)
+
+        d1.update(d2)
+        d1.update(d3)
+        d1.update(d4)
+
+        return d1
+
      
-
-    def readList(self, l_id, group, category, l_item_category):
-        partial_workerOne = functools.partial(workerOne, category, group)
-        with ProcessPoolExecutor() as executor:
-            results = executor.map(partial_workerOne, l_id)
-            # map returns a generator, so convert to list if needed
-        results_list = list(results)
-
-        return results_list
 
 
     def readPolymer(self, l_id, group):
         
-        partial_processList_id = functools.partial(self.readList, l_id, group)
+        for id in range(len(l_id)):
+            dict = self.readMultipleCat(group, id)
+            self.list.append(dict)
 
-        with ProcessPoolExecutor() as executor:
-            results = executor.map(partial_processList_id, self.l_category, self.l_category)       
+        d_category_all = {}
 
-        results_list = list(results)
-        print(results_list)
-            
+        for i in range(len(l_id)):
+            try:
+                id = l_id[i]
+                d_category = self.list[i]
+                logger.info(f"Processing {id}")    
+                d_category_all[id] = d_category # for a key [the id], add category info
+                
+            except IndexError as e:
+                logger.error("entry %s with error %s", id, e)
+                continue
 
+        fn = "polymer.tsv"
+        fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+        fn_json = "polymer.json"
+        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
+        writeDictToFile(d_category_all, fp, self.cat_list)
 
-
-        # list of ids
-        # parse out the info
-
-
-
-        pass
-
+        with open(fp_category_json, 'w') as fp:
+            json.dump(d_category_all, fp)
 
 
 def main():
