@@ -79,16 +79,11 @@ class readPolymer():
     def readMultipleCat(self, group, id):
         d1 = workerOne(self.category1, group, id)
         en_type = d1['_entity.type']
-        print(len(d1['_entity.id']))
-        print(len(d1['_entity.type']))
-        print(len(d1['_entity.src_method']))
-        print(len(d1['_entity.pdbx_description']))
-        # for i in range(len(en_type)):
-        #     if en_type[i] != "polymer":
-        #         del d1['_entity.id'][i]
-        #         del d1['_entity.type'][i]
-        #         del d1["_entity.src_method"][i]
-        #         del d1["_entity.pdbx_description"][i]
+    
+        for i in range(len(en_type)):
+            if en_type[i] != "polymer":
+                for item in d1:
+                    del d1[item][i]
         
 
         print(d1)
@@ -102,7 +97,7 @@ class readPolymer():
         # d1.update(d3)
         # d1.update(d4)
 
-        print(d1)
+        #print(d1)
 
         return d1
 
@@ -116,7 +111,7 @@ class readPolymer():
             dict = self.readMultipleCat(group, id)
             self.list.append(dict)
 
-        print(self.list)
+        #print(self.list)
 
         # d_category_all = {}
 
