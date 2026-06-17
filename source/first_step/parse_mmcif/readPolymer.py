@@ -50,7 +50,7 @@ class readPolymer():
                          "_struct_ref.db_code", "entity", "entity_poly","struct_ref", "entity_src_gen"]
         self.list = []
 
-    def writeDictToFile(d_all, fp, l_item):
+    def writeDictToFile(self, d_all, fp, l_item):
         """a method to write dictionary information into a tsv (tab separated values) file, given a dictionary, a filepath, and a list of headings.
         
         Returns:
