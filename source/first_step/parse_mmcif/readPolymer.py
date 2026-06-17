@@ -78,34 +78,25 @@ class readPolymer():
 
     def readMultipleCat(self, group, id):
         d1 = workerOne(self.category1, group, id)
-        ids = d1['_entity.id']
         en_type = d1['_entity.type']
-        en_src = d1["_entity.src_method"]
-        en_dis = d1["_entity.pdbx_description"]
         for i in range(len(en_type)):
             if en_type[i] != "polymer":
-                del ids[i]
-                del en_type[i]
-                del en_src[i]
-                del en_dis[i]
-
-                d1['_entity.id'] = ids
-                d1['_entity.type'] = en_type
-                d1["_entity.src_method"] = en_src
-                d1["_entity.pdbx_description"] = en_dis
+                del d1['_entity.id'][i]
+                del d1['_entity.type'][i]
+                del d1["_entity.src_method"][i]
+                del d1["_entity.pdbx_description"][i]
         
 
+        print(d1)
 
 
+        # d2 = workerOne(self.category2, group, id)
+        # d3 = workerOne(self.category3, group, id)
+        # d4 = workerOne(self.category4, group, id)
 
-
-        d2 = workerOne(self.category2, group, id)
-        d3 = workerOne(self.category3, group, id)
-        d4 = workerOne(self.category4, group, id)
-
-        d1.update(d2)
-        d1.update(d3)
-        d1.update(d4)
+        # d1.update(d2)
+        # d1.update(d3)
+        # d1.update(d4)
 
         print(d1)
 
