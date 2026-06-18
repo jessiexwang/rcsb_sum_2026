@@ -1,0 +1,5 @@
+id	_pdbx_struct_assembly.oligomeric_details	_pdbx_struct_assembly_gen.asym_id_list
+D_1001407944	monomeric	A,B,C,D,E
+D_1001407945	monomeric	A,B,C,D,E,F
+D_1001407946	monomeric	A,C,D,E,G
+D_1001407946	monomeric	B,F,H
