@@ -50,7 +50,7 @@ class readPolymer():
         self.category3 = "struct_ref"
         self.category4 = "entity_src_gen"
         self.cat_list = ["_entity.src_method", "_entity_src_gen.pdbx_gene_src_scientific_name" ,"_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", "_struct_ref.db_code"]
-
+        self.list = []
 
 
 
