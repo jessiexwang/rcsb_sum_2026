@@ -17,7 +17,6 @@ if not os.path.isdir(LOG_DIR):
     os.makedirs(LOG_DIR)
 
 sys.path.insert(0, SRC_DIR)
-from first_step.parse_mmcif.readLegacy import LegacyReader
 from first_step.parse_mmcif.readSingle import workerOne
 from first_step.parse_mmcif.readSingle import writeDictToFile
 

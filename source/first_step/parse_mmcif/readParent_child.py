@@ -16,7 +16,7 @@ if not os.path.isdir(LOG_DIR):
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLigand import readLigand as rL
 from first_step.parse_mmcif.readSource import readSource as rS
-from source.first_step.parse_mmcif.readAssembly import compareAssembly as cA
+from source.first_step.parse_mmcif.readAssembly import readAssembly as rA
 
 #----------logging-----------
 import logging
@@ -51,7 +51,7 @@ def sort(process, group, l_id, index = None):
     elif process == "ligand":
         rL.filterLigand(group, l_id)
     elif process == "assembly":
-        cA.mapAssembly(group, l_id, index) # also in progress??? change to just parsing out the data
+        rA.readAssembly(group, l_id, index) # also in progress??? change to just parsing out the data
     else:
         logger.error("Not a valid process.")
 

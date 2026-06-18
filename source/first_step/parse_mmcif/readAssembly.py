@@ -1,6 +1,7 @@
 import os
 import sys
 import functools
+import json
 
 from concurrent.futures import ProcessPoolExecutor
 
@@ -18,14 +19,14 @@ if not os.path.isdir(LOG_DIR):
 
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readSingle import workerOne
+from first_step.parse_mmcif.readSingle import writeDictToFile
 
 class readAssembly:
     def __init__(self):
         self.category1 = "pdbx_struct_assembly"
         self.category2 = "pdbx_struct_assembly_gen"
         self.l_cat = ["_pdbx_struct_assembly.oligomeric_details", "_pdbx_struct_assembly_gen.asym_id_list"]
-        self.data1 = {}
-        self.data2 = {}
+        self.list = []
 
 
     def readTwoCat(self, group, id):
@@ -36,20 +37,36 @@ class readAssembly:
         return d1
 
     def readAssembly(self, group, l_id):
-        pass
+        partial_readTwoCat = functools.partial(self.readTwoCat, group)
 
-    def mapAssembly(self, l_id, index):
-        self.base = l_id[index] # pick an id to serve as the basis
-
-        partialCompare = functools.partial(self.compareAssembly, self.base)
-        
         with ProcessPoolExecutor() as executor:
-            results = executor.map(partialCompare, l_id)
-        
-        results_list = list(results)
+            results = executor.map(partial_readTwoCat, l_id)
+        # map returns a generator, so convert to list if needed
+        self.list = list(results)
 
-        return results_list
-        
+        d_category_all = {}
+
+        for i in range(len(l_id)):
+            try:
+                id = l_id[i]
+                d_category = self.list[i]
+                logger.info(f"Processing {id}")    
+                d_category_all[id] = d_category # for a key [the id], add category info
+                
+            except IndexError as e:
+                logger.error("entry %s with error %s", id, e)
+                continue
+
+
+        fn = "assembly.tsv"
+        fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+        fn_json = "assembly.json"
+        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+
+        writeDictToFile(d_category_all, fp, self.cat_list)
+
+        with open(fp_category_json, 'w') as fp:
+            json.dump(d_category_all, fp)
 
 
 
