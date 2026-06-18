@@ -19,30 +19,24 @@ if not os.path.isdir(LOG_DIR):
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readSingle import workerOne
 
-class compareAssembly:
+class readAssembly:
     def __init__(self):
-        self.base = ""
+        self.category1 = "pdbx_struct_assembly"
+        self.category2 = "pdbx_struct_assembly_gen"
+        self.l_cat = ["_pdbx_struct_assembly.oligomeric_details", "_pdbx_struct_assembly_gen.asym_id_list"]
         self.data1 = {}
         self.data2 = {}
 
 
-    def compareAssembly(self, group, id1, id2):
-        category = "pdbx_struct_assembly.oligomeric_details"
+    def readTwoCat(self, group, id):
+        d1 = workerOne(self.category1, group, id)
+        d2 = workerOne(self.category2, group, id)
 
-        self.data1 = workerOne(category, group, id1)
-        self.data2 = workerOne(category, group, id2)
+        d1.update(d2)
+        return d1
 
-        list1 = self.data1["_pdbx_struct_assembly.oligomeric_details"]
-        list2 = self.data2["_pdbx_struct_assembly.oligomeric_details"]
-    
-
-        sorted1 = sorted(list1)
-        sorted2 = sorted(list2)
-
-        if sorted1 == sorted2:
-            return
-        else:
-            return id2
+    def readAssembly(self, group, l_id):
+        pass
 
     def mapAssembly(self, l_id, index):
         self.base = l_id[index] # pick an id to serve as the basis
@@ -63,11 +57,10 @@ class compareAssembly:
       
 
 def main():
-   id1 = "D_1001407944"
-   id2 = "D_1001407945"
+   l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]
    group = 'G_1002329'
-   ca = compareAssembly()
-   ca.compareAssembly(group, id1, id2)
+   ra = readAssembly()
+   ra.readAssembly(group, l_id)
 
 if __name__ == "__main__":
     main()

@@ -86,12 +86,7 @@ class readPolymer():
 
 
     def readPolymer(self, l_id, group):
-        
-        for i in range(len(l_id)):
-            id = l_id[i]
-            dict = self.readMultipleCat(group, id)
-            self.list.append(dict)
-        
+
         partial_readMultipleCat = functools.partial(self.readMultipleCat, group)
 
         with ProcessPoolExecutor() as executor:

@@ -16,7 +16,7 @@ if not os.path.isdir(LOG_DIR):
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLigand import readLigand as rL
 from first_step.parse_mmcif.readSource import readSource as rS
-from first_step.parse_mmcif.compareAssembly import compareAssembly as cA
+from source.first_step.parse_mmcif.readAssembly import compareAssembly as cA
 
 #----------logging-----------
 import logging
