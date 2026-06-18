@@ -21,6 +21,26 @@ sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readSingle import workerOne
 from first_step.parse_mmcif.readSingle import writeDictToFile
 
+#----------logging-----------
+import logging
+# logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+# logger = logging.getLogger(__name__)
+log_format = logging.Formatter(
+    '%(asctime)s - %(name)s - %(levelname)s - %(module)s - %(funcName)s:%(lineno)d - %(message)s')
+f_handler = logging.FileHandler(os.path.join(LOG_DIR, "readRcsb.log"), mode='w', encoding='utf-8')
+f_handler.setLevel(logging.DEBUG)
+f_handler.setFormatter(log_format)
+
+c_handler = logging.StreamHandler()
+c_handler.setLevel(logging.DEBUG)
+c_handler.setFormatter(log_format)
+
+logger = logging.getLogger("")
+logger.setLevel(logging.DEBUG)
+logger.addHandler(f_handler)
+logger.addHandler(c_handler)
+#-----------------------------
+
 class readAssembly:
     def __init__(self):
         self.category1 = "pdbx_struct_assembly"
