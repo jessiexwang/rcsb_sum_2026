@@ -41,10 +41,11 @@ logger.addHandler(c_handler)
 
 class readSource:
     def __init__(self):
-        self.source = ""
+        self.l_source = []
         self.src_nat = []
         self.src_gen = []
         self.src_syn = []
+
 
     
     def filterSource(self, group, id):
@@ -52,22 +53,29 @@ class readSource:
 
         logger.info("filepath at %s", fp)
         reader = LegacyReader(fp)
-        res = reader.readCategory("entity_src_nat")
-        if res == False: # check if category exists
-            res2 = reader.readCategory("entity_src_gen")
-            if res2 == False:
-                self.source = "pdbx_entity_src_syn"
-            else:
-                self.source = "entity_src_gen"
-        else:
-            self.source = "entity_src_nat"
+        reader.readCategory("entity")
+        en_type = reader.d_category['_entity.type'].copy()
+        for i in range(len(en_type)):
+            if en_type[i] == "polymer":
+                src = reader.d_category["_entity.src_method"][i]
+
+                if src == "man": # check if category exists
+                    self.l_source.append("entity_src_gen")
+                elif src == "nat":
+                    self.l_source.append("entity_src_nat")
+                else:
+                    self.l_source.append("pdbx_entity_src_syn")
+                    
 
     def srcNat(self, group, id):
         fp = os.path.join(DATA_DIR, group, id + ".cif")
         reader = LegacyReader(fp)
         reader.readCategory("entity_src_nat")
         reader.cleanDict() #clean
-        rt_data = reader.d_category
+        rt_data = {}
+        for item in reader.d_category:
+            if item != ["?"]:
+                rt_data[item] = reader.d_category[item]
         return rt_data
     
     def srcGen(self, group, id):
@@ -75,7 +83,10 @@ class readSource:
         reader = LegacyReader(fp)
         reader.readCategory("entity_src_gen")
         reader.cleanDict() #clean
-        rt_data = reader.d_category
+        rt_data = {}
+        for item in reader.d_category:
+            if item != ["?"]:
+                rt_data[item] = reader.d_category[item]
         return rt_data
     
     def srcSyn(self, group, id):
@@ -83,26 +94,32 @@ class readSource:
         reader = LegacyReader(fp)
         reader.readCategory("pdbx_entity_src_syn")
         reader.cleanDict() #clean
-        rt_data = reader.d_category
+        rt_data = {}
+        for item in reader.d_category:
+            if item != ["?"]:
+                rt_data[item] = reader.d_category[item]
         return rt_data
 
     def readSource(self, group, id):
         self.filterSource(group, id)
 
-        if self.source == "entity_src_nat":
-            res = self.srcNat(group, id)
-        elif self.source == "entity_src_gen":
-            res = self.srcGen(group, id)
-        elif self.source == "pdbx_entity_src_syn":
-            res = self.srcSyn(group, id)
+        d_all = {}
 
-        return res
+        for i in self.l_source:
+            if i == "entity_src_nat":
+                res = self.srcNat(group, id)
+            elif i == "entity_src_gen":
+                res = self.srcGen(group, id)
+            elif i == "pdbx_entity_src_syn":
+                res = self.srcSyn(group, id)
+
+        d_all.update(res)
+        return d_all
     
     def mapSource(self, group, l_id):
-        partialSource = functools.partial(self.source, group)
         
         with ProcessPoolExecutor() as executor:
-            results = executor.map(partialSource, l_id)
+            results = executor.map(self.readSource, group, l_id)
         
         results_list = list(results)
 
@@ -113,6 +130,10 @@ class readSource:
                 self.src_nat.append(results_list[i])
             if "_pdbx_entity_src_syn.entity_id" in results_list[i]: 
                 self.src_syn.append(results_list[i])
+
+        print(self.src_gen)
+        print(self.src_nat)
+        print(self.src_syn)
             
         # to separate into lists, read into json?
         # inprogress
@@ -122,11 +143,12 @@ class readSource:
 
 
 def main():
-    l_id = ["D_1001407944", "D_1001407945"]
-    group = 'G_1002329'
+    l_id = ["D_1001407944", "D_1001406693", "D_1001400001"] 
+    group = 'test_readSource' #testing purposes
+    l_group = []
 
     r = readSource()
-    res = r.readSource(group, l_id[0])
+    res = r.readSource(group, l_id[1])
     print(res)
 
 if __name__ == "__main__":
