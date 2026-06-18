@@ -112,8 +112,8 @@ class readSource:
                 res = self.srcGen(group, id)
             elif i == "pdbx_entity_src_syn":
                 res = self.srcSyn(group, id)
+            d_all.update(res)
 
-        d_all.update(res)
         return d_all
     
     def mapSource(self, group, l_id):
