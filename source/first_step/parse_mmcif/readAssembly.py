@@ -83,7 +83,7 @@ class readAssembly:
         fn_json = "assembly.json"
         fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
-        writeDictToFile(d_category_all, fp, self.cat_list)
+        writeDictToFile(d_category_all, fp, self.l_cat)
 
         with open(fp_category_json, 'w') as fp:
             json.dump(d_category_all, fp)
