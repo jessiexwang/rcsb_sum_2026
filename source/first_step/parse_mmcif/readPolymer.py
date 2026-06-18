@@ -1,6 +1,8 @@
 import os
 import sys
 import json
+import functools
+from concurrent.futures import ProcessPoolExecutor
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 SRC_DIR = os.path.dirname(os.path.dirname(DIR))
@@ -17,6 +19,7 @@ if not os.path.isdir(LOG_DIR):
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLegacy import LegacyReader
 from first_step.parse_mmcif.readSingle import workerOne
+from first_step.parse_mmcif.readSingle import writeDictToFile
 
 
 
@@ -47,33 +50,8 @@ class readPolymer():
         self.category3 = "struct_ref"
         self.category4 = "entity_src_gen"
         self.cat_list = ["_entity.src_method", "_entity_src_gen.pdbx_gene_src_scientific_name" ,"_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", "_struct_ref.db_code"]
-        self.list = []
 
 
-    def writeDictToFile(self, d_all, fp, l_item):
-        """a method to write dictionary information into a tsv (tab separated values) file, given a dictionary, a filepath, and a list of headings.
-            
-            Returns:
-                bool: True if the category was read successfully, False otherwise.
-        """
-        l_h = ["id"]
-        l_h.extend(l_item) # add rest of headings
-        
-        with open(fp, 'w') as f:
-            f.write("\t".join(l_h)) #separate headings w tabs
-            f.write("\n") # start adding data on a new line
-            for id, d_one in d_all.items(): # for each id, take one of the dictionaries (contact/citation)
-                if d_one:
-                    for i in range(len(list(d_one.values())[0])): # for every value in the dictionary
-                        l_line = [id] # new line staring w id
-                        for item in l_item: # item (not category)
-                            l_line.append(d_one[item][i]) # add all info (items only)
-                        f.write("\t".join(l_line)) # combine into a line w a tab separation
-                        f.write("\n") # new line for  new data
-                else:
-                    logger.warning("entry %s has EMPTY dict", id)
-                    continue
-        return True
 
 
     def readMultipleCat(self, group, id):
@@ -113,6 +91,13 @@ class readPolymer():
             id = l_id[i]
             dict = self.readMultipleCat(group, id)
             self.list.append(dict)
+        
+        partial_readMultipleCat = functools.partial(self.readMultipleCat, group)
+
+        with ProcessPoolExecutor() as executor:
+            results = executor.map(partial_readMultipleCat, l_id)
+        # map returns a generator, so convert to list if needed
+        self.list = list(results)
 
         #print(self.list)
 
@@ -135,14 +120,14 @@ class readPolymer():
         fn_json = "polymer.json"
         fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
-        self.writeDictToFile(d_category_all, fp, self.cat_list)
+        writeDictToFile(d_category_all, fp, self.cat_list)
 
         with open(fp_category_json, 'w') as fp:
             json.dump(d_category_all, fp)
 
 
 def main():
-    l_id = ["D_1001407944", "D_1001407945"]
+    l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]
     group = 'G_1002329'
 
     rp = readPolymer()
