@@ -1,1 +1,332 @@
-{"D_1001407944": {"_entity": {"_entity.id": ["1", "2", "3", "4", "5"], "_entity.type": ["polymer", "non-polymer", "non-polymer", "non-polymer", "water"], "_entity.src_method": ["man", "syn", "syn", "syn", "nat"], "_entity.pdbx_description": ["Protease 2A", "N-[(1H-imidazol-4-yl)methyl]-1-methyl-1H-indazole-3-carboxamide", "ZINC ION", "DIMETHYL SULFOXIDE", "water"], "_entity.formula_weight": ["15892.732", "255.275", "65.409", "78.133", "18.015"], "_entity.pdbx_number_of_molecules": ["1", "1", "1", "1", "209"], "_entity.pdbx_ec": ["3.4.22.29", "?", "?", "?", "?"], "_entity.pdbx_mutation": ["?", "?", "?", "?", "?"], "_entity.pdbx_fragment": ["?", "?", "?", "?", "?"], "_entity.details": ["?", "?", "?", "?", "?"]}, "_entity_src_gen": {"_entity_src_gen.entity_id": ["1"], "_entity_src_gen.pdbx_src_id": ["1"], "_entity_src_gen.pdbx_alt_source_flag": ["sample"], "_entity_src_gen.pdbx_seq_type": ["Biological sequence"], "_entity_src_gen.pdbx_beg_seq_num": ["1"], "_entity_src_gen.pdbx_end_seq_num": ["144"], "_entity_src_gen.pdbx_gene_src_scientific_name": ["Coxsackievirus A16"], "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": ["31704"], "_entity_src_gen.pdbx_host_org_scientific_name": ["Escherichia coli"], "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": ["562"]}}, "D_1001406693": {"_entity": {"_entity.id": ["1", "2", "3", "4", "5", "6"], "_entity.type": ["polymer", "polymer", "non-polymer", "non-polymer", "non-polymer", "water"], "_entity.src_method": ["man", "syn", "syn", "nat", "syn", "nat"], "_entity.pdbx_description": ["B-cell lymphoma 6 protein", "WVIP tetrapeptide", "5-[(2,5-dichloropyridin-4-yl)amino]-1,3-dihydro-2H-indol-2-one", "CHLORIDE ION", "DIMETHYL SULFOXIDE", "water"], "_entity.formula_weight": ["14536.915", "610.744", "294.136", "35.453", "78.133", "18.015"], "_entity.pdbx_number_of_molecules": ["1", "1", "1", "1", "1", "138"], "_entity.pdbx_ec": ["?", "?", "?", "?", "?", "?"], "_entity.pdbx_mutation": ["?", "?", "?", "?", "?", "?"], "_entity.pdbx_fragment": ["?", "?", "?", "?", "?", "?"], "_entity.details": ["?", "?", "?", "?", "?", "?"]}, "_entity_src_gen": {"_entity_src_gen.entity_id": ["1"], "_entity_src_gen.pdbx_src_id": ["1"], "_entity_src_gen.pdbx_alt_source_flag": ["sample"], "_entity_src_gen.pdbx_seq_type": ["Biological sequence"], "_entity_src_gen.pdbx_beg_seq_num": ["1"], "_entity_src_gen.pdbx_end_seq_num": ["128"], "_entity_src_gen.gene_src_common_name": ["human"], "_entity_src_gen.pdbx_gene_src_gene": ["BCL6, BCL5, LAZ3, ZBTB27, ZNF51"], "_entity_src_gen.pdbx_gene_src_scientific_name": ["Homo sapiens"], "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": ["9606"], "_entity_src_gen.pdbx_host_org_scientific_name": ["Escherichia coli"], "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": ["562"], "_entity_src_gen.pdbx_host_org_strain": ["BL21-AI"], "_entity_src_gen.pdbx_host_org_vector_type": ["plasmid"], "_entity_src_gen.pdbx_host_org_vector": ["pET48b"]}, "pdbx_entity_src_syn": {"_pdbx_entity_src_syn.entity_id": ["2"], "_pdbx_entity_src_syn.pdbx_src_id": ["1"], "_pdbx_entity_src_syn.pdbx_alt_source_flag": ["sample"], "_pdbx_entity_src_syn.pdbx_beg_seq_num": ["1"], "_pdbx_entity_src_syn.pdbx_end_seq_num": ["6"], "_pdbx_entity_src_syn.organism_scientific": ["synthetic construct"], "_pdbx_entity_src_syn.ncbi_taxonomy_id": ["32630"]}}, "D_1001400001": {"_entity": {"_entity.id": ["1", "2"], "_entity.type": ["polymer", "water"], "_entity.src_method": ["nat", "nat"], "_entity.pdbx_description": ["Endothiapepsin", "water"], "_entity.formula_weight": ["33813.855", "18.015"], "_entity.pdbx_number_of_molecules": ["1", "172"], "_entity.pdbx_ec": ["3.4.23.22", "?"], "_entity.pdbx_mutation": ["?", "?"], "_entity.pdbx_fragment": ["?", "?"], "_entity.details": ["?", "?"]}, "_entity_src_nat": {"_entity_src_nat.entity_id": ["1"], "_entity_src_nat.pdbx_src_id": ["1"], "_entity_src_nat.pdbx_alt_source_flag": ["sample"], "_entity_src_nat.pdbx_beg_seq_num": ["1"], "_entity_src_nat.pdbx_end_seq_num": ["330"], "_entity_src_nat.common_name": ["Chesnut blight fungus"], "_entity_src_nat.pdbx_organism_scientific": ["Cryphonectria parasitica"], "_entity_src_nat.pdbx_ncbi_taxonomy_id": ["5116"]}}}
+{
+    "D_1001407944": {
+        "_entity": {
+            "_entity.id": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "_entity.type": [
+                "polymer",
+                "non-polymer",
+                "non-polymer",
+                "non-polymer",
+                "water"
+            ],
+            "_entity.src_method": [
+                "man",
+                "syn",
+                "syn",
+                "syn",
+                "nat"
+            ],
+            "_entity.pdbx_description": [
+                "Protease 2A",
+                "N-[(1H-imidazol-4-yl)methyl]-1-methyl-1H-indazole-3-carboxamide",
+                "ZINC ION",
+                "DIMETHYL SULFOXIDE",
+                "water"
+            ],
+            "_entity.formula_weight": [
+                "15892.732",
+                "255.275",
+                "65.409",
+                "78.133",
+                "18.015"
+            ],
+            "_entity.pdbx_number_of_molecules": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "209"
+            ],
+            "_entity.pdbx_ec": [
+                "3.4.22.29",
+                "?",
+                "?",
+                "?",
+                "?"
+            ],
+            "_entity.pdbx_mutation": [
+                "?",
+                "?",
+                "?",
+                "?",
+                "?"
+            ],
+            "_entity.pdbx_fragment": [
+                "?",
+                "?",
+                "?",
+                "?",
+                "?"
+            ],
+            "_entity.details": [
+                "?",
+                "?",
+                "?",
+                "?",
+                "?"
+            ]
+        },
+        "_entity_src_gen": {
+            "_entity_src_gen.entity_id": [
+                "1"
+            ],
+            "_entity_src_gen.pdbx_src_id": [
+                "1"
+            ],
+            "_entity_src_gen.pdbx_alt_source_flag": [
+                "sample"
+            ],
+            "_entity_src_gen.pdbx_seq_type": [
+                "Biological sequence"
+            ],
+            "_entity_src_gen.pdbx_beg_seq_num": [
+                "1"
+            ],
+            "_entity_src_gen.pdbx_end_seq_num": [
+                "144"
+            ],
+            "_entity_src_gen.pdbx_gene_src_scientific_name": [
+                "Coxsackievirus A16"
+            ],
+            "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+                "31704"
+            ],
+            "_entity_src_gen.pdbx_host_org_scientific_name": [
+                "Escherichia coli"
+            ],
+            "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+                "562"
+            ]
+        }
+    },
+    "D_1001406693": {
+        "_entity": {
+            "_entity.id": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "_entity.type": [
+                "polymer",
+                "polymer",
+                "non-polymer",
+                "non-polymer",
+                "non-polymer",
+                "water"
+            ],
+            "_entity.src_method": [
+                "man",
+                "syn",
+                "syn",
+                "nat",
+                "syn",
+                "nat"
+            ],
+            "_entity.pdbx_description": [
+                "B-cell lymphoma 6 protein",
+                "WVIP tetrapeptide",
+                "5-[(2,5-dichloropyridin-4-yl)amino]-1,3-dihydro-2H-indol-2-one",
+                "CHLORIDE ION",
+                "DIMETHYL SULFOXIDE",
+                "water"
+            ],
+            "_entity.formula_weight": [
+                "14536.915",
+                "610.744",
+                "294.136",
+                "35.453",
+                "78.133",
+                "18.015"
+            ],
+            "_entity.pdbx_number_of_molecules": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "138"
+            ],
+            "_entity.pdbx_ec": [
+                "?",
+                "?",
+                "?",
+                "?",
+                "?",
+                "?"
+            ],
+            "_entity.pdbx_mutation": [
+                "?",
+                "?",
+                "?",
+                "?",
+                "?",
+                "?"
+            ],
+            "_entity.pdbx_fragment": [
+                "?",
+                "?",
+                "?",
+                "?",
+                "?",
+                "?"
+            ],
+            "_entity.details": [
+                "?",
+                "?",
+                "?",
+                "?",
+                "?",
+                "?"
+            ]
+        },
+        "_entity_src_gen": {
+            "_entity_src_gen.entity_id": [
+                "1"
+            ],
+            "_entity_src_gen.pdbx_src_id": [
+                "1"
+            ],
+            "_entity_src_gen.pdbx_alt_source_flag": [
+                "sample"
+            ],
+            "_entity_src_gen.pdbx_seq_type": [
+                "Biological sequence"
+            ],
+            "_entity_src_gen.pdbx_beg_seq_num": [
+                "1"
+            ],
+            "_entity_src_gen.pdbx_end_seq_num": [
+                "128"
+            ],
+            "_entity_src_gen.gene_src_common_name": [
+                "human"
+            ],
+            "_entity_src_gen.pdbx_gene_src_gene": [
+                "BCL6, BCL5, LAZ3, ZBTB27, ZNF51"
+            ],
+            "_entity_src_gen.pdbx_gene_src_scientific_name": [
+                "Homo sapiens"
+            ],
+            "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+                "9606"
+            ],
+            "_entity_src_gen.pdbx_host_org_scientific_name": [
+                "Escherichia coli"
+            ],
+            "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+                "562"
+            ],
+            "_entity_src_gen.pdbx_host_org_strain": [
+                "BL21-AI"
+            ],
+            "_entity_src_gen.pdbx_host_org_vector_type": [
+                "plasmid"
+            ],
+            "_entity_src_gen.pdbx_host_org_vector": [
+                "pET48b"
+            ]
+        },
+        "pdbx_entity_src_syn": {
+            "_pdbx_entity_src_syn.entity_id": [
+                "2"
+            ],
+            "_pdbx_entity_src_syn.pdbx_src_id": [
+                "1"
+            ],
+            "_pdbx_entity_src_syn.pdbx_alt_source_flag": [
+                "sample"
+            ],
+            "_pdbx_entity_src_syn.pdbx_beg_seq_num": [
+                "1"
+            ],
+            "_pdbx_entity_src_syn.pdbx_end_seq_num": [
+                "6"
+            ],
+            "_pdbx_entity_src_syn.organism_scientific": [
+                "synthetic construct"
+            ],
+            "_pdbx_entity_src_syn.ncbi_taxonomy_id": [
+                "32630"
+            ]
+        }
+    },
+    "D_1001400001": {
+        "_entity": {
+            "_entity.id": [
+                "1",
+                "2"
+            ],
+            "_entity.type": [
+                "polymer",
+                "water"
+            ],
+            "_entity.src_method": [
+                "nat",
+                "nat"
+            ],
+            "_entity.pdbx_description": [
+                "Endothiapepsin",
+                "water"
+            ],
+            "_entity.formula_weight": [
+                "33813.855",
+                "18.015"
+            ],
+            "_entity.pdbx_number_of_molecules": [
+                "1",
+                "172"
+            ],
+            "_entity.pdbx_ec": [
+                "3.4.23.22",
+                "?"
+            ],
+            "_entity.pdbx_mutation": [
+                "?",
+                "?"
+            ],
+            "_entity.pdbx_fragment": [
+                "?",
+                "?"
+            ],
+            "_entity.details": [
+                "?",
+                "?"
+            ]
+        },
+        "_entity_src_nat": {
+            "_entity_src_nat.entity_id": [
+                "1"
+            ],
+            "_entity_src_nat.pdbx_src_id": [
+                "1"
+            ],
+            "_entity_src_nat.pdbx_alt_source_flag": [
+                "sample"
+            ],
+            "_entity_src_nat.pdbx_beg_seq_num": [
+                "1"
+            ],
+            "_entity_src_nat.pdbx_end_seq_num": [
+                "330"
+            ],
+            "_entity_src_nat.common_name": [
+                "Chesnut blight fungus"
+            ],
+            "_entity_src_nat.pdbx_organism_scientific": [
+                "Cryphonectria parasitica"
+            ],
+            "_entity_src_nat.pdbx_ncbi_taxonomy_id": [
+                "5116"
+            ]
+        }
+    }
+}
