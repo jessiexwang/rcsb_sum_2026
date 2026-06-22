@@ -155,7 +155,7 @@ class readSource:
 
     
         with open(fp_category_json, 'w') as fp:
-                json.dump(d_src_all, fp)
+                json.dump(d_src_all, fp, indent= 4)
 
 
 
