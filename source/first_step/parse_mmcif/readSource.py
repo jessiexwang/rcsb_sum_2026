@@ -2,6 +2,7 @@ import os
 import sys
 import functools
 from concurrent.futures import ProcessPoolExecutor
+import json
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 SRC_DIR = os.path.dirname(os.path.dirname(DIR))
@@ -46,6 +47,30 @@ class readSource:
         self.src_gen = []
         self.src_syn = []
 
+    def writeDictToFile(d_all, fp, l_item):
+        """a method to write dictionary information into a tsv (tab separated values) file, given a dictionary, a filepath, and a list of headings.
+            
+            Returns:
+                bool: True if the category was read successfully, False otherwise.
+        """
+        l_h = []
+        l_h.extend(l_item) # add rest of headings
+        
+        with open(fp, 'w') as f:
+            f.write("\t".join(l_h)) #separate headings w tabs
+            f.write("\n") # start adding data on a new line
+            for id, d_one in d_all.items(): # for each id, take one of the dictionaries (contact/citation)
+                if d_one:
+                    for i in range(len(list(d_one.values())[0])): # for every value in the dictionary
+                        l_line = [id] # new line staring w id
+                        for item in l_item: # item (not category)
+                            l_line.append(d_one[item][i]) # add all info (items only)
+                        f.write("\t".join(l_line)) # combine into a line w a tab separation
+                        f.write("\n") # new line for  new data
+                else:
+                    logger.warning("entry %s has EMPTY dict", id)
+                    continue
+        return True
 
     
     def filterSource(self, group, id):
@@ -72,7 +97,7 @@ class readSource:
         reader = LegacyReader(fp)
         reader.readCategory("entity_src_nat")
         reader.cleanDict() #clean
-        rt_data = {}
+        rt_data = {"id" : id}
         for item in reader.d_category:
             if reader.d_category[item] != ["?"]:
                 rt_data[item] = reader.d_category[item]
@@ -83,7 +108,7 @@ class readSource:
         reader = LegacyReader(fp)
         reader.readCategory("entity_src_gen")
         reader.cleanDict() #clean
-        rt_data = {}
+        rt_data = {"id" : id}
         for item in reader.d_category:
             if reader.d_category[item] != ["?"]:
                 rt_data[item] = reader.d_category[item]
@@ -94,11 +119,38 @@ class readSource:
         reader = LegacyReader(fp)
         reader.readCategory("pdbx_entity_src_syn")
         reader.cleanDict() #clean
-        rt_data = {}
+        rt_data = {"id" : id}
         for item in reader.d_category:
             if reader.d_category[item] != ["?"]:
                 rt_data[item] = reader.d_category[item]
         return rt_data
+    
+    def writeOut(self, src_list, src_type):
+        d_src_all = {}
+
+        for i in range(len(src_list)):
+            try:
+                id = src_list[i][id]
+                d_category = src_list[i]
+                logger.info(f"Processing {id}")    
+                d_src_all[id] = d_category # for a key [the id], add category info
+                
+            except IndexError as e:
+                logger.error("entry %s with error %s", id, e)
+                continue
+
+        fn_category = src_type + ".tsv"
+        fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
+        fn_category_json = src_type + ".json"
+        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
+
+        l_item_category = d_src_all.keys()
+
+        self.writeDictToFile(d_src_all, fp_category, l_item_category)
+
+        with open(fp_category_json, 'w') as fp:
+                json.dump(d_src_all, fp)
+
 
     def readSource(self, group, id):
         self.filterSource(group, id)
@@ -131,9 +183,14 @@ class readSource:
             if "_pdbx_entity_src_syn.entity_id" in results_list[i]: 
                 self.src_syn.append(results_list[i])
 
-        print(self.src_gen)
-        print(self.src_nat)
-        print(self.src_syn)
+        if self.src_gen:
+            self.writeOut(self.src_gen, "entity_src_gen") #ask for ideas on how to resolve the id problem
+
+        if self.src_nat:
+            self.writeOut(self.src_gen, "entity_src_gen")
+
+        if self.src_syn:
+            self.writeOut(self.src_gen, "_pdbx_entity_src_syn")
             
         # to separate into lists, read into json?
         # inprogress
@@ -150,6 +207,8 @@ def main():
     r = readSource()
     res = r.readSource(group, l_id[1])
     print(res)
+
+    # r.mapSource(group, l_id) # to test
 
 if __name__ == "__main__":
     main()
