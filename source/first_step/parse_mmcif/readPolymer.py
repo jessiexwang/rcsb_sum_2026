@@ -43,6 +43,15 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 class readPolymer():
+    """ a class to read mmcif data files and extract certain metadata about the entry's polymers
+    Attributes:
+        category1: first category of metadata
+        category2: second category of metadata
+        category3: third category of metadata
+        category4: fourth category of metadata
+        cat_list: list of category attributes
+        list: list to combine dictionaries
+    """
     def __init__(self):
         self.category1 = "entity"
         self.category2 = "entity_poly"
@@ -54,6 +63,15 @@ class readPolymer():
 
 
     def readMultipleCat(self, group, id):
+        """method to parse data from multiple categories and combine them into one dictionary
+
+        Args:
+            group (str): group that the entry belongs to
+            id (str): dep id
+
+        Returns:
+            dict: dictionary of parsed info
+        """
         d1 = workerOne(self.category1, group, id)
         en_type = d1['_entity.type'].copy()
         index_list = []
@@ -85,6 +103,12 @@ class readPolymer():
 
 
     def readPolymer(self, l_id, group):
+        """method to parse out all the needed information about an entry's polymer(s)
+
+        Args:
+            l_id (str): list of dep ids
+            group (str): group that the entry belongs to
+        """
 
         partial_readMultipleCat = functools.partial(self.readMultipleCat, group)
 

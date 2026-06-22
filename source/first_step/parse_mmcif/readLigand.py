@@ -62,7 +62,7 @@ class readLigand:
         Returns:
             str: dep id
             or
-            str: tuple of (dep id, dictionary of information)
+            tuple: (dep id, dictionary of information)
         """
         fp = os.path.join(DATA_DIR, group, id + ".cif")
 

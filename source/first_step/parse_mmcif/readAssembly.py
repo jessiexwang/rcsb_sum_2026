@@ -42,6 +42,13 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 class readAssembly:
+    """a class to read mmcif data files and extract certain metadata about the entry's structure assembly
+    Attributes:
+        category1: first category of metadata
+        category2: second category of metadata
+        l_cat: list of category attributes
+        list: list to combine dictionaries
+    """
     def __init__(self):
         self.category1 = "pdbx_struct_assembly"
         self.category2 = "pdbx_struct_assembly_gen"
@@ -50,6 +57,15 @@ class readAssembly:
 
 
     def readTwoCat(self, group, id):
+        """method to read the two categories needed
+
+        Args:
+            group (str): group that the entry belongs to
+            id (str): dep id
+
+        Returns:
+            dict: dictionary of parsed info
+        """
         d1 = workerOne(self.category1, group, id)
         d2 = workerOne(self.category2, group, id)
 
@@ -57,6 +73,12 @@ class readAssembly:
         return d1
 
     def readAssembly(self, group, l_id):
+        """method to parse out all the needed information about an entry's structure assembly
+
+        Args:
+            group (str): group that the entry belongs to
+            l_id (str): list of dep ids
+        """
         partial_readTwoCat = functools.partial(self.readTwoCat, group)
 
         with ProcessPoolExecutor() as executor:

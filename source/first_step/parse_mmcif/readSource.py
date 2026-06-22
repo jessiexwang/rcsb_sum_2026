@@ -42,16 +42,21 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 class readSource:
+    """a class to read mmcif data files and extract certain metadata about an entry's entity source(s)
+    Attributes:
+        l_source: container for a list of sources within an entry
+    
+    """
     def __init__(self):
         self.l_source = []
-        self.src_nat = []
-        self.src_gen = []
-        self.src_syn = []
-
-
-    
     
     def filterSource(self, group, id):
+        """method to determine what the source method(s) is/are
+
+        Args:
+            group (str): group that the entry belongs to
+            id (str): dep id
+        """
         fp = os.path.join(DATA_DIR, group, id + ".cif")
 
         logger.info("filepath at %s", fp)
@@ -71,6 +76,15 @@ class readSource:
                     
 
     def srcNat(self, group, id):
+        """method to parse out info of the source is natural from categories with non-null values
+
+        Args:
+            group (str): group that the entry belongs to
+            id (str): dep id
+
+        Returns:
+            dict: dictionary of metadata
+        """
         fp = os.path.join(DATA_DIR, group, id + ".cif")
         reader = LegacyReader(fp)
         reader.readCategory("entity_src_nat")
@@ -82,6 +96,16 @@ class readSource:
         return rt_data
     
     def srcGen(self, group, id):
+        """method to parse out info of the source is genetically modified from categories with non-null values
+
+        Args:
+            group (str): group that the entry belongs to
+            id (str): dep id
+
+        Returns:
+            dict: dictionary of metadata
+        """
+
         fp = os.path.join(DATA_DIR, group, id + ".cif")
         reader = LegacyReader(fp)
         reader.readCategory("entity_src_gen")
@@ -93,6 +117,15 @@ class readSource:
         return rt_data
     
     def srcSyn(self, group, id):
+        """method to parse out info of the source is synthetic from categories with non-null values
+
+        Args:
+            group (str): group that the entry belongs to
+            id (str): dep id
+
+        Returns:
+            dict: dictionary of metadata
+        """
         fp = os.path.join(DATA_DIR, group, id + ".cif")
         reader = LegacyReader(fp)
         reader.readCategory("pdbx_entity_src_syn")
@@ -106,6 +139,15 @@ class readSource:
 
 
     def readSource(self, group, id):
+        """method to read the source information of one id
+
+        Args:
+            group (str): group that the entry belongs to
+            id (str): dep id
+
+        Returns:
+            dict: dictionary, where the keys are are type of source and the values are the dictionaries of information
+        """
         self.filterSource(group, id)
 
         d_all = {}
@@ -128,6 +170,11 @@ class readSource:
         return d_all
     
     def mapSourceOneGroup(self, group, l_id):
+        """method to read the source of a list of ids belonging to one group
+        Args:
+            group (str): group that the entry belongs to
+            l_id (str): list of dep ids
+        """
         
         partial_readSource = functools.partial(self.readSource, group)
 
@@ -159,39 +206,46 @@ class readSource:
 
 
 
-    def mapSourceMoreGroup(self, l_group, l_id):
-            
-            with ProcessPoolExecutor() as executor:
-                results = executor.map(self.readSource, l_group, l_id)
-            
-            results_list = list(results)
+    def mapSourceMoreGroup(self, l_group, l_id): 
+        """method to read the source of a list of ids belonging to multiple groups, given by a list
+        that corresponds to the list of ids
 
-            d_src_all = {}
-
-            for i in range(len(l_id)):
-                try:
-                    id = l_id[i]
-                    d_info = results_list[i]
-                    logger.info(f"Processing {id}")    
-                    d_src_all[id] = d_info # for a key [the id], add category info
-                    
-                except IndexError as e:
-                    logger.error("entry %s with error %s", id, e)
-                    continue
-
-
-            fn_category_json = "source.json"
-            fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
-
+        Args:
+            l_group (str): groups that the entries belong to, matching the the list of ids
+            l_id (str): list of dep ids
+        """ 
+        with ProcessPoolExecutor() as executor:
+            results = executor.map(self.readSource, l_group, l_id)
         
-            with open(fp_category_json, 'w') as fp:
-                    json.dump(d_src_all, fp, indent= 4)
+        results_list = list(results)
+
+        d_src_all = {}
+
+        for i in range(len(l_id)):
+            try:
+                id = l_id[i]
+                d_info = results_list[i]
+                logger.info(f"Processing {id}")    
+                d_src_all[id] = d_info # for a key [the id], add category info
+                
+            except IndexError as e:
+                logger.error("entry %s with error %s", id, e)
+                continue
+
+
+        fn_category_json = "source.json"
+        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
+
+    
+        with open(fp_category_json, 'w') as fp:
+                json.dump(d_src_all, fp, indent= 4)
 
         
 
 
 
 def main():
+    
     l_id = ["D_1001407944", "D_1001406693", "D_1001400001"] 
     group = 'test_readSource' #testing purposes
     l_group = []
