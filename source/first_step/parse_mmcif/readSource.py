@@ -182,10 +182,10 @@ def main():
     l_group = []
 
     r = readSource()
-    res = r.readSource(group, l_id[1])
-    print(res)
+    # res = r.readSource(group, l_id[1])
+    # print(res)
 
-    # r.mapSource(group, l_id) # to test
+    r.mapSource(group, l_id) # to test
 
 if __name__ == "__main__":
     main()
