@@ -40,16 +40,30 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 class readLigand:
-    """class to read the information needed from ligands
+    """a class to read mmcif data files and find entries missing the Ligand of Interest (LOI)
+    this classes searches the file and determines if `_pdbx_entity_instance_feature` is missing 
+    or there is a null value in `_pdbx_entity_instance_feature.auth_comp_id`. 
+    Attributes:
+        l_id_null: list of ids that do not have the category `_pdbx_entity_instance_feature`
+        l_id_to_null: list of ids to check for a null value in `_pdbx_entity_instance_feature.auth_comp_id`
     """
-
-
-
+  
     def __init__(self):
         self.l_id_null = []
         self.l_id_to_null =[]
 
     def searchCategory(self, group, id):
+        """method to search for the `pdbx_entity_instance_feature` category
+
+        Args:
+            group (str): group that the entry belongs to
+            id (str): deposition id
+
+        Returns:
+            str: dep id
+            or
+            str: tuple of (dep id, dictionary of information)
+        """
         fp = os.path.join(DATA_DIR, group, id + ".cif")
 
         logger.info("filepath at %s", fp)
@@ -61,16 +75,28 @@ class readLigand:
         else:
             reader.cleanDict() #clean
             rt_data = reader.d_category # return a dictionary
+            print(type((id, rt_data)))
             return (id, rt_data)
 
     
     def searchNull(self, id_tuple):
+        """method to search for null values
+
+        Args:
+            id_tuple (str, str): _description_
+        """
         info = id_tuple[1]
         if info['_pdbx_entity_instance_feature.comp_id'] == ['?'] or info['_pdbx_entity_instance_feature.comp_id'] == ['.'] or info['_pdbx_entity_instance_feature.comp_id'] == ['']: 
            self.l_id_null.append(id_tuple[0])
 
         
     def filterLigand(self, group, l_id):
+        """method to filter for entries that are missing lingand info and write out into a list
+
+        Args:
+            group (str): group that the entry belongs to
+            l_id (str): list of dep ids
+        """
         partial_searchCategory = functools.partial(self.searchCategory, group)
 
         with ProcessPoolExecutor() as executor:
