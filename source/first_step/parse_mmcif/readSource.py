@@ -102,20 +102,6 @@ class readSource:
             if reader.d_category[item] != ["?"]:
                 rt_data[item] = reader.d_category[item]
         return rt_data
-    
-    def writeOut(self, src_list, src_type):
-        d_src_all = {}
-
-        for i in range(len(src_list)):
-            try:
-                id = src_list[i][id]
-                d_category = src_list[i]
-                logger.info(f"Processing {id}")    
-                d_src_all[id] = d_category # for a key [the id], add category info
-                
-            except IndexError as e:
-                logger.error("entry %s with error %s", id, e)
-                continue
 
 
 
@@ -143,8 +129,10 @@ class readSource:
     
     def mapSource(self, group, l_id):
         
+        partial_readSource = functools.partial(self.readSource, group)
+
         with ProcessPoolExecutor() as executor:
-            results = executor.map(self.readSource, group, l_id)
+            results = executor.map(partial_readSource, l_id)
         
         results_list = list(results)
 
