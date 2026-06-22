@@ -18,6 +18,7 @@ if not os.path.isdir(LOG_DIR):
 
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLegacy import LegacyReader
+from first_step.parse_mmcif.readSingle import workerOne
 
 
 #----------logging-----------
@@ -47,31 +48,8 @@ class readSource:
         self.src_gen = []
         self.src_syn = []
 
-    def writeDictToFile(d_all, fp, l_item):
-        """a method to write dictionary information into a tsv (tab separated values) file, given a dictionary, a filepath, and a list of headings.
-            
-            Returns:
-                bool: True if the category was read successfully, False otherwise.
-        """
-        l_h = []
-        l_h.extend(l_item) # add rest of headings
-        
-        with open(fp, 'w') as f:
-            f.write("\t".join(l_h)) #separate headings w tabs
-            f.write("\n") # start adding data on a new line
-            for id, d_one in d_all.items(): # for each id, take one of the dictionaries (contact/citation)
-                if d_one:
-                    for i in range(len(list(d_one.values())[0])): # for every value in the dictionary
-                        l_line = [id] # new line staring w id
-                        for item in l_item: # item (not category)
-                            l_line.append(d_one[item][i]) # add all info (items only)
-                        f.write("\t".join(l_line)) # combine into a line w a tab separation
-                        f.write("\n") # new line for  new data
-                else:
-                    logger.warning("entry %s has EMPTY dict", id)
-                    continue
-        return True
 
+    
     
     def filterSource(self, group, id):
         fp = os.path.join(DATA_DIR, group, id + ".cif")
@@ -97,7 +75,7 @@ class readSource:
         reader = LegacyReader(fp)
         reader.readCategory("entity_src_nat")
         reader.cleanDict() #clean
-        rt_data = {"id" : id}
+        rt_data = {}
         for item in reader.d_category:
             if reader.d_category[item] != ["?"]:
                 rt_data[item] = reader.d_category[item]
@@ -108,7 +86,7 @@ class readSource:
         reader = LegacyReader(fp)
         reader.readCategory("entity_src_gen")
         reader.cleanDict() #clean
-        rt_data = {"id" : id}
+        rt_data = {}
         for item in reader.d_category:
             if reader.d_category[item] != ["?"]:
                 rt_data[item] = reader.d_category[item]
@@ -119,7 +97,7 @@ class readSource:
         reader = LegacyReader(fp)
         reader.readCategory("pdbx_entity_src_syn")
         reader.cleanDict() #clean
-        rt_data = {"id" : id}
+        rt_data = {}
         for item in reader.d_category:
             if reader.d_category[item] != ["?"]:
                 rt_data[item] = reader.d_category[item]
@@ -139,17 +117,6 @@ class readSource:
                 logger.error("entry %s with error %s", id, e)
                 continue
 
-        fn_category = src_type + ".tsv"
-        fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
-        fn_category_json = src_type + ".json"
-        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
-
-        l_item_category = d_src_all.keys()
-
-        self.writeDictToFile(d_src_all, fp_category, l_item_category)
-
-        with open(fp_category_json, 'w') as fp:
-                json.dump(d_src_all, fp)
 
 
     def readSource(self, group, id):
@@ -157,14 +124,20 @@ class readSource:
 
         d_all = {}
 
+        res = workerOne("entity", group, id)
+        d_all["_entity"] = res
+
         for i in self.l_source:
             if i == "entity_src_nat":
                 res = self.srcNat(group, id)
+                d_all["_entity_src_nat"] = res
             elif i == "entity_src_gen":
                 res = self.srcGen(group, id)
+                d_all["_entity_src_gen"] = res
             elif i == "pdbx_entity_src_syn":
                 res = self.srcSyn(group, id)
-            d_all.update(res)
+                d_all["pdbx_entity_src_syn"] = res
+            
 
         return d_all
     
@@ -175,27 +148,31 @@ class readSource:
         
         results_list = list(results)
 
-        for i in range(len(results_list)):
-            if "_entity_src_gen.entity_id" in results_list[i]: 
-                self.src_gen.append(results_list[i])
-            if "_entity_src_nat.entity_id" in results_list[i]: 
-                self.src_nat.append(results_list[i])
-            if "_pdbx_entity_src_syn.entity_id" in results_list[i]: 
-                self.src_syn.append(results_list[i])
+        d_src_all = {}
 
-        if self.src_gen:
-            self.writeOut(self.src_gen, "entity_src_gen") #ask for ideas on how to resolve the id problem
+        for i in range(len(l_id)):
+            try:
+                id = l_id[i]
+                d_info = results_list[i]
+                logger.info(f"Processing {id}")    
+                d_src_all[id] = d_info # for a key [the id], add category info
+                
+            except IndexError as e:
+                logger.error("entry %s with error %s", id, e)
+                continue
 
-        if self.src_nat:
-            self.writeOut(self.src_gen, "entity_src_gen")
 
-        if self.src_syn:
-            self.writeOut(self.src_gen, "_pdbx_entity_src_syn")
-            
-        # to separate into lists, read into json?
-        # inprogress
+        fn_category_json = "source.json"
+        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
+
+    
+        with open(fp_category_json, 'w') as fp:
+                json.dump(d_src_all, fp)
+
+
 
         
+    
 
 
 
