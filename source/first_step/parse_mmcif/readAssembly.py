@@ -86,7 +86,7 @@ class readAssembly:
         writeDictToFile(d_category_all, fp, self.l_cat)
 
         with open(fp_category_json, 'w') as fp:
-            json.dump(d_category_all, fp)
+            json.dump(d_category_all, fp, indent= 4)
 
 
 

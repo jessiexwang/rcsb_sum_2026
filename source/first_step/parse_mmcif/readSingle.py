@@ -120,7 +120,7 @@ def processList_id(l_id, group, category, l_item_category):
     writeDictToFile(d_category_all, fp_category, l_item_category)
 
     with open(fp_category_json, 'w') as fp:
-        json.dump(d_category_all, fp)
+        json.dump(d_category_all, fp, indent= 4)
 
 
 

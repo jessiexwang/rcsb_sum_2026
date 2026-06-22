@@ -127,7 +127,7 @@ class readSource:
 
         return d_all
     
-    def mapSource(self, group, l_id):
+    def mapSourceOneGroup(self, group, l_id):
         
         partial_readSource = functools.partial(self.readSource, group)
 
@@ -159,8 +159,35 @@ class readSource:
 
 
 
+    def mapSourceMoreGroup(self, l_group, l_id):
+            
+            with ProcessPoolExecutor() as executor:
+                results = executor.map(self.readSource, l_group, l_id)
+            
+            results_list = list(results)
+
+            d_src_all = {}
+
+            for i in range(len(l_id)):
+                try:
+                    id = l_id[i]
+                    d_info = results_list[i]
+                    logger.info(f"Processing {id}")    
+                    d_src_all[id] = d_info # for a key [the id], add category info
+                    
+                except IndexError as e:
+                    logger.error("entry %s with error %s", id, e)
+                    continue
+
+
+            fn_category_json = "source.json"
+            fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
+
         
-    
+            with open(fp_category_json, 'w') as fp:
+                    json.dump(d_src_all, fp, indent= 4)
+
+        
 
 
 
@@ -173,7 +200,7 @@ def main():
     # res = r.readSource(group, l_id[1])
     # print(res)
 
-    r.mapSource(group, l_id) # to test
+    r.mapSourceOneGroup(group, l_id) # to test
 
 if __name__ == "__main__":
     main()
