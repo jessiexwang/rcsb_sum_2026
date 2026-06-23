@@ -57,7 +57,7 @@ def writeDictToFile(d_all, fp, l_item):
     with open(fp, 'w') as f:
         f.write("\t".join(l_h)) #separate headings w tabs
         f.write("\n") # start adding data on a new line
-        for id, d_one in d_all.items(): # for each id, take one of the dictionaries (contact/citation)
+        for id, d_one in d_all.items(): # for each id, take one of the dictionaries 
             if d_one:
                 for i in range(len(list(d_one.values())[0])): # for every value in the dictionary
                     l_line = [id] # new line staring w id

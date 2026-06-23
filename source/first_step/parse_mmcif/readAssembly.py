@@ -70,7 +70,11 @@ class readAssembly:
         d2 = workerOne(self.category2, group, id)
 
         d1.update(d2)
-        return d1
+        d_new = {}
+
+        for item in self.l_cat:
+            d_new[item] = d1[item]
+        return d_new
 
     def readAssembly(self, group, l_id):
         """method to parse out all the needed information about an entry's structure assembly

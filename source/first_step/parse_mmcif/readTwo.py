@@ -50,8 +50,8 @@ class readTwo:
         self.list = []
 
 
-    def readTwoCat(self, group, cat1, cat2, id):
-        """method to read the two categories needed
+    def readTwoCat(self, group, cat1, cat2, l_cat, id):
+        """method to read the two categories+ their attributes needed
 
         Args:
             group (str): group that the entry belongs to
@@ -66,6 +66,11 @@ class readTwo:
         d2 = workerOne(cat2, group, id)
 
         d1.update(d2)
+        d_new = {}
+
+        for item in l_cat:
+            d_new[item] = d1[item]
+
         return d1
     
     def readTwo(self, group, cat1, cat2, l_id, l_cat, file_name):
@@ -79,7 +84,7 @@ class readTwo:
             l_cat (str): list of attributes to parse
             file_name (str): name of file out
         """
-        partial_readTwoCat = functools.partial(self.readTwoCat, group, cat1, cat2)
+        partial_readTwoCat = functools.partial(self.readTwoCat, group, cat1, cat2, l_cat)
 
         with ProcessPoolExecutor() as executor:
             results = executor.map(partial_readTwoCat, l_id)
@@ -99,17 +104,15 @@ class readTwo:
                 logger.error("entry %s with error %s", id, e)
                 continue
 
-        print(d_category)
 
         # fn = file_name +".tsv"
         # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        # fn_json = file_name + ".json"
-        # fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+        fn_json = file_name + ".json"
+        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
-        # writeDictToFile(d_category_all, fp, l_cat)
 
-        # with open(fp_category_json, 'w') as fp:
-        #     json.dump(d_category_all, fp, indent= 4)
+        with open(fp_category_json, 'w') as fp:
+            json.dump(d_category_all, fp, indent= 4)
 
 def main():
    l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]

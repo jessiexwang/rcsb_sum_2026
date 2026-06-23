@@ -95,9 +95,12 @@ class readPolymer():
         d1.update(d3)
         d1.update(d4)
 
-    
+        d_new = {}
 
-        return d1
+        for item in self.cat_list:
+            d_new[item] = d1[item]
+
+        return d_new
 
      
 
