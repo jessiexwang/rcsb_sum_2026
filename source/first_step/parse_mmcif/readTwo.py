@@ -99,16 +99,17 @@ class readTwo:
                 logger.error("entry %s with error %s", id, e)
                 continue
 
+        print(d_category)
 
-        fn = file_name +".tsv"
-        fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        fn_json = file_name + ".json"
-        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+        # fn = file_name +".tsv"
+        # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+        # fn_json = file_name + ".json"
+        # fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
-        writeDictToFile(d_category_all, fp, l_cat)
+        # writeDictToFile(d_category_all, fp, l_cat)
 
-        with open(fp_category_json, 'w') as fp:
-            json.dump(d_category_all, fp, indent= 4)
+        # with open(fp_category_json, 'w') as fp:
+        #     json.dump(d_category_all, fp, indent= 4)
 
 def main():
    l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]
