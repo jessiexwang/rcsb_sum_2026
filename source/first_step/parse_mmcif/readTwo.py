@@ -86,7 +86,7 @@ class readTwo:
             l_cat (str): list of attributes to parse
             file_name (str): name of file out
         """
-        self.l_cat = l_cat
+        self.l_cat = l_cat.copy()
         print(self.l_cat)
         partial_readTwoCat = functools.partial(self.readTwoCat, group, cat1, cat2)
 
@@ -121,10 +121,11 @@ class readTwo:
 def main():
    l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]
    group = 'G_1002329'
-   cat1 = "audit_author"
-   cat2 = "struct"
-   l_cat = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
-   fn = "authorship"
+   cat1 = "citation"
+   cat2 = "citation_author"
+   #l_cat = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
+   l_cat = ["_citation.title", "_citation_author.name"]
+   fn = "citation"
 
    rt = readTwo()
    rt.readTwo(group, cat1, cat2, l_id, l_cat, fn)
