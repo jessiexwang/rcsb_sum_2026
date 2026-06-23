@@ -88,35 +88,35 @@ class readTwo:
         """
         self.l_cat = l_cat.copy()
         print(self.l_cat)
-        partial_readTwoCat = functools.partial(self.readTwoCat, group, cat1, cat2)
+        # partial_readTwoCat = functools.partial(self.readTwoCat, group, cat1, cat2)
 
-        with ProcessPoolExecutor() as executor:
-            results = executor.map(partial_readTwoCat, l_id)
-        # map returns a generator, so convert to list if needed
-        self.list = list(results)
+        # with ProcessPoolExecutor() as executor:
+        #     results = executor.map(partial_readTwoCat, l_id)
+        # # map returns a generator, so convert to list if needed
+        # self.list = list(results)
 
-        d_category_all = {}
+        # d_category_all = {}
 
-        for i in range(len(l_id)):
-            try:
-                id = l_id[i]
-                d_category = self.list[i]
-                logger.info(f"Processing {id}")    
-                d_category_all[id] = d_category # for a key [the id], add category info
+        # for i in range(len(l_id)):
+        #     try:
+        #         id = l_id[i]
+        #         d_category = self.list[i]
+        #         logger.info(f"Processing {id}")    
+        #         d_category_all[id] = d_category # for a key [the id], add category info
                 
-            except IndexError as e:
-                logger.error("entry %s with error %s", id, e)
-                continue
+        #     except IndexError as e:
+        #         logger.error("entry %s with error %s", id, e)
+        #         continue
 
 
-        # fn = file_name +".tsv"
-        # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        fn_json = file_name + ".json"
-        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+        # # fn = file_name +".tsv"
+        # # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+        # fn_json = file_name + ".json"
+        # fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
 
-        with open(fp_category_json, 'w') as fp:
-            json.dump(d_category_all, fp, indent= 4)
+        # with open(fp_category_json, 'w') as fp:
+        #     json.dump(d_category_all, fp, indent= 4)
 
 def main():
    l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]
