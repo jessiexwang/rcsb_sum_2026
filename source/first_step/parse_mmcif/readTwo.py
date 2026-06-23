@@ -45,12 +45,14 @@ class readTwo:
     """a class to read mmcif data files and extract certain metadata from two groups about the entry's structure assembly
     Attributes:
         list: list to combine dictionaries
+        l_cat: list of select attributes
     """
     def __init__(self):
         self.list = []
+        self.l_cat = []
 
 
-    def readTwoCat(self, group, cat1, cat2, l_cat, id):
+    def readTwoCat(self, group, cat1, cat2, id):
         """method to read the two categories+ their attributes needed
 
         Args:
@@ -68,7 +70,7 @@ class readTwo:
         d1.update(d2)
         d_new = {}
 
-        for item in l_cat:
+        for item in self.l_cat:
             d_new[item] = d1[item]
 
         return d1
@@ -84,7 +86,8 @@ class readTwo:
             l_cat (str): list of attributes to parse
             file_name (str): name of file out
         """
-        partial_readTwoCat = functools.partial(self.readTwoCat, group, cat1, cat2, l_cat)
+        self.l_cat = l_cat
+        partial_readTwoCat = functools.partial(self.readTwoCat, group, cat1, cat2)
 
         with ProcessPoolExecutor() as executor:
             results = executor.map(partial_readTwoCat, l_id)
