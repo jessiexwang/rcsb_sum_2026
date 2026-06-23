@@ -87,6 +87,7 @@ class readTwo:
             file_name (str): name of file out
         """
         self.l_cat = l_cat
+        print(self.l_cat)
         partial_readTwoCat = functools.partial(self.readTwoCat, group, cat1, cat2)
 
         with ProcessPoolExecutor() as executor:
