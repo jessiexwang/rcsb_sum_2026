@@ -115,7 +115,7 @@ def main():
    group = 'G_1002329'
    cat1 = "audit_author"
    cat2 = "struct"
-   l_cat = ["audit_author.name", "audit_author.pdbx_ordinal", "_struct.title"]
+   l_cat = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
    fn = "authorship"
 
    rt = readTwo()
