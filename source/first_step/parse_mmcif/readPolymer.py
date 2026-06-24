@@ -159,12 +159,12 @@ class readPolymer():
                 continue
 
 
-        fn = "polymer.tsv"
-        fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+        # fn = "polymer.tsv"
+        # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
         fn_json = "polymer.json"
         fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
-        writeDictToFile(d_category_all, fp, self.cat_list)
+        # writeDictToFile(d_category_all, fp, self.cat_list)
 
         with open(fp_category_json, 'w') as fp:
             json.dump(d_category_all, fp, indent= 4)
