@@ -75,18 +75,18 @@ class readPolymer():
             dict: dictionary of parsed info
         """
         d1 = workerOne(category=self.category1, group=group, l_item_category=self.cat_list, id=id)
-        en_type = d1['_entity.type'].copy()
-        index_list = []
-        for item in en_type:
-            print(item)
-            if item == "polymer":
-                index_list.append(en_type.index(item))
+        # en_type = d1['_entity.type'].copy()
+        # index_list = []
+        # for item in en_type:
+        #     print(item)
+        #     if item == "polymer":
+        #         index_list.append(en_type.index(item))
         
-        for item in d1:
-            l_new = []
-            for i in index_list:
-                l_new.append(d1[item][i])
-            d1[item] = l_new
+        # for item in d1:
+        #     l_new = []
+        #     for i in index_list:
+        #         l_new.append(d1[item][i])
+        #     d1[item] = l_new
             
 
         # d2 = workerOne(self.category2, group, id)
