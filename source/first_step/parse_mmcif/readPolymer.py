@@ -74,7 +74,7 @@ class readPolymer():
         Returns:
             dict: dictionary of parsed info
         """
-        d1 = workerOne(self.category1, group, self.cat_list, id)
+        d1 = workerOne(category=self.category1, group=group, l_item_category=self.cat_list, id=id)
         en_type = d1['_entity.type'].copy()
         index_list = []
         for item in en_type:
@@ -167,7 +167,7 @@ def main():
     group = 'G_1002329'
 
     rp = readPolymer()
-    res = rp.readMultipleCat(group, l_id)
+    res = rp.readMultipleCat(group, l_id[2])
     print(res)
     #rp.readPolymer(group, l_id)
 
