@@ -54,7 +54,7 @@ def parseAll(group, l_id):
     rT = readTwo()
 
     # -------- single categories ---------#
-    l_single = ["exptl_crystal_grow", "refine", "entity", "pdbx_deposit_group"]
+    l_single = ["exptl_crystal_grow", "refine", "pdbx_deposit_group"]
     l_1 = ["_exptl_crystal_grow.temp", "_exptl_crystal_grow.method"]
     l_2 = ["_refine.ls_d_res_high"]
     l_4 = ["_pdbx_deposit_group.group_title", "_pdbx_deposit_group.group_description"]
