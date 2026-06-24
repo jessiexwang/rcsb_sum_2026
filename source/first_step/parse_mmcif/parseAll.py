@@ -67,7 +67,7 @@ def parseAll(group, l_id):
 
 
     # ---------- two categories ----------
-    l_cat1 = ["_diffrn_radiation_wavelength.wavelength", "diffrn_source.type"]
+    l_cat1 = ["_diffrn_radiation_wavelength.wavelength", "_diffrn_source.type"]
     rT.readTwo(group, cat1="diffrn_radiation_wavelength", cat2="diffrn_source", l_id=l_id, l_cat=l_cat1, file_name="data_collection")
 
     l_cat2 = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
