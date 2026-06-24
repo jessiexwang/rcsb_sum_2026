@@ -15,11 +15,11 @@ if not os.path.isdir(LOG_DIR):
     os.makedirs(LOG_DIR)
 
 sys.path.insert(0, SRC_DIR)
-from first_step.parse_mmcif.readLigand import readLigand as rL
-from first_step.parse_mmcif.readSource import readSource as rS
-from first_step.parse_mmcif.readAssembly import readAssembly as rA
-from first_step.parse_mmcif.readTwo import readTwo as rT
-from first_step.parse_mmcif.readPolymer import readPolymer as rP
+from first_step.parse_mmcif.readLigand import readLigand 
+from first_step.parse_mmcif.readSource import readSource 
+from first_step.parse_mmcif.readAssembly import readAssembly 
+from first_step.parse_mmcif.readTwo import readTwo 
+from first_step.parse_mmcif.readPolymer import readPolymer 
 from first_step.parse_mmcif.readSingle import processList_category 
 
 #----------logging-----------
@@ -47,6 +47,12 @@ def parseAll(group, l_id):
     """run through different processes for the list of ids 
     """
 
+    rL = readLigand()
+    rS = readSource()
+    rA = readAssembly()
+    rP = readPolymer()
+    rT = readTwo()
+
     # -------- single categories ---------#
     l_single = ["exptl_crystal_grow", "refine", "entity", "pdbx_deposit_group"]
     l_1 = ["_exptl_crystal_grow.temp", "_exptl_crystal_grow.method"]
@@ -62,7 +68,7 @@ def parseAll(group, l_id):
 
     # ---------- two categories ----------
     l_cat1 = ["_diffrn_radiation_wavelength.wavelength", "diffrn_source.type"]
-    rT.readTwo(group, "diffrn_radiation_wavelength", "diffrn_source", l_id, l_cat1, "data_collection")
+    rT.readTwo(group, cat1="diffrn_radiation_wavelength", cat2="diffrn_source", l_id=l_id, l_cat=l_cat1, file_name="data_collection")
 
     l_cat2 = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
     rT.readTwo(group, "audit_author", "struct", l_id, l_cat2, "authorship")
