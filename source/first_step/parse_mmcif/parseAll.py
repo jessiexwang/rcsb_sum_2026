@@ -17,10 +17,10 @@ if not os.path.isdir(LOG_DIR):
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLigand import readLigand as rL
 from first_step.parse_mmcif.readSource import readSource as rS
-from source.first_step.parse_mmcif.readAssembly import readAssembly as rA
-from source.first_step.parse_mmcif.readTwo import readTwo as rT
-from source.first_step.parse_mmcif.readPolymer import readPolymer as rP
-from source.first_step.parse_mmcif.readSingle import processList_category 
+from first_step.parse_mmcif.readAssembly import readAssembly as rA
+from first_step.parse_mmcif.readTwo import readTwo as rT
+from first_step.parse_mmcif.readPolymer import readPolymer as rP
+from first_step.parse_mmcif.readSingle import processList_category 
 
 #----------logging-----------
 import logging
