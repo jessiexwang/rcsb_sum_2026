@@ -17,6 +17,9 @@ sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLigand import readLigand as rL
 from first_step.parse_mmcif.readSource import readSource as rS
 from source.first_step.parse_mmcif.readAssembly import readAssembly as rA
+from source.first_step.parse_mmcif.readTwo import readTwo as rT
+from source.first_step.parse_mmcif.readPolymer import readPolymer as rP
+from source.first_step.parse_mmcif.readSingle import processList_category 
 
 #----------logging-----------
 import logging
@@ -43,17 +46,7 @@ def sort(process, group, l_id, index = None):
     """sort list of ids into diff processes
     """
 
-    if process == "source":
-        rS.mapSource(group, l_id) # in progress
-        src_nat = rS.srcNat
-        src_gen = rS.srcGen
-        src_syn = rS.srcSyn
-    elif process == "ligand":
-        rL.filterLigand(group, l_id)
-    elif process == "assembly":
-        rA.readAssembly(group, l_id, index) # also in progress??? change to just parsing out the data
-    else:
-        logger.error("Not a valid process.")
+    pass
 
   
 
