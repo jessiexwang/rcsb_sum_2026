@@ -89,6 +89,8 @@ class readPolymer():
             d1[item] = l_new
             
         d1.pop('_entity.type')
+        self.cat_list.remove('_entity.type')
+
         d2 = workerOne(self.category2, group, self.cat_list2,id)
         d3 = workerOne(self.category3, group, self.cat_list3,id)
         d1.update(d2)
@@ -99,6 +101,12 @@ class readPolymer():
         d_new = {}
 
         for item in self.cat_list:
+            d_new[item] = d1[item]
+
+        for item in self.cat_list2:
+            d_new[item] = d1[item]
+        
+        for item in self.cat_list3:
             d_new[item] = d1[item]
 
         rS.filterSource(group, id)
