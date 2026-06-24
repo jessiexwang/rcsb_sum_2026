@@ -53,17 +53,17 @@ def parseAll(group, l_id):
     rP = readPolymer()
     rT = readTwo()
 
-    # # -------- single categories ---------#
-    # l_single = ["exptl_crystal_grow", "refine", "entity", "pdbx_deposit_group"]
-    # l_1 = ["_exptl_crystal_grow.temp", "_exptl_crystal_grow.method"]
-    # l_2 = ["_refine.ls_d_res_high"]
-    # l_3 = ["_entity.pdbx_mutation"]
-    # l_4 = ["_pdbx_deposit_group.group_title", "_pdbx_deposit_group.group_description"]
+    # -------- single categories ---------#
+    l_single = ["exptl_crystal_grow", "refine", "entity", "pdbx_deposit_group"]
+    l_1 = ["_exptl_crystal_grow.temp", "_exptl_crystal_grow.method"]
+    l_2 = ["_refine.ls_d_res_high"]
+    l_3 = ["_entity.pdbx_mutation"]
+    l_4 = ["_pdbx_deposit_group.group_title", "_pdbx_deposit_group.group_description"]
 
-    # l_single_attr = [l_1, l_2, l_3, l_4]
+    l_single_attr = [l_1, l_2, l_3, l_4]
 
-    # processList_category(l_id, l_single, l_single_attr, group) 
-    # # ------------------------------------
+    processList_category(l_id, l_single, l_single_attr, group) 
+    # ------------------------------------
 
 
     # # ---------- two categories ----------
@@ -81,16 +81,16 @@ def parseAll(group, l_id):
     # rT.readTwo(group, "cell", "symmetry", l_id, l_cat4, "cell_divisions")
 
 
-    # # ------------------------------------
+    # ------------------------------------
 
-    # # ------------ complicated -----------
+    # ------------ complicated -----------
 
     # rL.filterLigand(group, l_id) 
-    rS.mapSourceOneGroup(group, l_id)
+    # rS.mapSourceOneGroup(group, l_id)
     # rA.readAssembly(group, l_id)
     # rP.readPolymer(group, l_id)
 
-     # ------------------------------------
+    # ---------------------------------------
 
   
 

@@ -70,7 +70,7 @@ def writeDictToFile(d_all, fp, l_item):
                 continue
     return True
 
-def workerOne(category, group, id):
+def workerOne(category, group, l_item_category, id):
     fp = os.path.join(DATA_DIR, group, id + ".cif")
 
     logger.info("filepath at %s", fp)
@@ -78,8 +78,14 @@ def workerOne(category, group, id):
     reader.readCategory(category) # read category, save to dictionary
     reader.cleanDict() #clean
     rt_data = reader.d_category # return a dictionary
+
+    d_new = {}
+    for item in l_item_category:
+        d_new[item] = rt_data[item]
+
+    return d_new
+
     
-    return rt_data
 
 def processList_id(l_id, group, category, l_item_category):
     """a method to take a list of data files and extracts information from each file  of thelist into two dictionaries: one for  audit contact information and one for  primary citation information. Then, it converts each dictionary into a tsv file.
@@ -92,7 +98,7 @@ def processList_id(l_id, group, category, l_item_category):
 
     l_id_test = l_id
 
-    partial_workerOne = functools.partial(workerOne, category, group)
+    partial_workerOne = functools.partial(workerOne, category, group, l_item_category)
 
     with ProcessPoolExecutor() as executor:
         results = executor.map(partial_workerOne, l_id_test)
