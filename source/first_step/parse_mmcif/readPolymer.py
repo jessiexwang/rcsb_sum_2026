@@ -19,6 +19,7 @@ if not os.path.isdir(LOG_DIR):
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readSingle import workerOne
 from first_step.parse_mmcif.readSingle import writeDictToFile
+from first_step.parse_mmcif.readSource import readSource
 
 
 
@@ -56,8 +57,8 @@ class readPolymer():
         self.category1 = "entity"
         self.category2 = "entity_poly"
         self.category3 = "struct_ref"
-        self.category4 = "entity_src_gen"
-        self.cat_list = ["_entity.src_method", "_entity_src_gen.pdbx_gene_src_scientific_name" ,"_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", "_struct_ref.db_code"]
+        self.cat_list = ["_entity.src_method", "_entity.pdbx_description", "_entity_poly.pdbx_seq_one_letter_code", 
+                         "_entity.pdbx_mutation", "_struct_ref.db_code"]
         self.list = []
 
 
@@ -89,17 +90,29 @@ class readPolymer():
 
         d2 = workerOne(self.category2, group, id)
         d3 = workerOne(self.category3, group, id)
-        d4 = workerOne(self.category4, group, id)
-
         d1.update(d2)
         d1.update(d3)
-        d1.update(d4)
+
+        rS = readSource()
 
         d_new = {}
 
         for item in self.cat_list:
             d_new[item] = d1[item]
 
+        rS.filterSource(group, id)
+        
+        for i in rS.l_source:
+            if i == "entity_src_nat":
+                res = rS.srcNat(group, id)
+                d_new["_entity_src_nat"] = res
+            elif i == "entity_src_gen":
+                res = rS.srcGen(group, id)
+                d_new["_entity_src_gen"] = res
+            elif i == "pdbx_entity_src_syn":
+                res = rS.srcSyn(group, id)
+                d_new["pdbx_entity_src_syn"] = res
+        
         return d_new
 
      
