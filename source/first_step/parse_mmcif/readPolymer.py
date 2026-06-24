@@ -88,34 +88,34 @@ class readPolymer():
                 l_new.append(d1[item][i])
             d1[item] = l_new
             
+        d1.pop('_entity.type')
+        d2 = workerOne(self.category2, group, self.cat_list2,id)
+        d3 = workerOne(self.category3, group, self.cat_list3,id)
+        d1.update(d2)
+        d1.update(d3)
 
-        # d2 = workerOne(self.category2, group, id)
-        # d3 = workerOne(self.category3, group, id)
-        # d1.update(d2)
-        # d1.update(d3)
+        rS = readSource()
 
-        # rS = readSource()
+        d_new = {}
 
-        # d_new = {}
+        for item in self.cat_list:
+            d_new[item] = d1[item]
 
-        # for item in self.cat_list:
-        #     d_new[item] = d1[item]
-
-        # rS.filterSource(group, id)
+        rS.filterSource(group, id)
         
-        # for i in rS.l_source:
-        #     if i == "entity_src_nat":
-        #         res = rS.srcNat(group, id)
-        #         d_new["_entity_src_nat"] = res
-        #     elif i == "entity_src_gen":
-        #         res = rS.srcGen(group, id)
-        #         d_new["_entity_src_gen"] = res
-        #     elif i == "pdbx_entity_src_syn":
-        #         res = rS.srcSyn(group, id)
-        #         d_new["pdbx_entity_src_syn"] = res
+        for i in rS.l_source:
+            if i == "entity_src_nat":
+                res = rS.srcNat(group, id)
+                d_new["_entity_src_nat"] = res
+            elif i == "entity_src_gen":
+                res = rS.srcGen(group, id)
+                d_new["_entity_src_gen"] = res
+            elif i == "pdbx_entity_src_syn":
+                res = rS.srcSyn(group, id)
+                d_new["pdbx_entity_src_syn"] = res
         
-        #return d_new
-        return d1
+        return d_new
+       
 
      
 
