@@ -250,7 +250,7 @@ def main():
     group = 'test_readSource' #testing purposes
     l_group = []
 
-    l_test = ["D_1001400363"]
+    l_test = ["D_1001400364"]
     group_2 = "G_1002001"
 
     r = readSource()
