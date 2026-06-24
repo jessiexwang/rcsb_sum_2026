@@ -105,7 +105,7 @@ class readPolymer():
      
 
 
-    def readPolymer(self, l_id, group):
+    def readPolymer(self, group, l_id):
         """method to parse out all the needed information about an entry's polymer(s)
 
         Args:
@@ -152,7 +152,7 @@ def main():
     group = 'G_1002329'
 
     rp = readPolymer()
-    rp.readPolymer(l_id, group)
+    rp.readPolymer(group, l_id)
 
 if __name__ == "__main__":
     main()

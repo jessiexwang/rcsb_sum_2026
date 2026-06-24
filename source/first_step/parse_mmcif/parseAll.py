@@ -1,5 +1,6 @@
 import os
 import sys
+from concurrent.futures import ProcessPoolExecutor
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 SRC_DIR = os.path.dirname(os.path.dirname(DIR))
@@ -42,17 +43,64 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 
-def sort(process, group, l_id, index = None):
-    """sort list of ids into diff processes
+def parseAll(group, l_id):
+    """run through different processes for the list of ids 
     """
 
-    pass
+    # -------- single categories ---------#
+    l_single = ["exptl_crystal_grow", "refine", "entity", "pdbx_deposit_group"]
+    l_1 = ["_exptl_crystal_grow.temp", "_exptl_crystal_grow.method"]
+    l_2 = ["_refine.ls_d_res_high"]
+    l_3 = ["_entity.pdbx_mutation"]
+    l_4 = ["_pdbx_deposit_group.group_title", "_pdbx_deposit_group.group_description"]
+
+    l_single_attr = [l_1, l_2, l_3, l_4]
+
+    processList_category(l_id, l_single, l_single_attr, group) 
+    # ------------------------------------
+
+
+    # ---------- two categories ----------
+    l_cat1 = ["_diffrn_radiation_wavelength.wavelength", "diffrn_source.type"]
+    rT.readTwo(group, "diffrn_radiation_wavelength", "diffrn_source", l_id, l_cat1, "data_collection")
+
+    l_cat2 = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
+    rT.readTwo(group, "audit_author", "struct", l_id, l_cat2, "authorship")
+
+    l_cat3 = ["_citation.title", "_citation_author.name"]
+    rT.readTwo(group, "citation", "citation_author", l_id, l_cat3, "citation")
+
+    l_cat4 = ["_cell.entry_id", "_cell.length_a", "_cell.length_b", "_cell.length_c", "_cell.angle_alpha", 
+              "_cell.angle_beta", "_cell.angle_gamma", "_cell.Z_PDB", "_cell.pdbx_unique_axis", "_symmetry.space_group_name_H-M"]
+    rT.readTwo(group, "cell", "symmetry", l_id, l_cat4, "cell_divisions")
+
+
+    # ------------------------------------
+
+    # ------------ complicated -----------
+
+    rL.filterLigand(group, l_id) 
+    rS.mapSourceOneGroup(group, l_id)
+    rA.readAssembly(group, l_id)
+    rP.readPolymer(group, l_id)
+
+ 
 
   
 
 
 def main():
     pass
+
+    l_id = []
+    
+
+    for i in range(364):
+       id = 1001400001 + i
+       dep_id = "D_" + str(id)
+       l_id.append(dep_id)
+
+    print(l_id[-1])
 
 
 
