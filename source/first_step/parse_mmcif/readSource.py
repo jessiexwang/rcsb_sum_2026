@@ -96,6 +96,7 @@ class readSource:
         return rt_data
     
     def srcGen(self, group, id):
+        print(id)
         """method to parse out info of the source is genetically modified from categories with non-null values
 
         Args:
