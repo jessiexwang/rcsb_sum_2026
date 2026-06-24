@@ -57,7 +57,7 @@ class readPolymer():
         self.category1 = "entity"
         self.category2 = "entity_poly"
         self.category3 = "struct_ref"
-        self.cat_list = ["_entity.src_method", "_entity.pdbx_description", "_entity.pdbx_mutation"]
+        self.cat_list = ["_entity.type", "_entity.src_method", "_entity.pdbx_description", "_entity.pdbx_mutation"]
         self.cat_list2 =["_entity_poly.pdbx_seq_one_letter_code"]
         self.cat_list3 = ["_struct_ref.db_code"]
         self.list = []
@@ -75,18 +75,18 @@ class readPolymer():
             dict: dictionary of parsed info
         """
         d1 = workerOne(category=self.category1, group=group, l_item_category=self.cat_list, id=id)
-        # en_type = d1['_entity.type'].copy()
-        # index_list = []
-        # for item in en_type:
-        #     print(item)
-        #     if item == "polymer":
-        #         index_list.append(en_type.index(item))
+        en_type = d1['_entity.type'].copy()
+        index_list = []
+        for item in en_type:
+            print(item)
+            if item == "polymer":
+                index_list.append(en_type.index(item))
         
-        # for item in d1:
-        #     l_new = []
-        #     for i in index_list:
-        #         l_new.append(d1[item][i])
-        #     d1[item] = l_new
+        for item in d1:
+            l_new = []
+            for i in index_list:
+                l_new.append(d1[item][i])
+            d1[item] = l_new
             
 
         # d2 = workerOne(self.category2, group, id)
