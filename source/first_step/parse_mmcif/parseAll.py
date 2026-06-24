@@ -84,24 +84,23 @@ def parseAll(group, l_id):
     rA.readAssembly(group, l_id)
     rP.readPolymer(group, l_id)
 
- 
+     # ------------------------------------
 
   
 
 
 def main():
-    pass
 
     l_id = []
-    
 
     for i in range(364):
        id = 1001400001 + i
        dep_id = "D_" + str(id)
        l_id.append(dep_id)
 
-    print(l_id[-1])
+    group = "G_1002001"
 
+    parseAll(group, l_id)
 
 
 
