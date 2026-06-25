@@ -95,11 +95,8 @@ def parseAll(num, group, l_id):
   
 def map_parseAll(l_groups, l_ids, l_num):
 
-    for num in l_num:
-        partial_parse = functools.partial(parseAll, num)
-
-        with ProcessPoolExecutor() as executor:
-            results = executor.map(partial_parse, l_groups, l_ids)
+    with ProcessPoolExecutor() as executor:
+        results = executor.map(parseAll, l_num, l_groups, l_ids)
 
 
 
