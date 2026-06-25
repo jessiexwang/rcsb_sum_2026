@@ -170,7 +170,7 @@ class readSource:
 
         return d_all
     
-    def mapSourceOneGroup(self, group, l_id, num = ""):
+    def mapSourceOneGroup(self, group, l_id, num):
         """method to read the source of a list of ids belonging to one group
         Args:
             group (str): group that the entry belongs to

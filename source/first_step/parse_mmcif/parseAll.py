@@ -99,10 +99,6 @@ def map_parseAll(l_groups, l_ids):
         parseAll(i+1, l_groups[i+1], l_ids[i+1])
 
 
-
-
-
-
 def main():
 
     l_id1 = []

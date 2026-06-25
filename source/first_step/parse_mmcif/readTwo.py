@@ -75,7 +75,7 @@ class readTwo:
 
         return d_new
     
-    def readTwo(self, group, cat1, cat2, l_id, l_cat, file_name, num = ""):
+    def readTwo(self, group, cat1, cat2, l_id, l_cat, file_name, num):
         """method to parse out all the needed information about an entry
 
         Args:

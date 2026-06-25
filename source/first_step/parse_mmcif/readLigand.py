@@ -90,7 +90,7 @@ class readLigand:
            self.l_id_null.append(id_tuple[0])
 
         
-    def filterLigand(self, group, l_id, num = ""):
+    def filterLigand(self, group, l_id, num):
         """method to filter for entries that are missing lingand info and write out into a list
 
         Args:

@@ -76,7 +76,7 @@ class readAssembly:
             d_new[item] = d1[item]
         return d_new
 
-    def readAssembly(self, group, l_id, num = ""):
+    def readAssembly(self, group, l_id, num):
         """method to parse out all the needed information about an entry's structure assembly
 
         Args:

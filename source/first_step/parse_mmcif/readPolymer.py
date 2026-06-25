@@ -128,7 +128,7 @@ class readPolymer():
      
 
 
-    def readPolymer(self, group, l_id, num= ""):
+    def readPolymer(self, group, l_id, num):
         """method to parse out all the needed information about an entry's polymer(s)
 
         Args:

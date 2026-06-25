@@ -130,7 +130,7 @@ def processList_id(l_id, group, num, category, l_item_category):
 
 
 
-def processList_category(l_id, l_category, l_item_category, group, num = ""):
+def processList_category(l_id, l_category, l_item_category, group, num):
     """ a method to parse info ids with a list of categories and a list of the corresponding attributes
 
     Args:
