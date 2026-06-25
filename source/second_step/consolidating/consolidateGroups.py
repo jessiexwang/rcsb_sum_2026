@@ -76,7 +76,7 @@ class consolidateAll():
 
         for i in range(2):
             num = str(i+2)
-            fn = "ligand_missing" + num + ".json"
+            fn = "ligand_missing" + num + ".list"
             fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
 
         with open(fp) as f:
