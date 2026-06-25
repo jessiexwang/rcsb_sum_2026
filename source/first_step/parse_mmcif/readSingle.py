@@ -130,12 +130,12 @@ def processList_id(l_id, group, num, category, l_item_category):
             logger.error("entry %s with error %s", id, e)
             continue
 
-    fn_category = category + num + ".tsv"
-    fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
+    # fn_category = category + num + ".tsv"
+    # fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
     fn_category_json = category + num + ".json"
     fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
 
-    writeDictToFile(d_category_all, fp_category, l_item_category)
+    # writeDictToFile(d_category_all, fp_category, l_item_category)
 
     with open(fp_category_json, 'w') as fp:
         json.dump(d_category_all, fp, indent= 4)
