@@ -58,8 +58,6 @@ class consolidateAll():
             d_ = self.readJSON(fp)
             dict_cat.update(d_)
 
-        print(len(dict_cat))
-
         fn_json = category + ".json"
         fp_category_json = os.path.join(DATA_DIR, "consolidating", fn_json)
 
