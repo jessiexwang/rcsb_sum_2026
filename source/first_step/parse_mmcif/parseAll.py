@@ -95,8 +95,10 @@ def parseAll(num, group, l_id):
   
 def map_parseAll(l_groups, l_ids, l_num):
 
-    with ProcessPoolExecutor() as executor:
-        results = executor.map(parseAll, l_num, l_groups, l_ids)
+    for i in range(3):
+        parseAll(l_num[i], l_groups[i], l_ids[i])
+
+
 
 
 
