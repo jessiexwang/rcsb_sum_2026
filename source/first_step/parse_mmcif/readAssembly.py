@@ -73,6 +73,8 @@ class readAssembly:
         d_new = {}
 
         for item in self.l_cat:
+            if not d1[item]:
+                d1[item] = ["."]
             d_new[item] = d1[item]
         return d_new
 
