@@ -133,7 +133,7 @@ def main():
 
     l_num = ["1", "2", "3"]
 
-    parseAll(group1, l_id1, l_num)
+    map_parseAll(group1, l_id1, l_num)
 
 
 
