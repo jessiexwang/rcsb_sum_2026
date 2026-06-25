@@ -44,7 +44,7 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 
-def parseAll(group, l_id):
+def parseAll(group, l_id, num):
     """run through different processes for the list of ids 
     """
 
