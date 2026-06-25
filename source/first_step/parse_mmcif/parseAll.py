@@ -105,37 +105,33 @@ def main():
     l_id2 = []
     l_id3 = []
 
-    # for i in range(364):
-    #    id = 1001400001 + i
-    #    dep_id = "D_" + str(id)
-    #    l_id1.append(dep_id)
+    for i in range(364):
+       id = 1001400001 + i
+       dep_id = "D_" + str(id)
+       l_id1.append(dep_id)
 
-    # for i in range(259):
-    #    id = 1001404927 + i
-    #    dep_id = "D_" + str(id)
-    #    l_id2.append(dep_id)
+    for i in range(259):
+       id = 1001404927 + i
+       dep_id = "D_" + str(id)
+       l_id2.append(dep_id)
 
-    
-
-    for i in range(223):
+    for i in range(224):
        id = 1001405411 + i
        dep_id = "D_" + str(id)
        l_id3.append(dep_id)
 
     # l_ids = [l_id1, l_id2, l_id3]
 
-    print(l_id3)
-
-    # group1 = "G_1002001"
-    # group2 = "G_1002241"
-    # group3 = "G_1002264"
+    group1 = "G_1002001"
+    group2 = "G_1002241"
+    group3 = "G_1002264"
 
     # l_groups = [group1, group2, group3]
 
     # l_num = ["1", "2", "3"]
 
-    # #map_parseAll(l_groups, l_ids)
-    # parseAll("1", group1, l_id1)
+    #map_parseAll(l_groups, l_ids)
+    parseAll("1", group1, l_id1)
     # parseAll("2", group2, l_id2)
     # parseAll("3", group3, l_id3)
     
