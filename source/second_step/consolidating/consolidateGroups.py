@@ -106,7 +106,8 @@ def main():
                   "exptl_crystal_grow", "pdbx_deposit_group", "polymer", "refine", "source"]
 
     cA = consolidateAll()
-    cA.consolidateGroups(category)
+    #cA.consolidateGroups(category)
+    cA.mapCategories(l_category)
     cA.consolidateList()
 
 
