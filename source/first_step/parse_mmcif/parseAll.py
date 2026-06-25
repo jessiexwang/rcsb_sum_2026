@@ -93,10 +93,10 @@ def parseAll(num, group, l_id):
     # ---------------------------------------
 
   
-def map_parseAll(l_groups, l_ids, l_num):
+def map_parseAll(l_groups, l_ids):
 
     for i in range(3):
-        parseAll(l_num[i], l_groups[i], l_ids[i])
+        parseAll(i+1, l_groups[i+1], l_ids[i+1])
 
 
 
@@ -109,33 +109,35 @@ def main():
     l_id2 = []
     l_id3 = []
 
-    for i in range(364):
-       id = 1001400001 + i
-       dep_id = "D_" + str(id)
-       l_id1.append(dep_id)
+    # for i in range(364):
+    #    id = 1001400001 + i
+    #    dep_id = "D_" + str(id)
+    #    l_id1.append(dep_id)
 
     for i in range(258):
        id = 1001404297 + i
        dep_id = "D_" + str(id)
        l_id2.append(dep_id)
 
-    for i in range(223):
-       id = 1001405411 + i
-       dep_id = "D_" + str(id)
-       l_id3.append(dep_id)
+    print(l_id2)
 
-    l_ids = [l_id1, l_id2, l_id3]
+    # for i in range(223):
+    #    id = 1001405411 + i
+    #    dep_id = "D_" + str(id)
+    #    l_id3.append(dep_id)
+
+    # l_ids = [l_id1, l_id2, l_id3]
 
 
-    group1 = "G_1002001"
-    group2 = "G_1002241"
-    group3 = "G_1002264"
+    # group1 = "G_1002001"
+    # group2 = "G_1002241"
+    # group3 = "G_1002264"
 
-    l_groups = [group1, group2, group3]
+    # l_groups = [group1, group2, group3]
 
-    l_num = ["1", "2", "3"]
+    # l_num = ["1", "2", "3"]
 
-    map_parseAll(l_groups, l_ids, l_num)
+    # map_parseAll(l_groups, l_ids)
 
 
 

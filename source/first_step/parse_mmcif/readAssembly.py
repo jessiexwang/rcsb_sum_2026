@@ -106,7 +106,7 @@ class readAssembly:
 
         fn = "assembly" + num + ".tsv"
         fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        fn_json = "assembly.json"
+        fn_json = "assembly" + num + ".json"
         fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
         writeDictToFile(d_category_all, fp, self.l_cat)
