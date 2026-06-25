@@ -1,0 +1,7170 @@
+{
+    "D_1001405411": {
+        "_cell.entry_id": [
+            "D_1001405411"
+        ],
+        "_cell.length_a": [
+            "32.859"
+        ],
+        "_cell.length_b": [
+            "53.409"
+        ],
+        "_cell.length_c": [
+            "74.718"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405412": {
+        "_cell.entry_id": [
+            "D_1001405412"
+        ],
+        "_cell.length_a": [
+            "32.548"
+        ],
+        "_cell.length_b": [
+            "53.469"
+        ],
+        "_cell.length_c": [
+            "75.174"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405413": {
+        "_cell.entry_id": [
+            "D_1001405413"
+        ],
+        "_cell.length_a": [
+            "32.305"
+        ],
+        "_cell.length_b": [
+            "53.826"
+        ],
+        "_cell.length_c": [
+            "75.102"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405414": {
+        "_cell.entry_id": [
+            "D_1001405414"
+        ],
+        "_cell.length_a": [
+            "32.331"
+        ],
+        "_cell.length_b": [
+            "54.012"
+        ],
+        "_cell.length_c": [
+            "75.372"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405415": {
+        "_cell.entry_id": [
+            "D_1001405415"
+        ],
+        "_cell.length_a": [
+            "32.278"
+        ],
+        "_cell.length_b": [
+            "53.731"
+        ],
+        "_cell.length_c": [
+            "75.022"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405416": {
+        "_cell.entry_id": [
+            "D_1001405416"
+        ],
+        "_cell.length_a": [
+            "32.445"
+        ],
+        "_cell.length_b": [
+            "53.811"
+        ],
+        "_cell.length_c": [
+            "75.017"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405417": {
+        "_cell.entry_id": [
+            "D_1001405417"
+        ],
+        "_cell.length_a": [
+            "32.445"
+        ],
+        "_cell.length_b": [
+            "53.800"
+        ],
+        "_cell.length_c": [
+            "74.905"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405418": {
+        "_cell.entry_id": [
+            "D_1001405418"
+        ],
+        "_cell.length_a": [
+            "32.561"
+        ],
+        "_cell.length_b": [
+            "54.055"
+        ],
+        "_cell.length_c": [
+            "74.793"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405419": {
+        "_cell.entry_id": [
+            "D_1001405419"
+        ],
+        "_cell.length_a": [
+            "32.417"
+        ],
+        "_cell.length_b": [
+            "53.780"
+        ],
+        "_cell.length_c": [
+            "75.018"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405420": {
+        "_cell.entry_id": [
+            "D_1001405420"
+        ],
+        "_cell.length_a": [
+            "32.465"
+        ],
+        "_cell.length_b": [
+            "53.626"
+        ],
+        "_cell.length_c": [
+            "75.536"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405421": {
+        "_cell.entry_id": [
+            "D_1001405421"
+        ],
+        "_cell.length_a": [
+            "35.276"
+        ],
+        "_cell.length_b": [
+            "54.706"
+        ],
+        "_cell.length_c": [
+            "74.603"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405422": {
+        "_cell.entry_id": [
+            "D_1001405422"
+        ],
+        "_cell.length_a": [
+            "35.757"
+        ],
+        "_cell.length_b": [
+            "55.819"
+        ],
+        "_cell.length_c": [
+            "74.734"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405423": {
+        "_cell.entry_id": [
+            "D_1001405423"
+        ],
+        "_cell.length_a": [
+            "32.518"
+        ],
+        "_cell.length_b": [
+            "53.802"
+        ],
+        "_cell.length_c": [
+            "75.425"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405424": {
+        "_cell.entry_id": [
+            "D_1001405424"
+        ],
+        "_cell.length_a": [
+            "32.478"
+        ],
+        "_cell.length_b": [
+            "53.662"
+        ],
+        "_cell.length_c": [
+            "75.241"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405425": {
+        "_cell.entry_id": [
+            "D_1001405425"
+        ],
+        "_cell.length_a": [
+            "32.555"
+        ],
+        "_cell.length_b": [
+            "54.149"
+        ],
+        "_cell.length_c": [
+            "74.859"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405426": {
+        "_cell.entry_id": [
+            "D_1001405426"
+        ],
+        "_cell.length_a": [
+            "32.568"
+        ],
+        "_cell.length_b": [
+            "53.610"
+        ],
+        "_cell.length_c": [
+            "74.805"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405427": {
+        "_cell.entry_id": [
+            "D_1001405427"
+        ],
+        "_cell.length_a": [
+            "32.533"
+        ],
+        "_cell.length_b": [
+            "53.620"
+        ],
+        "_cell.length_c": [
+            "74.830"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405428": {
+        "_cell.entry_id": [
+            "D_1001405428"
+        ],
+        "_cell.length_a": [
+            "32.515"
+        ],
+        "_cell.length_b": [
+            "53.660"
+        ],
+        "_cell.length_c": [
+            "75.289"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405429": {
+        "_cell.entry_id": [
+            "D_1001405429"
+        ],
+        "_cell.length_a": [
+            "32.354"
+        ],
+        "_cell.length_b": [
+            "54.036"
+        ],
+        "_cell.length_c": [
+            "75.087"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405430": {
+        "_cell.entry_id": [
+            "D_1001405430"
+        ],
+        "_cell.length_a": [
+            "32.431"
+        ],
+        "_cell.length_b": [
+            "54.002"
+        ],
+        "_cell.length_c": [
+            "75.026"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405431": {
+        "_cell.entry_id": [
+            "D_1001405431"
+        ],
+        "_cell.length_a": [
+            "32.333"
+        ],
+        "_cell.length_b": [
+            "53.891"
+        ],
+        "_cell.length_c": [
+            "75.105"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405432": {
+        "_cell.entry_id": [
+            "D_1001405432"
+        ],
+        "_cell.length_a": [
+            "32.030"
+        ],
+        "_cell.length_b": [
+            "52.808"
+        ],
+        "_cell.length_c": [
+            "72.159"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405433": {
+        "_cell.entry_id": [
+            "D_1001405433"
+        ],
+        "_cell.length_a": [
+            "32.382"
+        ],
+        "_cell.length_b": [
+            "53.922"
+        ],
+        "_cell.length_c": [
+            "74.878"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405434": {
+        "_cell.entry_id": [
+            "D_1001405434"
+        ],
+        "_cell.length_a": [
+            "32.318"
+        ],
+        "_cell.length_b": [
+            "53.869"
+        ],
+        "_cell.length_c": [
+            "75.221"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405435": {
+        "_cell.entry_id": [
+            "D_1001405435"
+        ],
+        "_cell.length_a": [
+            "54.431"
+        ],
+        "_cell.length_b": [
+            "38.443"
+        ],
+        "_cell.length_c": [
+            "80.320"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "100.600"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "6"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 1 21 1"
+        ]
+    },
+    "D_1001405436": {
+        "_cell.entry_id": [
+            "D_1001405436"
+        ],
+        "_cell.length_a": [
+            "32.476"
+        ],
+        "_cell.length_b": [
+            "53.220"
+        ],
+        "_cell.length_c": [
+            "74.239"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405437": {
+        "_cell.entry_id": [
+            "D_1001405437"
+        ],
+        "_cell.length_a": [
+            "32.541"
+        ],
+        "_cell.length_b": [
+            "53.831"
+        ],
+        "_cell.length_c": [
+            "75.267"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405438": {
+        "_cell.entry_id": [
+            "D_1001405438"
+        ],
+        "_cell.length_a": [
+            "32.466"
+        ],
+        "_cell.length_b": [
+            "53.554"
+        ],
+        "_cell.length_c": [
+            "74.641"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405439": {
+        "_cell.entry_id": [
+            "D_1001405439"
+        ],
+        "_cell.length_a": [
+            "35.456"
+        ],
+        "_cell.length_b": [
+            "55.698"
+        ],
+        "_cell.length_c": [
+            "74.889"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405440": {
+        "_cell.entry_id": [
+            "D_1001405440"
+        ],
+        "_cell.length_a": [
+            "32.254"
+        ],
+        "_cell.length_b": [
+            "53.714"
+        ],
+        "_cell.length_c": [
+            "75.386"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405441": {
+        "_cell.entry_id": [
+            "D_1001405441"
+        ],
+        "_cell.length_a": [
+            "32.504"
+        ],
+        "_cell.length_b": [
+            "53.931"
+        ],
+        "_cell.length_c": [
+            "74.891"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405442": {
+        "_cell.entry_id": [
+            "D_1001405442"
+        ],
+        "_cell.length_a": [
+            "32.532"
+        ],
+        "_cell.length_b": [
+            "53.730"
+        ],
+        "_cell.length_c": [
+            "75.468"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405443": {
+        "_cell.entry_id": [
+            "D_1001405443"
+        ],
+        "_cell.length_a": [
+            "35.390"
+        ],
+        "_cell.length_b": [
+            "55.866"
+        ],
+        "_cell.length_c": [
+            "74.385"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405444": {
+        "_cell.entry_id": [
+            "D_1001405444"
+        ],
+        "_cell.length_a": [
+            "32.362"
+        ],
+        "_cell.length_b": [
+            "53.617"
+        ],
+        "_cell.length_c": [
+            "75.272"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405445": {
+        "_cell.entry_id": [
+            "D_1001405445"
+        ],
+        "_cell.length_a": [
+            "32.507"
+        ],
+        "_cell.length_b": [
+            "53.341"
+        ],
+        "_cell.length_c": [
+            "75.463"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405446": {
+        "_cell.entry_id": [
+            "D_1001405446"
+        ],
+        "_cell.length_a": [
+            "49.981"
+        ],
+        "_cell.length_b": [
+            "78.029"
+        ],
+        "_cell.length_c": [
+            "94.458"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405447": {
+        "_cell.entry_id": [
+            "D_1001405447"
+        ],
+        "_cell.length_a": [
+            "32.329"
+        ],
+        "_cell.length_b": [
+            "53.716"
+        ],
+        "_cell.length_c": [
+            "75.318"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405448": {
+        "_cell.entry_id": [
+            "D_1001405448"
+        ],
+        "_cell.length_a": [
+            "31.696"
+        ],
+        "_cell.length_b": [
+            "53.738"
+        ],
+        "_cell.length_c": [
+            "72.319"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405449": {
+        "_cell.entry_id": [
+            "D_1001405449"
+        ],
+        "_cell.length_a": [
+            "32.504"
+        ],
+        "_cell.length_b": [
+            "53.841"
+        ],
+        "_cell.length_c": [
+            "75.144"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405450": {
+        "_cell.entry_id": [
+            "D_1001405450"
+        ],
+        "_cell.length_a": [
+            "32.065"
+        ],
+        "_cell.length_b": [
+            "52.722"
+        ],
+        "_cell.length_c": [
+            "72.331"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405451": {
+        "_cell.entry_id": [
+            "D_1001405451"
+        ],
+        "_cell.length_a": [
+            "32.494"
+        ],
+        "_cell.length_b": [
+            "53.768"
+        ],
+        "_cell.length_c": [
+            "75.342"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405452": {
+        "_cell.entry_id": [
+            "D_1001405452"
+        ],
+        "_cell.length_a": [
+            "32.446"
+        ],
+        "_cell.length_b": [
+            "53.615"
+        ],
+        "_cell.length_c": [
+            "75.392"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405453": {
+        "_cell.entry_id": [
+            "D_1001405453"
+        ],
+        "_cell.length_a": [
+            "32.498"
+        ],
+        "_cell.length_b": [
+            "53.873"
+        ],
+        "_cell.length_c": [
+            "75.126"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405454": {
+        "_cell.entry_id": [
+            "D_1001405454"
+        ],
+        "_cell.length_a": [
+            "32.503"
+        ],
+        "_cell.length_b": [
+            "53.904"
+        ],
+        "_cell.length_c": [
+            "75.167"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405455": {
+        "_cell.entry_id": [
+            "D_1001405455"
+        ],
+        "_cell.length_a": [
+            "31.981"
+        ],
+        "_cell.length_b": [
+            "52.826"
+        ],
+        "_cell.length_c": [
+            "72.229"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405456": {
+        "_cell.entry_id": [
+            "D_1001405456"
+        ],
+        "_cell.length_a": [
+            "57.041"
+        ],
+        "_cell.length_b": [
+            "57.041"
+        ],
+        "_cell.length_c": [
+            "83.395"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 43 21 2"
+        ]
+    },
+    "D_1001405457": {
+        "_cell.entry_id": [
+            "D_1001405457"
+        ],
+        "_cell.length_a": [
+            "32.710"
+        ],
+        "_cell.length_b": [
+            "53.611"
+        ],
+        "_cell.length_c": [
+            "74.790"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405458": {
+        "_cell.entry_id": [
+            "D_1001405458"
+        ],
+        "_cell.length_a": [
+            "32.519"
+        ],
+        "_cell.length_b": [
+            "53.745"
+        ],
+        "_cell.length_c": [
+            "74.520"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405459": {
+        "_cell.entry_id": [
+            "D_1001405459"
+        ],
+        "_cell.length_a": [
+            "32.363"
+        ],
+        "_cell.length_b": [
+            "54.313"
+        ],
+        "_cell.length_c": [
+            "75.394"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405460": {
+        "_cell.entry_id": [
+            "D_1001405460"
+        ],
+        "_cell.length_a": [
+            "32.224"
+        ],
+        "_cell.length_b": [
+            "52.943"
+        ],
+        "_cell.length_c": [
+            "72.326"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405461": {
+        "_cell.entry_id": [
+            "D_1001405461"
+        ],
+        "_cell.length_a": [
+            "32.425"
+        ],
+        "_cell.length_b": [
+            "54.209"
+        ],
+        "_cell.length_c": [
+            "74.764"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405462": {
+        "_cell.entry_id": [
+            "D_1001405462"
+        ],
+        "_cell.length_a": [
+            "32.490"
+        ],
+        "_cell.length_b": [
+            "53.984"
+        ],
+        "_cell.length_c": [
+            "75.157"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405463": {
+        "_cell.entry_id": [
+            "D_1001405463"
+        ],
+        "_cell.length_a": [
+            "32.440"
+        ],
+        "_cell.length_b": [
+            "53.568"
+        ],
+        "_cell.length_c": [
+            "74.971"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405464": {
+        "_cell.entry_id": [
+            "D_1001405464"
+        ],
+        "_cell.length_a": [
+            "32.299"
+        ],
+        "_cell.length_b": [
+            "53.763"
+        ],
+        "_cell.length_c": [
+            "74.951"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405465": {
+        "_cell.entry_id": [
+            "D_1001405465"
+        ],
+        "_cell.length_a": [
+            "32.147"
+        ],
+        "_cell.length_b": [
+            "53.833"
+        ],
+        "_cell.length_c": [
+            "75.311"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405466": {
+        "_cell.entry_id": [
+            "D_1001405466"
+        ],
+        "_cell.length_a": [
+            "154.457"
+        ],
+        "_cell.length_b": [
+            "154.457"
+        ],
+        "_cell.length_c": [
+            "154.457"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "96"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "F 4 3 2"
+        ]
+    },
+    "D_1001405467": {
+        "_cell.entry_id": [
+            "D_1001405467"
+        ],
+        "_cell.length_a": [
+            "32.453"
+        ],
+        "_cell.length_b": [
+            "53.896"
+        ],
+        "_cell.length_c": [
+            "74.990"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405468": {
+        "_cell.entry_id": [
+            "D_1001405468"
+        ],
+        "_cell.length_a": [
+            "32.246"
+        ],
+        "_cell.length_b": [
+            "53.866"
+        ],
+        "_cell.length_c": [
+            "75.286"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405469": {
+        "_cell.entry_id": [
+            "D_1001405469"
+        ],
+        "_cell.length_a": [
+            "32.427"
+        ],
+        "_cell.length_b": [
+            "53.653"
+        ],
+        "_cell.length_c": [
+            "75.245"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405470": {
+        "_cell.entry_id": [
+            "D_1001405470"
+        ],
+        "_cell.length_a": [
+            "32.334"
+        ],
+        "_cell.length_b": [
+            "53.724"
+        ],
+        "_cell.length_c": [
+            "74.805"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405471": {
+        "_cell.entry_id": [
+            "D_1001405471"
+        ],
+        "_cell.length_a": [
+            "33.816"
+        ],
+        "_cell.length_b": [
+            "55.013"
+        ],
+        "_cell.length_c": [
+            "74.013"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405472": {
+        "_cell.entry_id": [
+            "D_1001405472"
+        ],
+        "_cell.length_a": [
+            "32.449"
+        ],
+        "_cell.length_b": [
+            "53.806"
+        ],
+        "_cell.length_c": [
+            "74.976"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405473": {
+        "_cell.entry_id": [
+            "D_1001405473"
+        ],
+        "_cell.length_a": [
+            "32.544"
+        ],
+        "_cell.length_b": [
+            "53.906"
+        ],
+        "_cell.length_c": [
+            "74.703"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405474": {
+        "_cell.entry_id": [
+            "D_1001405474"
+        ],
+        "_cell.length_a": [
+            "32.127"
+        ],
+        "_cell.length_b": [
+            "52.794"
+        ],
+        "_cell.length_c": [
+            "72.285"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405475": {
+        "_cell.entry_id": [
+            "D_1001405475"
+        ],
+        "_cell.length_a": [
+            "32.426"
+        ],
+        "_cell.length_b": [
+            "53.773"
+        ],
+        "_cell.length_c": [
+            "74.757"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405476": {
+        "_cell.entry_id": [
+            "D_1001405476"
+        ],
+        "_cell.length_a": [
+            "32.488"
+        ],
+        "_cell.length_b": [
+            "53.687"
+        ],
+        "_cell.length_c": [
+            "74.934"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405477": {
+        "_cell.entry_id": [
+            "D_1001405477"
+        ],
+        "_cell.length_a": [
+            "56.941"
+        ],
+        "_cell.length_b": [
+            "37.114"
+        ],
+        "_cell.length_c": [
+            "60.491"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "113.120"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 1 21 1"
+        ]
+    },
+    "D_1001405478": {
+        "_cell.entry_id": [
+            "D_1001405478"
+        ],
+        "_cell.length_a": [
+            "32.727"
+        ],
+        "_cell.length_b": [
+            "54.133"
+        ],
+        "_cell.length_c": [
+            "74.198"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405479": {
+        "_cell.entry_id": [
+            "D_1001405479"
+        ],
+        "_cell.length_a": [
+            "32.344"
+        ],
+        "_cell.length_b": [
+            "53.944"
+        ],
+        "_cell.length_c": [
+            "75.042"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405480": {
+        "_cell.entry_id": [
+            "D_1001405480"
+        ],
+        "_cell.length_a": [
+            "32.424"
+        ],
+        "_cell.length_b": [
+            "53.896"
+        ],
+        "_cell.length_c": [
+            "74.808"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405481": {
+        "_cell.entry_id": [
+            "D_1001405481"
+        ],
+        "_cell.length_a": [
+            "32.141"
+        ],
+        "_cell.length_b": [
+            "52.612"
+        ],
+        "_cell.length_c": [
+            "72.212"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405482": {
+        "_cell.entry_id": [
+            "D_1001405482"
+        ],
+        "_cell.length_a": [
+            "32.441"
+        ],
+        "_cell.length_b": [
+            "53.778"
+        ],
+        "_cell.length_c": [
+            "75.094"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405483": {
+        "_cell.entry_id": [
+            "D_1001405483"
+        ],
+        "_cell.length_a": [
+            "35.123"
+        ],
+        "_cell.length_b": [
+            "54.986"
+        ],
+        "_cell.length_c": [
+            "74.013"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405484": {
+        "_cell.entry_id": [
+            "D_1001405484"
+        ],
+        "_cell.length_a": [
+            "32.532"
+        ],
+        "_cell.length_b": [
+            "53.809"
+        ],
+        "_cell.length_c": [
+            "74.951"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405485": {
+        "_cell.entry_id": [
+            "D_1001405485"
+        ],
+        "_cell.length_a": [
+            "32.135"
+        ],
+        "_cell.length_b": [
+            "53.723"
+        ],
+        "_cell.length_c": [
+            "75.058"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405486": {
+        "_cell.entry_id": [
+            "D_1001405486"
+        ],
+        "_cell.length_a": [
+            "33.580"
+        ],
+        "_cell.length_b": [
+            "54.306"
+        ],
+        "_cell.length_c": [
+            "73.895"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405487": {
+        "_cell.entry_id": [
+            "D_1001405487"
+        ],
+        "_cell.length_a": [
+            "32.535"
+        ],
+        "_cell.length_b": [
+            "53.795"
+        ],
+        "_cell.length_c": [
+            "74.775"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405488": {
+        "_cell.entry_id": [
+            "D_1001405488"
+        ],
+        "_cell.length_a": [
+            "32.813"
+        ],
+        "_cell.length_b": [
+            "53.748"
+        ],
+        "_cell.length_c": [
+            "74.709"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405489": {
+        "_cell.entry_id": [
+            "D_1001405489"
+        ],
+        "_cell.length_a": [
+            "63.091"
+        ],
+        "_cell.length_b": [
+            "63.091"
+        ],
+        "_cell.length_c": [
+            "75.011"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 43 21 2"
+        ]
+    },
+    "D_1001405490": {
+        "_cell.entry_id": [
+            "D_1001405490"
+        ],
+        "_cell.length_a": [
+            "107.980"
+        ],
+        "_cell.length_b": [
+            "107.980"
+        ],
+        "_cell.length_c": [
+            "76.930"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "120.000"
+        ],
+        "_cell.Z_PDB": [
+            "12"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 65 2 2"
+        ]
+    },
+    "D_1001405491": {
+        "_cell.entry_id": [
+            "D_1001405491"
+        ],
+        "_cell.length_a": [
+            "32.256"
+        ],
+        "_cell.length_b": [
+            "53.717"
+        ],
+        "_cell.length_c": [
+            "75.128"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405492": {
+        "_cell.entry_id": [
+            "D_1001405492"
+        ],
+        "_cell.length_a": [
+            "32.289"
+        ],
+        "_cell.length_b": [
+            "53.703"
+        ],
+        "_cell.length_c": [
+            "74.942"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405493": {
+        "_cell.entry_id": [
+            "D_1001405493"
+        ],
+        "_cell.length_a": [
+            "31.677"
+        ],
+        "_cell.length_b": [
+            "53.128"
+        ],
+        "_cell.length_c": [
+            "72.264"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405494": {
+        "_cell.entry_id": [
+            "D_1001405494"
+        ],
+        "_cell.length_a": [
+            "32.553"
+        ],
+        "_cell.length_b": [
+            "53.937"
+        ],
+        "_cell.length_c": [
+            "75.370"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405495": {
+        "_cell.entry_id": [
+            "D_1001405495"
+        ],
+        "_cell.length_a": [
+            "32.669"
+        ],
+        "_cell.length_b": [
+            "53.676"
+        ],
+        "_cell.length_c": [
+            "75.262"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405496": {
+        "_cell.entry_id": [
+            "D_1001405496"
+        ],
+        "_cell.length_a": [
+            "32.365"
+        ],
+        "_cell.length_b": [
+            "53.800"
+        ],
+        "_cell.length_c": [
+            "75.151"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405497": {
+        "_cell.entry_id": [
+            "D_1001405497"
+        ],
+        "_cell.length_a": [
+            "119.658"
+        ],
+        "_cell.length_b": [
+            "75.081"
+        ],
+        "_cell.length_c": [
+            "110.691"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "94.380"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "32"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "C 1 2 1"
+        ]
+    },
+    "D_1001405498": {
+        "_cell.entry_id": [
+            "D_1001405498"
+        ],
+        "_cell.length_a": [
+            "31.672"
+        ],
+        "_cell.length_b": [
+            "53.455"
+        ],
+        "_cell.length_c": [
+            "72.409"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405499": {
+        "_cell.entry_id": [
+            "D_1001405499"
+        ],
+        "_cell.length_a": [
+            "38.738"
+        ],
+        "_cell.length_b": [
+            "56.431"
+        ],
+        "_cell.length_c": [
+            "110.998"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 2 21"
+        ]
+    },
+    "D_1001405500": {
+        "_cell.entry_id": [
+            "D_1001405500"
+        ],
+        "_cell.length_a": [
+            "32.564"
+        ],
+        "_cell.length_b": [
+            "53.666"
+        ],
+        "_cell.length_c": [
+            "74.652"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405501": {
+        "_cell.entry_id": [
+            "D_1001405501"
+        ],
+        "_cell.length_a": [
+            "32.353"
+        ],
+        "_cell.length_b": [
+            "53.863"
+        ],
+        "_cell.length_c": [
+            "75.520"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405502": {
+        "_cell.entry_id": [
+            "D_1001405502"
+        ],
+        "_cell.length_a": [
+            "61.876"
+        ],
+        "_cell.length_b": [
+            "61.876"
+        ],
+        "_cell.length_c": [
+            "74.547"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 43 21 2"
+        ]
+    },
+    "D_1001405503": {
+        "_cell.entry_id": [
+            "D_1001405503"
+        ],
+        "_cell.length_a": [
+            "32.406"
+        ],
+        "_cell.length_b": [
+            "53.835"
+        ],
+        "_cell.length_c": [
+            "74.834"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405504": {
+        "_cell.entry_id": [
+            "D_1001405504"
+        ],
+        "_cell.length_a": [
+            "32.397"
+        ],
+        "_cell.length_b": [
+            "54.227"
+        ],
+        "_cell.length_c": [
+            "75.273"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405505": {
+        "_cell.entry_id": [
+            "D_1001405505"
+        ],
+        "_cell.length_a": [
+            "32.471"
+        ],
+        "_cell.length_b": [
+            "53.893"
+        ],
+        "_cell.length_c": [
+            "74.913"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405506": {
+        "_cell.entry_id": [
+            "D_1001405506"
+        ],
+        "_cell.length_a": [
+            "32.061"
+        ],
+        "_cell.length_b": [
+            "53.144"
+        ],
+        "_cell.length_c": [
+            "72.275"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405507": {
+        "_cell.entry_id": [
+            "D_1001405507"
+        ],
+        "_cell.length_a": [
+            "32.767"
+        ],
+        "_cell.length_b": [
+            "53.874"
+        ],
+        "_cell.length_c": [
+            "74.859"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405508": {
+        "_cell.entry_id": [
+            "D_1001405508"
+        ],
+        "_cell.length_a": [
+            "137.087"
+        ],
+        "_cell.length_b": [
+            "137.087"
+        ],
+        "_cell.length_c": [
+            "137.087"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "48"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 4 3 2"
+        ]
+    },
+    "D_1001405509": {
+        "_cell.entry_id": [
+            "D_1001405509"
+        ],
+        "_cell.length_a": [
+            "32.486"
+        ],
+        "_cell.length_b": [
+            "53.939"
+        ],
+        "_cell.length_c": [
+            "75.317"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405510": {
+        "_cell.entry_id": [
+            "D_1001405510"
+        ],
+        "_cell.length_a": [
+            "32.616"
+        ],
+        "_cell.length_b": [
+            "53.956"
+        ],
+        "_cell.length_c": [
+            "75.287"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405511": {
+        "_cell.entry_id": [
+            "D_1001405511"
+        ],
+        "_cell.length_a": [
+            "32.259"
+        ],
+        "_cell.length_b": [
+            "53.007"
+        ],
+        "_cell.length_c": [
+            "72.387"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405512": {
+        "_cell.entry_id": [
+            "D_1001405512"
+        ],
+        "_cell.length_a": [
+            "32.558"
+        ],
+        "_cell.length_b": [
+            "53.612"
+        ],
+        "_cell.length_c": [
+            "74.743"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405513": {
+        "_cell.entry_id": [
+            "D_1001405513"
+        ],
+        "_cell.length_a": [
+            "32.262"
+        ],
+        "_cell.length_b": [
+            "53.922"
+        ],
+        "_cell.length_c": [
+            "74.946"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405514": {
+        "_cell.entry_id": [
+            "D_1001405514"
+        ],
+        "_cell.length_a": [
+            "32.402"
+        ],
+        "_cell.length_b": [
+            "53.772"
+        ],
+        "_cell.length_c": [
+            "75.141"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405515": {
+        "_cell.entry_id": [
+            "D_1001405515"
+        ],
+        "_cell.length_a": [
+            "32.571"
+        ],
+        "_cell.length_b": [
+            "54.060"
+        ],
+        "_cell.length_c": [
+            "74.811"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405516": {
+        "_cell.entry_id": [
+            "D_1001405516"
+        ],
+        "_cell.length_a": [
+            "32.513"
+        ],
+        "_cell.length_b": [
+            "53.769"
+        ],
+        "_cell.length_c": [
+            "75.090"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405517": {
+        "_cell.entry_id": [
+            "D_1001405517"
+        ],
+        "_cell.length_a": [
+            "32.510"
+        ],
+        "_cell.length_b": [
+            "53.896"
+        ],
+        "_cell.length_c": [
+            "74.953"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405518": {
+        "_cell.entry_id": [
+            "D_1001405518"
+        ],
+        "_cell.length_a": [
+            "32.948"
+        ],
+        "_cell.length_b": [
+            "53.154"
+        ],
+        "_cell.length_c": [
+            "74.473"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405519": {
+        "_cell.entry_id": [
+            "D_1001405519"
+        ],
+        "_cell.length_a": [
+            "32.926"
+        ],
+        "_cell.length_b": [
+            "53.993"
+        ],
+        "_cell.length_c": [
+            "74.197"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405520": {
+        "_cell.entry_id": [
+            "D_1001405520"
+        ],
+        "_cell.length_a": [
+            "32.515"
+        ],
+        "_cell.length_b": [
+            "53.939"
+        ],
+        "_cell.length_c": [
+            "75.133"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405521": {
+        "_cell.entry_id": [
+            "D_1001405521"
+        ],
+        "_cell.length_a": [
+            "59.625"
+        ],
+        "_cell.length_b": [
+            "75.128"
+        ],
+        "_cell.length_c": [
+            "61.805"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.180"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 1 21 1"
+        ]
+    },
+    "D_1001405522": {
+        "_cell.entry_id": [
+            "D_1001405522"
+        ],
+        "_cell.length_a": [
+            "35.381"
+        ],
+        "_cell.length_b": [
+            "55.201"
+        ],
+        "_cell.length_c": [
+            "74.233"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405523": {
+        "_cell.entry_id": [
+            "D_1001405523"
+        ],
+        "_cell.length_a": [
+            "32.349"
+        ],
+        "_cell.length_b": [
+            "53.790"
+        ],
+        "_cell.length_c": [
+            "75.227"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405524": {
+        "_cell.entry_id": [
+            "D_1001405524"
+        ],
+        "_cell.length_a": [
+            "32.216"
+        ],
+        "_cell.length_b": [
+            "53.849"
+        ],
+        "_cell.length_c": [
+            "75.495"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405525": {
+        "_cell.entry_id": [
+            "D_1001405525"
+        ],
+        "_cell.length_a": [
+            "32.508"
+        ],
+        "_cell.length_b": [
+            "54.114"
+        ],
+        "_cell.length_c": [
+            "74.495"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405526": {
+        "_cell.entry_id": [
+            "D_1001405526"
+        ],
+        "_cell.length_a": [
+            "32.494"
+        ],
+        "_cell.length_b": [
+            "53.862"
+        ],
+        "_cell.length_c": [
+            "74.794"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405527": {
+        "_cell.entry_id": [
+            "D_1001405527"
+        ],
+        "_cell.length_a": [
+            "32.505"
+        ],
+        "_cell.length_b": [
+            "53.878"
+        ],
+        "_cell.length_c": [
+            "75.181"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405528": {
+        "_cell.entry_id": [
+            "D_1001405528"
+        ],
+        "_cell.length_a": [
+            "32.653"
+        ],
+        "_cell.length_b": [
+            "54.070"
+        ],
+        "_cell.length_c": [
+            "75.261"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405529": {
+        "_cell.entry_id": [
+            "D_1001405529"
+        ],
+        "_cell.length_a": [
+            "32.519"
+        ],
+        "_cell.length_b": [
+            "53.691"
+        ],
+        "_cell.length_c": [
+            "74.521"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405530": {
+        "_cell.entry_id": [
+            "D_1001405530"
+        ],
+        "_cell.length_a": [
+            "32.573"
+        ],
+        "_cell.length_b": [
+            "54.147"
+        ],
+        "_cell.length_c": [
+            "74.980"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405531": {
+        "_cell.entry_id": [
+            "D_1001405531"
+        ],
+        "_cell.length_a": [
+            "32.470"
+        ],
+        "_cell.length_b": [
+            "53.929"
+        ],
+        "_cell.length_c": [
+            "75.531"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405532": {
+        "_cell.entry_id": [
+            "D_1001405532"
+        ],
+        "_cell.length_a": [
+            "32.328"
+        ],
+        "_cell.length_b": [
+            "53.800"
+        ],
+        "_cell.length_c": [
+            "75.117"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405533": {
+        "_cell.entry_id": [
+            "D_1001405533"
+        ],
+        "_cell.length_a": [
+            "32.442"
+        ],
+        "_cell.length_b": [
+            "53.962"
+        ],
+        "_cell.length_c": [
+            "75.152"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405534": {
+        "_cell.entry_id": [
+            "D_1001405534"
+        ],
+        "_cell.length_a": [
+            "32.295"
+        ],
+        "_cell.length_b": [
+            "53.986"
+        ],
+        "_cell.length_c": [
+            "75.240"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405535": {
+        "_cell.entry_id": [
+            "D_1001405535"
+        ],
+        "_cell.length_a": [
+            "137.105"
+        ],
+        "_cell.length_b": [
+            "137.105"
+        ],
+        "_cell.length_c": [
+            "137.105"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "48"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 4 3 2"
+        ]
+    },
+    "D_1001405536": {
+        "_cell.entry_id": [
+            "D_1001405536"
+        ],
+        "_cell.length_a": [
+            "32.423"
+        ],
+        "_cell.length_b": [
+            "54.013"
+        ],
+        "_cell.length_c": [
+            "75.029"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405537": {
+        "_cell.entry_id": [
+            "D_1001405537"
+        ],
+        "_cell.length_a": [
+            "32.414"
+        ],
+        "_cell.length_b": [
+            "53.807"
+        ],
+        "_cell.length_c": [
+            "75.106"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405538": {
+        "_cell.entry_id": [
+            "D_1001405538"
+        ],
+        "_cell.length_a": [
+            "32.364"
+        ],
+        "_cell.length_b": [
+            "53.865"
+        ],
+        "_cell.length_c": [
+            "75.114"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405539": {
+        "_cell.entry_id": [
+            "D_1001405539"
+        ],
+        "_cell.length_a": [
+            "32.649"
+        ],
+        "_cell.length_b": [
+            "53.627"
+        ],
+        "_cell.length_c": [
+            "75.018"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405540": {
+        "_cell.entry_id": [
+            "D_1001405540"
+        ],
+        "_cell.length_a": [
+            "32.378"
+        ],
+        "_cell.length_b": [
+            "53.682"
+        ],
+        "_cell.length_c": [
+            "75.103"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405541": {
+        "_cell.entry_id": [
+            "D_1001405541"
+        ],
+        "_cell.length_a": [
+            "77.801"
+        ],
+        "_cell.length_b": [
+            "94.742"
+        ],
+        "_cell.length_c": [
+            "49.864"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "C 2 2 21"
+        ]
+    },
+    "D_1001405542": {
+        "_cell.entry_id": [
+            "D_1001405542"
+        ],
+        "_cell.length_a": [
+            "32.535"
+        ],
+        "_cell.length_b": [
+            "53.731"
+        ],
+        "_cell.length_c": [
+            "74.476"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405543": {
+        "_cell.entry_id": [
+            "D_1001405543"
+        ],
+        "_cell.length_a": [
+            "32.547"
+        ],
+        "_cell.length_b": [
+            "53.670"
+        ],
+        "_cell.length_c": [
+            "74.648"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405544": {
+        "_cell.entry_id": [
+            "D_1001405544"
+        ],
+        "_cell.length_a": [
+            "33.078"
+        ],
+        "_cell.length_b": [
+            "53.736"
+        ],
+        "_cell.length_c": [
+            "74.809"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405545": {
+        "_cell.entry_id": [
+            "D_1001405545"
+        ],
+        "_cell.length_a": [
+            "71.420"
+        ],
+        "_cell.length_b": [
+            "53.460"
+        ],
+        "_cell.length_c": [
+            "31.684"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.390"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "C 1 2 1"
+        ]
+    },
+    "D_1001405546": {
+        "_cell.entry_id": [
+            "D_1001405546"
+        ],
+        "_cell.length_a": [
+            "32.548"
+        ],
+        "_cell.length_b": [
+            "53.904"
+        ],
+        "_cell.length_c": [
+            "74.937"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405547": {
+        "_cell.entry_id": [
+            "D_1001405547"
+        ],
+        "_cell.length_a": [
+            "32.755"
+        ],
+        "_cell.length_b": [
+            "53.847"
+        ],
+        "_cell.length_c": [
+            "74.779"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405548": {
+        "_cell.entry_id": [
+            "D_1001405548"
+        ],
+        "_cell.length_a": [
+            "32.190"
+        ],
+        "_cell.length_b": [
+            "53.666"
+        ],
+        "_cell.length_c": [
+            "75.318"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405549": {
+        "_cell.entry_id": [
+            "D_1001405549"
+        ],
+        "_cell.length_a": [
+            "32.074"
+        ],
+        "_cell.length_b": [
+            "53.885"
+        ],
+        "_cell.length_c": [
+            "75.609"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405550": {
+        "_cell.entry_id": [
+            "D_1001405550"
+        ],
+        "_cell.length_a": [
+            "32.509"
+        ],
+        "_cell.length_b": [
+            "53.906"
+        ],
+        "_cell.length_c": [
+            "75.233"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405551": {
+        "_cell.entry_id": [
+            "D_1001405551"
+        ],
+        "_cell.length_a": [
+            "134.852"
+        ],
+        "_cell.length_b": [
+            "29.864"
+        ],
+        "_cell.length_c": [
+            "81.060"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "122.360"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "C 1 2 1"
+        ]
+    },
+    "D_1001405552": {
+        "_cell.entry_id": [
+            "D_1001405552"
+        ],
+        "_cell.length_a": [
+            "32.396"
+        ],
+        "_cell.length_b": [
+            "53.936"
+        ],
+        "_cell.length_c": [
+            "75.085"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405553": {
+        "_cell.entry_id": [
+            "D_1001405553"
+        ],
+        "_cell.length_a": [
+            "32.655"
+        ],
+        "_cell.length_b": [
+            "53.997"
+        ],
+        "_cell.length_c": [
+            "74.847"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405554": {
+        "_cell.entry_id": [
+            "D_1001405554"
+        ],
+        "_cell.length_a": [
+            "32.020"
+        ],
+        "_cell.length_b": [
+            "52.967"
+        ],
+        "_cell.length_c": [
+            "72.208"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405555": {
+        "_cell.entry_id": [
+            "D_1001405555"
+        ],
+        "_cell.length_a": [
+            "53.404"
+        ],
+        "_cell.length_b": [
+            "72.606"
+        ],
+        "_cell.length_c": [
+            "31.828"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 2"
+        ]
+    },
+    "D_1001405556": {
+        "_cell.entry_id": [
+            "D_1001405556"
+        ],
+        "_cell.length_a": [
+            "137.496"
+        ],
+        "_cell.length_b": [
+            "137.496"
+        ],
+        "_cell.length_c": [
+            "137.496"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "48"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 4 3 2"
+        ]
+    },
+    "D_1001405557": {
+        "_cell.entry_id": [
+            "D_1001405557"
+        ],
+        "_cell.length_a": [
+            "32.786"
+        ],
+        "_cell.length_b": [
+            "53.581"
+        ],
+        "_cell.length_c": [
+            "74.524"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405558": {
+        "_cell.entry_id": [
+            "D_1001405558"
+        ],
+        "_cell.length_a": [
+            "32.514"
+        ],
+        "_cell.length_b": [
+            "53.749"
+        ],
+        "_cell.length_c": [
+            "75.204"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405559": {
+        "_cell.entry_id": [
+            "D_1001405559"
+        ],
+        "_cell.length_a": [
+            "32.215"
+        ],
+        "_cell.length_b": [
+            "54.374"
+        ],
+        "_cell.length_c": [
+            "75.143"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405560": {
+        "_cell.entry_id": [
+            "D_1001405560"
+        ],
+        "_cell.length_a": [
+            "32.448"
+        ],
+        "_cell.length_b": [
+            "53.902"
+        ],
+        "_cell.length_c": [
+            "74.923"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405561": {
+        "_cell.entry_id": [
+            "D_1001405561"
+        ],
+        "_cell.length_a": [
+            "78.698"
+        ],
+        "_cell.length_b": [
+            "129.581"
+        ],
+        "_cell.length_c": [
+            "115.914"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.110"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "32"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 1 21 1"
+        ]
+    },
+    "D_1001405562": {
+        "_cell.entry_id": [
+            "D_1001405562"
+        ],
+        "_cell.length_a": [
+            "62.444"
+        ],
+        "_cell.length_b": [
+            "62.444"
+        ],
+        "_cell.length_c": [
+            "74.999"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 43 21 2"
+        ]
+    },
+    "D_1001405563": {
+        "_cell.entry_id": [
+            "D_1001405563"
+        ],
+        "_cell.length_a": [
+            "32.064"
+        ],
+        "_cell.length_b": [
+            "53.936"
+        ],
+        "_cell.length_c": [
+            "75.313"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405564": {
+        "_cell.entry_id": [
+            "D_1001405564"
+        ],
+        "_cell.length_a": [
+            "32.543"
+        ],
+        "_cell.length_b": [
+            "53.831"
+        ],
+        "_cell.length_c": [
+            "75.039"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405565": {
+        "_cell.entry_id": [
+            "D_1001405565"
+        ],
+        "_cell.length_a": [
+            "61.391"
+        ],
+        "_cell.length_b": [
+            "62.906"
+        ],
+        "_cell.length_c": [
+            "74.407"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405566": {
+        "_cell.entry_id": [
+            "D_1001405566"
+        ],
+        "_cell.length_a": [
+            "32.407"
+        ],
+        "_cell.length_b": [
+            "54.071"
+        ],
+        "_cell.length_c": [
+            "75.161"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405567": {
+        "_cell.entry_id": [
+            "D_1001405567"
+        ],
+        "_cell.length_a": [
+            "32.725"
+        ],
+        "_cell.length_b": [
+            "53.733"
+        ],
+        "_cell.length_c": [
+            "74.284"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405568": {
+        "_cell.entry_id": [
+            "D_1001405568"
+        ],
+        "_cell.length_a": [
+            "33.024"
+        ],
+        "_cell.length_b": [
+            "54.276"
+        ],
+        "_cell.length_c": [
+            "75.060"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405569": {
+        "_cell.entry_id": [
+            "D_1001405569"
+        ],
+        "_cell.length_a": [
+            "32.575"
+        ],
+        "_cell.length_b": [
+            "53.974"
+        ],
+        "_cell.length_c": [
+            "75.144"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405570": {
+        "_cell.entry_id": [
+            "D_1001405570"
+        ],
+        "_cell.length_a": [
+            "32.494"
+        ],
+        "_cell.length_b": [
+            "53.941"
+        ],
+        "_cell.length_c": [
+            "75.611"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405571": {
+        "_cell.entry_id": [
+            "D_1001405571"
+        ],
+        "_cell.length_a": [
+            "32.503"
+        ],
+        "_cell.length_b": [
+            "53.894"
+        ],
+        "_cell.length_c": [
+            "74.622"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405572": {
+        "_cell.entry_id": [
+            "D_1001405572"
+        ],
+        "_cell.length_a": [
+            "62.328"
+        ],
+        "_cell.length_b": [
+            "62.328"
+        ],
+        "_cell.length_c": [
+            "74.650"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 43 21 2"
+        ]
+    },
+    "D_1001405573": {
+        "_cell.entry_id": [
+            "D_1001405573"
+        ],
+        "_cell.length_a": [
+            "32.107"
+        ],
+        "_cell.length_b": [
+            "52.905"
+        ],
+        "_cell.length_c": [
+            "72.208"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405574": {
+        "_cell.entry_id": [
+            "D_1001405574"
+        ],
+        "_cell.length_a": [
+            "32.595"
+        ],
+        "_cell.length_b": [
+            "54.115"
+        ],
+        "_cell.length_c": [
+            "75.004"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405575": {
+        "_cell.entry_id": [
+            "D_1001405575"
+        ],
+        "_cell.length_a": [
+            "62.344"
+        ],
+        "_cell.length_b": [
+            "62.344"
+        ],
+        "_cell.length_c": [
+            "75.663"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 43 21 2"
+        ]
+    },
+    "D_1001405576": {
+        "_cell.entry_id": [
+            "D_1001405576"
+        ],
+        "_cell.length_a": [
+            "32.294"
+        ],
+        "_cell.length_b": [
+            "53.935"
+        ],
+        "_cell.length_c": [
+            "74.948"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405577": {
+        "_cell.entry_id": [
+            "D_1001405577"
+        ],
+        "_cell.length_a": [
+            "32.334"
+        ],
+        "_cell.length_b": [
+            "53.767"
+        ],
+        "_cell.length_c": [
+            "75.238"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405578": {
+        "_cell.entry_id": [
+            "D_1001405578"
+        ],
+        "_cell.length_a": [
+            "32.667"
+        ],
+        "_cell.length_b": [
+            "53.528"
+        ],
+        "_cell.length_c": [
+            "74.591"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405579": {
+        "_cell.entry_id": [
+            "D_1001405579"
+        ],
+        "_cell.length_a": [
+            "32.446"
+        ],
+        "_cell.length_b": [
+            "53.543"
+        ],
+        "_cell.length_c": [
+            "74.681"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405580": {
+        "_cell.entry_id": [
+            "D_1001405580"
+        ],
+        "_cell.length_a": [
+            "32.555"
+        ],
+        "_cell.length_b": [
+            "54.081"
+        ],
+        "_cell.length_c": [
+            "74.975"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405581": {
+        "_cell.entry_id": [
+            "D_1001405581"
+        ],
+        "_cell.length_a": [
+            "32.538"
+        ],
+        "_cell.length_b": [
+            "53.966"
+        ],
+        "_cell.length_c": [
+            "75.359"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405582": {
+        "_cell.entry_id": [
+            "D_1001405582"
+        ],
+        "_cell.length_a": [
+            "32.627"
+        ],
+        "_cell.length_b": [
+            "53.896"
+        ],
+        "_cell.length_c": [
+            "74.939"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405583": {
+        "_cell.entry_id": [
+            "D_1001405583"
+        ],
+        "_cell.length_a": [
+            "32.568"
+        ],
+        "_cell.length_b": [
+            "53.785"
+        ],
+        "_cell.length_c": [
+            "75.376"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405584": {
+        "_cell.entry_id": [
+            "D_1001405584"
+        ],
+        "_cell.length_a": [
+            "32.377"
+        ],
+        "_cell.length_b": [
+            "53.641"
+        ],
+        "_cell.length_c": [
+            "75.199"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405585": {
+        "_cell.entry_id": [
+            "D_1001405585"
+        ],
+        "_cell.length_a": [
+            "32.115"
+        ],
+        "_cell.length_b": [
+            "52.750"
+        ],
+        "_cell.length_c": [
+            "72.365"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405586": {
+        "_cell.entry_id": [
+            "D_1001405586"
+        ],
+        "_cell.length_a": [
+            "32.497"
+        ],
+        "_cell.length_b": [
+            "53.809"
+        ],
+        "_cell.length_c": [
+            "75.109"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405587": {
+        "_cell.entry_id": [
+            "D_1001405587"
+        ],
+        "_cell.length_a": [
+            "32.340"
+        ],
+        "_cell.length_b": [
+            "53.895"
+        ],
+        "_cell.length_c": [
+            "75.136"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405588": {
+        "_cell.entry_id": [
+            "D_1001405588"
+        ],
+        "_cell.length_a": [
+            "32.597"
+        ],
+        "_cell.length_b": [
+            "53.786"
+        ],
+        "_cell.length_c": [
+            "74.863"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405589": {
+        "_cell.entry_id": [
+            "D_1001405589"
+        ],
+        "_cell.length_a": [
+            "32.292"
+        ],
+        "_cell.length_b": [
+            "53.697"
+        ],
+        "_cell.length_c": [
+            "75.360"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405590": {
+        "_cell.entry_id": [
+            "D_1001405590"
+        ],
+        "_cell.length_a": [
+            "35.599"
+        ],
+        "_cell.length_b": [
+            "54.690"
+        ],
+        "_cell.length_c": [
+            "73.636"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405591": {
+        "_cell.entry_id": [
+            "D_1001405591"
+        ],
+        "_cell.length_a": [
+            "32.565"
+        ],
+        "_cell.length_b": [
+            "53.817"
+        ],
+        "_cell.length_c": [
+            "74.965"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405592": {
+        "_cell.entry_id": [
+            "D_1001405592"
+        ],
+        "_cell.length_a": [
+            "32.697"
+        ],
+        "_cell.length_b": [
+            "53.983"
+        ],
+        "_cell.length_c": [
+            "75.342"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405593": {
+        "_cell.entry_id": [
+            "D_1001405593"
+        ],
+        "_cell.length_a": [
+            "38.947"
+        ],
+        "_cell.length_b": [
+            "106.685"
+        ],
+        "_cell.length_c": [
+            "56.261"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.360"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 1 21 1"
+        ]
+    },
+    "D_1001405594": {
+        "_cell.entry_id": [
+            "D_1001405594"
+        ],
+        "_cell.length_a": [
+            "31.835"
+        ],
+        "_cell.length_b": [
+            "53.161"
+        ],
+        "_cell.length_c": [
+            "72.060"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405595": {
+        "_cell.entry_id": [
+            "D_1001405595"
+        ],
+        "_cell.length_a": [
+            "32.472"
+        ],
+        "_cell.length_b": [
+            "53.861"
+        ],
+        "_cell.length_c": [
+            "75.143"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405596": {
+        "_cell.entry_id": [
+            "D_1001405596"
+        ],
+        "_cell.length_a": [
+            "32.128"
+        ],
+        "_cell.length_b": [
+            "52.805"
+        ],
+        "_cell.length_c": [
+            "72.315"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405597": {
+        "_cell.entry_id": [
+            "D_1001405597"
+        ],
+        "_cell.length_a": [
+            "32.532"
+        ],
+        "_cell.length_b": [
+            "53.972"
+        ],
+        "_cell.length_c": [
+            "74.911"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405598": {
+        "_cell.entry_id": [
+            "D_1001405598"
+        ],
+        "_cell.length_a": [
+            "32.351"
+        ],
+        "_cell.length_b": [
+            "53.792"
+        ],
+        "_cell.length_c": [
+            "75.170"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405599": {
+        "_cell.entry_id": [
+            "D_1001405599"
+        ],
+        "_cell.length_a": [
+            "53.568"
+        ],
+        "_cell.length_b": [
+            "73.406"
+        ],
+        "_cell.length_c": [
+            "32.838"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 2"
+        ]
+    },
+    "D_1001405600": {
+        "_cell.entry_id": [
+            "D_1001405600"
+        ],
+        "_cell.length_a": [
+            "32.141"
+        ],
+        "_cell.length_b": [
+            "53.024"
+        ],
+        "_cell.length_c": [
+            "72.169"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405601": {
+        "_cell.entry_id": [
+            "D_1001405601"
+        ],
+        "_cell.length_a": [
+            "32.468"
+        ],
+        "_cell.length_b": [
+            "54.097"
+        ],
+        "_cell.length_c": [
+            "74.828"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405602": {
+        "_cell.entry_id": [
+            "D_1001405602"
+        ],
+        "_cell.length_a": [
+            "32.236"
+        ],
+        "_cell.length_b": [
+            "53.071"
+        ],
+        "_cell.length_c": [
+            "72.357"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405603": {
+        "_cell.entry_id": [
+            "D_1001405603"
+        ],
+        "_cell.length_a": [
+            "32.361"
+        ],
+        "_cell.length_b": [
+            "53.882"
+        ],
+        "_cell.length_c": [
+            "74.605"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405604": {
+        "_cell.entry_id": [
+            "D_1001405604"
+        ],
+        "_cell.length_a": [
+            "32.222"
+        ],
+        "_cell.length_b": [
+            "53.770"
+        ],
+        "_cell.length_c": [
+            "74.960"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405605": {
+        "_cell.entry_id": [
+            "D_1001405605"
+        ],
+        "_cell.length_a": [
+            "32.567"
+        ],
+        "_cell.length_b": [
+            "53.698"
+        ],
+        "_cell.length_c": [
+            "75.398"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405606": {
+        "_cell.entry_id": [
+            "D_1001405606"
+        ],
+        "_cell.length_a": [
+            "32.465"
+        ],
+        "_cell.length_b": [
+            "53.881"
+        ],
+        "_cell.length_c": [
+            "75.272"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405607": {
+        "_cell.entry_id": [
+            "D_1001405607"
+        ],
+        "_cell.length_a": [
+            "32.433"
+        ],
+        "_cell.length_b": [
+            "53.646"
+        ],
+        "_cell.length_c": [
+            "74.880"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405608": {
+        "_cell.entry_id": [
+            "D_1001405608"
+        ],
+        "_cell.length_a": [
+            "32.545"
+        ],
+        "_cell.length_b": [
+            "53.992"
+        ],
+        "_cell.length_c": [
+            "75.074"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405609": {
+        "_cell.entry_id": [
+            "D_1001405609"
+        ],
+        "_cell.length_a": [
+            "32.546"
+        ],
+        "_cell.length_b": [
+            "53.825"
+        ],
+        "_cell.length_c": [
+            "75.427"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405610": {
+        "_cell.entry_id": [
+            "D_1001405610"
+        ],
+        "_cell.length_a": [
+            "32.555"
+        ],
+        "_cell.length_b": [
+            "53.760"
+        ],
+        "_cell.length_c": [
+            "75.080"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405611": {
+        "_cell.entry_id": [
+            "D_1001405611"
+        ],
+        "_cell.length_a": [
+            "32.433"
+        ],
+        "_cell.length_b": [
+            "53.834"
+        ],
+        "_cell.length_c": [
+            "75.186"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405612": {
+        "_cell.entry_id": [
+            "D_1001405612"
+        ],
+        "_cell.length_a": [
+            "32.596"
+        ],
+        "_cell.length_b": [
+            "53.702"
+        ],
+        "_cell.length_c": [
+            "74.718"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405613": {
+        "_cell.entry_id": [
+            "D_1001405613"
+        ],
+        "_cell.length_a": [
+            "32.464"
+        ],
+        "_cell.length_b": [
+            "53.840"
+        ],
+        "_cell.length_c": [
+            "74.765"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405614": {
+        "_cell.entry_id": [
+            "D_1001405614"
+        ],
+        "_cell.length_a": [
+            "32.549"
+        ],
+        "_cell.length_b": [
+            "54.014"
+        ],
+        "_cell.length_c": [
+            "74.846"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405615": {
+        "_cell.entry_id": [
+            "D_1001405615"
+        ],
+        "_cell.length_a": [
+            "32.463"
+        ],
+        "_cell.length_b": [
+            "53.688"
+        ],
+        "_cell.length_c": [
+            "75.416"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405616": {
+        "_cell.entry_id": [
+            "D_1001405616"
+        ],
+        "_cell.length_a": [
+            "32.372"
+        ],
+        "_cell.length_b": [
+            "54.053"
+        ],
+        "_cell.length_c": [
+            "75.123"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405617": {
+        "_cell.entry_id": [
+            "D_1001405617"
+        ],
+        "_cell.length_a": [
+            "32.391"
+        ],
+        "_cell.length_b": [
+            "53.685"
+        ],
+        "_cell.length_c": [
+            "75.026"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405618": {
+        "_cell.entry_id": [
+            "D_1001405618"
+        ],
+        "_cell.length_a": [
+            "32.478"
+        ],
+        "_cell.length_b": [
+            "53.852"
+        ],
+        "_cell.length_c": [
+            "75.220"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405619": {
+        "_cell.entry_id": [
+            "D_1001405619"
+        ],
+        "_cell.length_a": [
+            "32.015"
+        ],
+        "_cell.length_b": [
+            "52.942"
+        ],
+        "_cell.length_c": [
+            "72.164"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405620": {
+        "_cell.entry_id": [
+            "D_1001405620"
+        ],
+        "_cell.length_a": [
+            "35.276"
+        ],
+        "_cell.length_b": [
+            "55.039"
+        ],
+        "_cell.length_c": [
+            "74.209"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405621": {
+        "_cell.entry_id": [
+            "D_1001405621"
+        ],
+        "_cell.length_a": [
+            "32.242"
+        ],
+        "_cell.length_b": [
+            "54.032"
+        ],
+        "_cell.length_c": [
+            "75.158"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405622": {
+        "_cell.entry_id": [
+            "D_1001405622"
+        ],
+        "_cell.length_a": [
+            "32.158"
+        ],
+        "_cell.length_b": [
+            "52.964"
+        ],
+        "_cell.length_c": [
+            "72.240"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405623": {
+        "_cell.entry_id": [
+            "D_1001405623"
+        ],
+        "_cell.length_a": [
+            "62.724"
+        ],
+        "_cell.length_b": [
+            "62.724"
+        ],
+        "_cell.length_c": [
+            "75.485"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "8"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 43 21 2"
+        ]
+    },
+    "D_1001405624": {
+        "_cell.entry_id": [
+            "D_1001405624"
+        ],
+        "_cell.length_a": [
+            "32.387"
+        ],
+        "_cell.length_b": [
+            "53.730"
+        ],
+        "_cell.length_c": [
+            "75.205"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405625": {
+        "_cell.entry_id": [
+            "D_1001405625"
+        ],
+        "_cell.length_a": [
+            "32.575"
+        ],
+        "_cell.length_b": [
+            "53.988"
+        ],
+        "_cell.length_c": [
+            "75.411"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405626": {
+        "_cell.entry_id": [
+            "D_1001405626"
+        ],
+        "_cell.length_a": [
+            "32.450"
+        ],
+        "_cell.length_b": [
+            "53.713"
+        ],
+        "_cell.length_c": [
+            "75.066"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405627": {
+        "_cell.entry_id": [
+            "D_1001405627"
+        ],
+        "_cell.length_a": [
+            "32.651"
+        ],
+        "_cell.length_b": [
+            "53.793"
+        ],
+        "_cell.length_c": [
+            "74.842"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405628": {
+        "_cell.entry_id": [
+            "D_1001405628"
+        ],
+        "_cell.length_a": [
+            "32.366"
+        ],
+        "_cell.length_b": [
+            "53.770"
+        ],
+        "_cell.length_c": [
+            "75.641"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405629": {
+        "_cell.entry_id": [
+            "D_1001405629"
+        ],
+        "_cell.length_a": [
+            "32.212"
+        ],
+        "_cell.length_b": [
+            "53.015"
+        ],
+        "_cell.length_c": [
+            "72.440"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 2 21 21"
+        ]
+    },
+    "D_1001405630": {
+        "_cell.entry_id": [
+            "D_1001405630"
+        ],
+        "_cell.length_a": [
+            "58.691"
+        ],
+        "_cell.length_b": [
+            "34.929"
+        ],
+        "_cell.length_c": [
+            "59.321"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "119.210"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 1 21 1"
+        ]
+    },
+    "D_1001405631": {
+        "_cell.entry_id": [
+            "D_1001405631"
+        ],
+        "_cell.length_a": [
+            "32.271"
+        ],
+        "_cell.length_b": [
+            "53.862"
+        ],
+        "_cell.length_c": [
+            "75.311"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405632": {
+        "_cell.entry_id": [
+            "D_1001405632"
+        ],
+        "_cell.length_a": [
+            "32.235"
+        ],
+        "_cell.length_b": [
+            "53.738"
+        ],
+        "_cell.length_c": [
+            "75.064"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405633": {
+        "_cell.entry_id": [
+            "D_1001405633"
+        ],
+        "_cell.length_a": [
+            "32.628"
+        ],
+        "_cell.length_b": [
+            "53.936"
+        ],
+        "_cell.length_c": [
+            "75.312"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    },
+    "D_1001405634": {
+        "_cell.entry_id": [
+            "D_1001405634"
+        ],
+        "_cell.length_a": [
+            "32.686"
+        ],
+        "_cell.length_b": [
+            "53.877"
+        ],
+        "_cell.length_c": [
+            "75.086"
+        ],
+        "_cell.angle_alpha": [
+            "90.000"
+        ],
+        "_cell.angle_beta": [
+            "90.000"
+        ],
+        "_cell.angle_gamma": [
+            "90.000"
+        ],
+        "_cell.Z_PDB": [
+            "4"
+        ],
+        "_cell.pdbx_unique_axis": [
+            "?"
+        ],
+        "_symmetry.space_group_name_H-M": [
+            "P 21 21 21"
+        ]
+    }
+}
