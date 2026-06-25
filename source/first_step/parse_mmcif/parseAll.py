@@ -93,7 +93,7 @@ def parseAll(group, l_id, num):
     # ---------------------------------------
 
   
-def map_parseAll(l_ids, l_groups, l_num):
+def map_parseAll(l_groups, l_ids, l_num):
 
     with ProcessPoolExecutor() as executor:
         results = executor.map(parseAll, l_groups, l_ids, l_num)
@@ -122,18 +122,18 @@ def main():
        dep_id = "D_" + str(id)
        l_id3.append(dep_id)
 
-    l_id = [l_id1, l_id2, l_id3]
+    l_ids = [l_id1, l_id2, l_id3]
 
 
     group1 = "G_1002001"
     group2 = "G_1002241"
     group3 = "G_1002264"
 
-    l_group = [group1, group2, group3]
+    l_groups = [group1, group2, group3]
 
     l_num = ["1", "2", "3"]
 
-    map_parseAll(group1, l_id1, l_num)
+    map_parseAll(l_groups, l_ids, l_num)
 
 
 
