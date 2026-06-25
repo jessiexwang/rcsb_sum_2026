@@ -44,7 +44,7 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 
-def parseAll(num, group, l_id):
+def parseAll(group, l_id):
     """run through different processes for the list of ids 
     """
 
@@ -62,7 +62,7 @@ def parseAll(num, group, l_id):
 
     l_single_attr = [l_1, l_2, l_4]
 
-    processList_category(l_id, l_single, l_single_attr, group, num) 
+    processList_category(l_id, l_single, l_single_attr, group, num = "1") 
     # ------------------------------------
 
 
@@ -71,24 +71,24 @@ def parseAll(num, group, l_id):
     rT.readTwo(group, cat1="diffrn_radiation_wavelength", cat2="diffrn_source", l_id=l_id, l_cat=l_cat1, file_name="data_collection", num=num)
 
     l_cat2 = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
-    rT.readTwo(group, "audit_author", "struct", l_id, l_cat2, "authorship", num)
+    rT.readTwo(group, "audit_author", "struct", l_id, l_cat2, "authorship", num = "1")
 
     l_cat3 = ["_citation.title", "_citation_author.name"]
-    rT.readTwo(group, "citation", "citation_author", l_id, l_cat3, "citation", num)
+    rT.readTwo(group, "citation", "citation_author", l_id, l_cat3, "citation", num = "1")
 
     l_cat4 = ["_cell.entry_id", "_cell.length_a", "_cell.length_b", "_cell.length_c", "_cell.angle_alpha", 
               "_cell.angle_beta", "_cell.angle_gamma", "_cell.Z_PDB", "_cell.pdbx_unique_axis", "_symmetry.space_group_name_H-M"]
-    rT.readTwo(group, "cell", "symmetry", l_id, l_cat4, "cell_divisions", num)
+    rT.readTwo(group, "cell", "symmetry", l_id, l_cat4, "cell_divisions", num = "1")
 
 
     # ------------------------------------
 
     # ------------ complicated -----------
 
-    rL.filterLigand(group, l_id, num) 
-    rS.mapSourceOneGroup(group, l_id, num)
-    rA.readAssembly(group, l_id, num)
-    rP.readPolymer(group, l_id, num)
+    rL.filterLigand(group, l_id, "1") 
+    rS.mapSourceOneGroup(group, l_id, "1")
+    rA.readAssembly(group, l_id, "1")
+    rP.readPolymer(group, l_id, "1")
 
     # ---------------------------------------
 
@@ -131,7 +131,7 @@ def main():
     # l_num = ["1", "2", "3"]
 
     #map_parseAll(l_groups, l_ids)
-    parseAll("1", group1, l_id1)
+    parseAll(group1, l_id1)
     # parseAll("2", group2, l_id2)
     # parseAll("3", group3, l_id3)
     
