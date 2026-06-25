@@ -52,7 +52,7 @@ class consolidateAll():
         dict_cat = {}
 
         for i in range(3):
-            num = i+1
+            num = str(i+1)
             fn = category + num + ".json"
             fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
             d_ = self.readJSON(fp)
