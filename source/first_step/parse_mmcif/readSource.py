@@ -170,7 +170,7 @@ class readSource:
 
         return d_all
     
-    def mapSourceOneGroup(self, group, l_id):
+    def mapSourceOneGroup(self, group, l_id, num = ""):
         """method to read the source of a list of ids belonging to one group
         Args:
             group (str): group that the entry belongs to
@@ -198,7 +198,7 @@ class readSource:
                 continue
 
 
-        fn_category_json = "source.json"
+        fn_category_json = "source" + num + ".json"
         fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
 
     

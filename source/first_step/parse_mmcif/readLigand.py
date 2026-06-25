@@ -90,7 +90,7 @@ class readLigand:
            self.l_id_null.append(id_tuple[0])
 
         
-    def filterLigand(self, group, l_id):
+    def filterLigand(self, group, l_id, num = ""):
         """method to filter for entries that are missing lingand info and write out into a list
 
         Args:
@@ -118,7 +118,7 @@ class readLigand:
         for i in range(len(self.l_id_to_null)):
             self.searchNull(self.l_id_to_null[i])
         
-        fn = "ligand_missing.list"
+        fn = "ligand_missing" + num + ".list" 
         fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
         
         with open(fp, 'w') as f:

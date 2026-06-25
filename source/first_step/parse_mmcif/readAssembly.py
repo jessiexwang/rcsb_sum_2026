@@ -76,7 +76,7 @@ class readAssembly:
             d_new[item] = d1[item]
         return d_new
 
-    def readAssembly(self, group, l_id):
+    def readAssembly(self, group, l_id, num = ""):
         """method to parse out all the needed information about an entry's structure assembly
 
         Args:
@@ -104,7 +104,7 @@ class readAssembly:
                 continue
 
 
-        fn = "assembly.tsv"
+        fn = "assembly" + num + ".tsv"
         fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
         fn_json = "assembly.json"
         fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)

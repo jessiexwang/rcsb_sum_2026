@@ -128,7 +128,7 @@ class readPolymer():
      
 
 
-    def readPolymer(self, group, l_id):
+    def readPolymer(self, group, l_id, num= ""):
         """method to parse out all the needed information about an entry's polymer(s)
 
         Args:
@@ -161,7 +161,7 @@ class readPolymer():
 
         # fn = "polymer.tsv"
         # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        fn_json = "polymer.json"
+        fn_json = "polymer" + num + ".json"
         fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
         # writeDictToFile(d_category_all, fp, self.cat_list)

@@ -87,7 +87,7 @@ def workerOne(category, group, l_item_category, id):
 
     
 
-def processList_id(l_id, group, category, l_item_category):
+def processList_id(l_id, group, num, category, l_item_category):
     """a method to take a list of data files and extracts information from each file  of thelist into two dictionaries: one for  audit contact information and one for  primary citation information. Then, it converts each dictionary into a tsv file.
     
     Returns:
@@ -118,7 +118,7 @@ def processList_id(l_id, group, category, l_item_category):
             logger.error("entry %s with error %s", id, e)
             continue
 
-    fn_category = category + ".tsv"
+    fn_category = category + num + ".tsv"
     fp_category = os.path.join(DATA_DIR, "parse_mmcif", fn_category)
     fn_category_json = category + ".json"
     fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
@@ -130,7 +130,7 @@ def processList_id(l_id, group, category, l_item_category):
 
 
 
-def processList_category(l_id, l_category, l_item_category, group):
+def processList_category(l_id, l_category, l_item_category, group, num = ""):
     """ a method to parse info ids with a list of categories and a list of the corresponding attributes
 
     Args:
@@ -138,7 +138,7 @@ def processList_category(l_id, l_category, l_item_category, group):
         l_category (str): list of categories
         l_item_category (str): list of lists, each of attributes corresponding with l_category
     """
-    partial_processList_id = functools.partial(processList_id, l_id, group)
+    partial_processList_id = functools.partial(processList_id, l_id, group, num)
 
     with ProcessPoolExecutor() as executor:
         results = executor.map(partial_processList_id, l_category, l_item_category)
@@ -170,6 +170,8 @@ def main():
     l_diffrn_source = ['_diffrn_source.type']
     l_item_cat = [l_crystal_grow, l_radiation_wl, l_diffrn_source]
     group = 'G_1002329'
+
+
 
 
     #category3 = 'citation_author'

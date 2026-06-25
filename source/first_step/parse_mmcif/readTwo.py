@@ -75,7 +75,7 @@ class readTwo:
 
         return d_new
     
-    def readTwo(self, group, cat1, cat2, l_id, l_cat, file_name):
+    def readTwo(self, group, cat1, cat2, l_id, l_cat, file_name, num = ""):
         """method to parse out all the needed information about an entry
 
         Args:
@@ -111,7 +111,7 @@ class readTwo:
 
         # fn = file_name +".tsv"
         # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        fn_json = file_name + ".json"
+        fn_json = file_name + num +".json"
         fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
 
