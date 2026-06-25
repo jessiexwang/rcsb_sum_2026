@@ -44,7 +44,7 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 
-def parseAll(group, l_id, num):
+def parseAll(num, group, l_id):
     """run through different processes for the list of ids 
     """
 
@@ -95,8 +95,11 @@ def parseAll(group, l_id, num):
   
 def map_parseAll(l_groups, l_ids, l_num):
 
-    with ProcessPoolExecutor() as executor:
-        results = executor.map(parseAll, l_groups, l_ids, l_num)
+    for num in l_num:
+        partial_parse = functools.partial(parseAll, num)
+
+        with ProcessPoolExecutor() as executor:
+            results = executor.map(partial_parse, l_groups, l_ids)
 
 
 
