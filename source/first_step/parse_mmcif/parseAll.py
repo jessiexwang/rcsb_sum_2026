@@ -110,21 +110,21 @@ def main():
     #    dep_id = "D_" + str(id)
     #    l_id1.append(dep_id)
 
-    for i in range(259):
-       id = 1001404927 + i
-       dep_id = "D_" + str(id)
-       l_id2.append(dep_id)
+    # for i in range(259):
+    #    id = 1001404927 + i
+    #    dep_id = "D_" + str(id)
+    #    l_id2.append(dep_id)
 
     
 
-    # for i in range(223):
-    #    id = 1001405411 + i
-    #    dep_id = "D_" + str(id)
-    #    l_id3.append(dep_id)
+    for i in range(223):
+       id = 1001405411 + i
+       dep_id = "D_" + str(id)
+       l_id3.append(dep_id)
 
     # l_ids = [l_id1, l_id2, l_id3]
 
-    print(l_id2)
+    print(l_id3)
 
     # group1 = "G_1002001"
     # group2 = "G_1002241"
