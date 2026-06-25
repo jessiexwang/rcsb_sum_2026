@@ -81,7 +81,7 @@ class consolidateAll():
 
             with open(fp) as f:
                 one_ligand = f.read().splitlines()
-                l_ligand.append(one_ligand)
+                l_ligand = l_ligand + one_ligand
 
 
         fn = "ligand_missing.list" 
