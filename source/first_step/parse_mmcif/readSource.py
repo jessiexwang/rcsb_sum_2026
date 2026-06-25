@@ -18,7 +18,7 @@ if not os.path.isdir(LOG_DIR):
 
 sys.path.insert(0, SRC_DIR)
 from first_step.parse_mmcif.readLegacy import LegacyReader
-from first_step.parse_mmcif.readSingle import workerOne
+from first_step.parse_mmcif.readSingle import workerOne_all
 
 
 #----------logging-----------
@@ -153,7 +153,7 @@ class readSource:
 
         d_all = {}
 
-        res = workerOne("entity", group, id)
+        res = workerOne_all("entity", group, id)
         d_all["_entity"] = res
 
         for i in self.l_source:

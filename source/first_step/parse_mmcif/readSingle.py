@@ -85,6 +85,18 @@ def workerOne(category, group, l_item_category, id):
 
     return d_new
 
+def workerOne_all(category, group, id):
+    fp = os.path.join(DATA_DIR, group, id + ".cif")
+
+    logger.info("filepath at %s", fp)
+    reader = LegacyReader(fp)
+    reader.readCategory(category) # read category, save to dictionary
+    reader.cleanDict() #clean
+    rt_data = reader.d_category # return a dictionary
+
+    return rt_data
+
+
     
 
 def processList_id(l_id, group, num, category, l_item_category):

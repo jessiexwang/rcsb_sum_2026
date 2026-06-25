@@ -17,7 +17,7 @@ if not os.path.isdir(LOG_DIR):
     os.makedirs(LOG_DIR)
 
 sys.path.insert(0, SRC_DIR)
-from first_step.parse_mmcif.readSingle import workerOne
+from first_step.parse_mmcif.readSingle import workerOne_all
 from first_step.parse_mmcif.readSingle import writeDictToFile
 from first_step.parse_mmcif.readSource import readSource
 
@@ -74,7 +74,7 @@ class readPolymer():
         Returns:
             dict: dictionary of parsed info
         """
-        d1 = workerOne(category=self.category1, group=group, l_item_category=self.cat_list, id=id)
+        d1 = workerOne_all(category=self.category1, group=group, l_item_category=self.cat_list, id=id)
         en_type = d1['_entity.type'].copy()
         index_list = []
         for item in en_type:
@@ -91,8 +91,8 @@ class readPolymer():
         d1.pop('_entity.type')
         self.cat_list.remove('_entity.type')
 
-        d2 = workerOne(self.category2, group, self.cat_list2,id)
-        d3 = workerOne(self.category3, group, self.cat_list3,id)
+        d2 = workerOne_all(self.category2, group, self.cat_list2,id)
+        d3 = workerOne_all(self.category3, group, self.cat_list3,id)
         d1.update(d2)
         d1.update(d3)
 

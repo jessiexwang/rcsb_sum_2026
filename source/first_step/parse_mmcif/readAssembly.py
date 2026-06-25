@@ -18,7 +18,7 @@ if not os.path.isdir(LOG_DIR):
     os.makedirs(LOG_DIR)
 
 sys.path.insert(0, SRC_DIR)
-from first_step.parse_mmcif.readSingle import workerOne
+from first_step.parse_mmcif.readSingle import workerOne_all
 from first_step.parse_mmcif.readSingle import writeDictToFile
 
 #----------logging-----------
@@ -66,8 +66,8 @@ class readAssembly:
         Returns:
             dict: dictionary of parsed info
         """
-        d1 = workerOne(self.category1, group, id)
-        d2 = workerOne(self.category2, group, id)
+        d1 = workerOne_all(self.category1, group, id)
+        d2 = workerOne_all(self.category2, group, id)
 
         d1.update(d2)
         d_new = {}
