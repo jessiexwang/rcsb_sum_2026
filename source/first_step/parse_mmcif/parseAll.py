@@ -132,8 +132,8 @@ def main():
 
     #map_parseAll(l_groups, l_ids)
     #parseAll("1", group1, l_id1)
-    parseAll("2", group2, l_id2)
-    # parseAll("3", group3, l_id3)
+    #parseAll("2", group2, l_id2)
+    parseAll("3", group3, l_id3)
     
 
 
