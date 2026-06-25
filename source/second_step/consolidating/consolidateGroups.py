@@ -51,8 +51,8 @@ class consolidateAll():
 
         dict_cat = {}
 
-        for i in range(3):
-            num = str(i+1)
+        for i in range(2):
+            num = str(i+2)
             fn = category + num + ".json"
             fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
             d_ = self.readJSON(fp)
@@ -65,15 +65,49 @@ class consolidateAll():
             json.dump(dict_cat, fp, indent= 4)
 
 
+    def mapCategories(self, l_category):
+        with ProcessPoolExecutor() as executor:
+            results = executor.map(self.consolidateGroups, l_category)
+
+
+    def consolidateList(self):
+
+        l_ligand = []
+
+        for i in range(2):
+            num = str(i+2)
+            fn = "ligand_missing" + num + ".json"
+            fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+
+        with open(fp) as f:
+            one_ligand = f.read().splitlines()
+            l_ligand.append(one_ligand)
+
+
+        fn = "ligand_missing.list" 
+        fp = os.path.join(DATA_DIR, "consolidating", fn)
+        
+        with open(fp, 'w') as f:
+            # Join the list elements into a single string with a newline character
+            data_to_write = '\n'.join(l_ligand)
+    
+            # Write the data to the file
+            f.write(data_to_write)
+     
+
+
 
 
 
 def main():
-
   
     category = "assembly"
+    l_category = ["assembly", "authorship", "cell_divisions", "citation", "data_collection",
+                  "exptl_crystal_grow", "pdbx_deposit_group", "polymer", "refine", "source"]
+
     cA = consolidateAll()
     cA.consolidateGroups(category)
+    cA.consolidateList()
 
 
 if __name__ == "__main__":
