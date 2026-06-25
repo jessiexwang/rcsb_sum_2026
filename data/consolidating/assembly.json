@@ -1,0 +1,6856 @@
+{
+    "D_1001400001": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400002": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400003": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400004": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400005": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400006": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400007": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400008": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400009": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400010": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400011": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400012": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400013": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400014": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400015": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400016": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400017": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400018": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400019": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400020": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400021": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400022": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400023": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400024": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400025": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400026": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400027": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400028": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400029": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400030": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400031": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400032": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400033": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400034": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400035": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400036": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400037": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400038": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400039": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400040": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400041": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400042": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400043": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400044": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400045": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400046": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400047": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400048": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400049": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400050": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400051": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400052": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400053": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400054": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400055": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400056": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400057": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400058": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400059": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400060": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400061": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400062": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400063": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400064": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400065": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400066": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400067": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400068": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400069": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400070": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400071": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400072": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400073": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400074": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400075": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400076": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400077": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400078": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400079": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400080": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400081": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400082": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400083": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400084": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400085": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400086": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400087": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400088": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400089": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400090": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400091": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400092": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400093": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400094": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400095": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400096": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400097": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400098": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400099": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400100": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400101": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400102": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400103": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400104": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400105": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400106": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400107": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400108": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400109": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400110": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400111": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400112": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400113": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400114": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400115": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400116": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400117": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400118": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400119": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400120": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400121": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400122": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400123": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400124": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400125": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400126": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400127": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400128": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400129": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400130": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400131": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400132": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400133": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400134": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400135": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400136": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400137": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400138": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400139": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400140": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400141": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400142": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400143": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400144": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400145": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400146": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400147": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400148": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400149": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400150": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400151": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400152": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400153": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400154": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400155": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400156": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400157": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400158": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400159": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400160": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400161": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400162": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400163": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400164": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400165": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400166": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400167": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400168": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400169": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400170": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400171": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400172": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400173": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400174": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400175": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400176": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400177": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400178": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400179": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400180": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400181": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400182": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400183": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400184": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400185": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400186": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400187": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400188": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400189": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400190": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400191": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400192": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400193": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400194": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400195": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400196": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400197": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400198": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400199": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400200": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400201": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400202": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400203": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400204": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400205": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400206": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400207": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400208": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400209": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400210": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400211": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400212": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400213": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400214": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400215": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400216": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400217": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400218": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400219": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400220": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400221": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400222": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400223": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400224": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400225": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400226": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400227": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400228": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400229": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400230": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400231": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400232": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400233": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400234": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400235": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400236": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400237": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400238": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400239": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400240": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400241": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400242": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400243": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400244": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400245": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400246": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400247": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400248": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400249": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400250": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400251": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400252": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400253": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400254": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400255": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400256": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400257": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400258": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400259": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400260": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400261": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400262": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400263": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400264": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400265": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400266": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400267": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400268": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400269": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400270": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400271": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400272": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400273": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400274": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400275": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400276": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400277": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400278": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400279": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400280": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400281": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400282": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400283": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400284": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400285": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400286": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400287": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400288": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400289": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400290": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400291": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400292": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400293": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400294": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400295": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400296": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400297": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400298": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400299": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400300": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400301": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400302": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400303": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400304": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400305": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400306": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400307": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400308": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400309": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400310": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400311": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400312": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400313": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400314": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400315": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400316": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400317": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400318": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400319": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400320": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400321": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400322": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400323": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400324": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400325": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400326": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400327": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400328": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400329": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400330": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400331": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400332": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400333": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400334": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400335": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400336": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400337": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400338": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400339": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400340": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400341": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400342": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400343": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400344": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400345": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400346": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400347": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400348": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400349": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400350": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400351": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400352": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400353": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400354": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400355": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400356": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400357": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400358": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400359": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400360": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400361": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400362": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400363": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001400364": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B"
+        ]
+    },
+    "D_1001404927": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404928": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404929": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404930": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404931": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404932": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404933": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404934": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404935": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404936": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404937": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404938": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404939": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404940": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404941": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404942": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404943": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404944": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404945": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404946": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404947": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404948": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404949": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404950": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404951": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404952": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404953": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404954": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404955": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404956": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404957": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404958": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404959": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404960": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404961": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404962": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404963": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404964": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404965": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404966": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001404967": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404968": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404969": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404970": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404971": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404972": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404973": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001404974": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404975": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404976": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404977": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404978": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404979": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404980": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404981": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404982": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404983": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404984": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404985": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404986": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404987": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404988": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404989": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404990": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001404991": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404992": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404993": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404994": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404995": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001404996": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404997": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404998": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404999": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405000": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405001": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405002": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405003": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405004": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405005": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405006": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405007": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405008": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405009": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405010": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405011": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405012": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405013": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405014": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405015": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405016": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405017": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405018": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405019": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405020": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405021": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405022": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405023": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405024": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405025": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405026": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405027": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405028": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405029": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405030": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405031": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405032": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405033": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405034": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405035": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405036": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405037": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405038": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405039": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405040": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405041": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405042": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405043": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405044": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405045": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405046": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405047": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405048": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405049": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405050": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405051": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405052": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405053": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405054": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405055": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405056": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405057": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405058": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405059": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405060": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405061": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405062": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405063": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405064": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405065": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405066": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405067": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405068": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405069": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405070": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405071": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405072": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405073": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405074": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405075": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405076": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405077": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405078": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405079": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405080": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405081": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405082": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405083": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405084": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405085": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405086": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405087": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405088": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405089": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405090": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405091": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405092": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405093": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405094": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405095": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405096": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405097": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405098": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405099": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405100": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405101": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405102": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405103": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405104": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405105": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405106": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405107": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405108": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405109": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405110": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405111": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405112": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405113": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405114": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405115": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405116": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405117": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405118": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405119": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405120": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405121": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405122": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405123": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405124": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405125": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405126": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405127": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405128": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405129": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405130": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405131": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405132": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405133": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405134": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405135": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405136": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405137": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405138": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405139": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405140": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405141": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405142": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405143": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405144": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405145": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405146": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405147": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I"
+        ]
+    },
+    "D_1001405148": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405149": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405150": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405151": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405152": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405153": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405154": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405155": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405156": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405157": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405158": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405159": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405160": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405161": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405162": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405163": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405164": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405165": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405166": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405167": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405168": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405169": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405170": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405171": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405172": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405173": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405174": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405175": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405176": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405177": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405178": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405179": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405180": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405181": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405182": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405183": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405184": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405185": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405411": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405412": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405413": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405414": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405415": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405416": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405417": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I"
+        ]
+    },
+    "D_1001405418": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405419": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405420": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405421": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405422": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405423": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405424": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405425": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405426": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405427": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405428": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405429": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405430": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405431": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405432": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405433": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405434": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405435": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,D,E,I",
+            "B,F,J",
+            "C,G,H,K"
+        ]
+    },
+    "D_1001405436": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I,J"
+        ]
+    },
+    "D_1001405437": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405438": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405439": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405440": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405441": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405442": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405443": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405444": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405445": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405446": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,C",
+            "B,D"
+        ]
+    },
+    "D_1001405447": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405448": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405449": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405450": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405451": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405452": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405453": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405454": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405455": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405456": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405457": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405458": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405459": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405460": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405461": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405462": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405463": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405464": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405465": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405466": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405467": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405468": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405469": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405470": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I,J,K"
+        ]
+    },
+    "D_1001405471": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405472": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405473": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405474": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405475": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405476": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I,J"
+        ]
+    },
+    "D_1001405477": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,C,D,F",
+            "B,E,G"
+        ]
+    },
+    "D_1001405478": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405479": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405480": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405481": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405482": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405483": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405484": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405485": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405486": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405487": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405488": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405489": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405490": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405491": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405492": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405493": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405494": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405495": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405496": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405497": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,I,J,Y",
+            "B,K,L,Z",
+            "C,M,N,AA",
+            "D,O,P,BA",
+            "E,Q,R,CA",
+            "F,S,T,DA",
+            "G,U,V,EA",
+            "H,W,X,FA"
+        ]
+    },
+    "D_1001405498": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405499": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,C",
+            "B,D"
+        ]
+    },
+    "D_1001405500": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405501": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405502": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405503": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405504": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405505": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405506": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405507": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405508": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,C,D,E,J",
+            "B,F,G,H,I"
+        ]
+    },
+    "D_1001405509": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405510": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405511": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405512": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "."
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I"
+        ]
+    },
+    "D_1001405513": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405514": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405515": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405516": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405517": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405518": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405519": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405520": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405521": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,E,F",
+            "B,G",
+            "C,H",
+            "D,I"
+        ]
+    },
+    "D_1001405522": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405523": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405524": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405525": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405526": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405527": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405528": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405529": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405530": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405531": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405532": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405533": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405534": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405535": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,C,D,E,K",
+            "B,F,G,H,I,J,L"
+        ]
+    },
+    "D_1001405536": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405537": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405538": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405539": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405540": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405541": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405542": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405543": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405544": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405545": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405546": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405547": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405548": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405549": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405550": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405551": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,C,D,F",
+            "B,E,G"
+        ]
+    },
+    "D_1001405552": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405553": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405554": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405555": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405556": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,C,D,E,K",
+            "B,F,G,H,I,J"
+        ]
+    },
+    "D_1001405557": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I"
+        ]
+    },
+    "D_1001405558": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405559": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405560": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405561": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,Q,R,WA",
+            "B,S,T,U,XA",
+            "C,V,YA",
+            "D,W,X,ZA",
+            "E,Y,Z,AB",
+            "F,AA,BA,BB",
+            "G,CA,DA,CB",
+            "H,EA,FA,DB",
+            "I,GA,HA,EB",
+            "J,IA,JA,KA,FB",
+            "K,LA,GB",
+            "L,MA,NA,HB",
+            "M,OA,PA,IB",
+            "N,QA,RA,JB",
+            "O,SA,TA,KB",
+            "P,UA,VA,LB"
+        ]
+    },
+    "D_1001405562": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405563": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405564": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405565": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,G",
+            "B,C,D,E,F,H"
+        ]
+    },
+    "D_1001405566": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405567": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405568": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405569": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405570": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405571": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405572": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405573": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405574": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "."
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405575": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405576": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405577": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405578": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405579": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I,J,K,L"
+        ]
+    },
+    "D_1001405580": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405581": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405582": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405583": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405584": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405585": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405586": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405587": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405588": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405589": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405590": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405591": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405592": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405593": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric",
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,G",
+            "B,H",
+            "C,E,F,I",
+            "D,J"
+        ]
+    },
+    "D_1001405594": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405595": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405596": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405597": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405598": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405599": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405600": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405601": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H"
+        ]
+    },
+    "D_1001405602": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405603": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405604": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405605": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405606": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405607": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I,J"
+        ]
+    },
+    "D_1001405608": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405609": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405610": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405611": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405612": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405613": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405614": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405615": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405616": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405617": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405618": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405619": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405620": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405621": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405622": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D"
+        ]
+    },
+    "D_1001405623": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405624": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405625": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405626": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405627": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G,H,I"
+        ]
+    },
+    "D_1001405628": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405629": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405630": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric",
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,C",
+            "B,D"
+        ]
+    },
+    "D_1001405631": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    },
+    "D_1001405632": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405633": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F,G"
+        ]
+    },
+    "D_1001405634": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    }
+}
