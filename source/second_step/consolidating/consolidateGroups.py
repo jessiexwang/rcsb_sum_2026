@@ -79,9 +79,9 @@ class consolidateAll():
             fn = "ligand_missing" + num + ".list"
             fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
 
-        with open(fp) as f:
-            one_ligand = f.read().splitlines()
-            l_ligand.append(one_ligand)
+            with open(fp) as f:
+                one_ligand = f.read().splitlines()
+                l_ligand.append(one_ligand)
 
 
         fn = "ligand_missing.list" 
