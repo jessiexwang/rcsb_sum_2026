@@ -58,6 +58,7 @@ class consolidateAll():
             d_ = self.readJSON(fp)
             dict_cat.update(d_)
 
+        print(len(dict_cat))
 
         fn_json = category + ".json"
         fp_category_json = os.path.join(DATA_DIR, "consolidating", fn_json)
@@ -70,11 +71,11 @@ class consolidateAll():
 
 
 def main():
-    
-    print(DATA_DIR)
-    # category = "assembly"
-    # cA = consolidateAll()
-    # cA.consolidateGroups(category)
+
+  
+    category = "assembly"
+    cA = consolidateAll()
+    cA.consolidateGroups(category)
 
 
 if __name__ == "__main__":
