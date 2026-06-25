@@ -1,4 +1,5 @@
 import os
+import json
 import sys
 import functools
 from concurrent.futures import ProcessPoolExecutor
@@ -34,3 +35,46 @@ logger.setLevel(logging.DEBUG)
 logger.addHandler(f_handler)
 logger.addHandler(c_handler)
 #-----------------------------
+
+class consolidateAll():
+    def __init__(self):
+        pass
+
+
+    def readJSON(self, fp):
+        with open(fp) as json_file:
+            one_file = json.load(json_file)
+
+        return one_file
+    
+    def consolidateGroups(self, category):
+
+        dict_cat = {}
+
+        for i in range(3):
+            num = i+1
+            fn = category + num + ".json"
+            fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+            d_ = self.readJSON(fp)
+            dict_cat.update(d_)
+
+
+        fn_json = category + ".json"
+        fp_category_json = os.path.join(DATA_DIR, "consolidating", fn_json)
+
+        with open(fp_category_json, 'w') as fp:
+            json.dump(dict_cat, fp, indent= 4)
+
+
+
+
+
+def main():
+
+    category = "assembly"
+    cA = consolidateAll()
+    cA.consolidateGroups(category)
+
+
+if __name__ == "__main__":
+    main()
