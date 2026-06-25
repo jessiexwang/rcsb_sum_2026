@@ -70,10 +70,11 @@ class consolidateAll():
 
 
 def main():
-
-    category = "assembly"
-    cA = consolidateAll()
-    cA.consolidateGroups(category)
+    
+    print(DATA_DIR)
+    # category = "assembly"
+    # cA = consolidateAll()
+    # cA.consolidateGroups(category)
 
 
 if __name__ == "__main__":
