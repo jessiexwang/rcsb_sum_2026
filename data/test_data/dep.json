@@ -1,8 +1,50 @@
 {
-    "_pdbx_deposit_group.group_title": [
-        "To be published"
-    ],
-    "_pdbx_deposit_group.group_description": [
-        "A set of fabp crystal structures"
-    ]
+    "D_1001404927": {
+        "_pdbx_deposit_group.group_title": [
+            "PanDDA analysis group deposition"
+        ],
+        "_pdbx_deposit_group.group_description": [
+            "Aar2/RNaseH complexed with fragments of the F2X-Universal Library. Deposited are the PanDDA bound state models after inspection and ligand placement based on PanDDA event maps. The event maps are included in the mmcif and are the determining evidence for the ligands. 2FoFc and FoFc maps will be mostly not useful to consider here."
+        ]
+    },
+    "D_1001404928": {
+        "_pdbx_deposit_group.group_title": [
+            "PanDDA analysis group deposition"
+        ],
+        "_pdbx_deposit_group.group_description": [
+            "Aar2/RNaseH complexed with fragments of the F2X-Universal Library. Deposited are the PanDDA bound state models after inspection and ligand placement based on PanDDA event maps. The event maps are included in the mmcif and are the determining evidence for the ligands. 2FoFc and FoFc maps will be mostly not useful to consider here."
+        ]
+    },
+    "D_1001404929": {
+        "_pdbx_deposit_group.group_title": [
+            "PanDDA analysis group deposition"
+        ],
+        "_pdbx_deposit_group.group_description": [
+            "Aar2/RNaseH complexed with fragments of the F2X-Universal Library. Deposited are the PanDDA bound state models after inspection and ligand placement based on PanDDA event maps. The event maps are included in the mmcif and are the determining evidence for the ligands. 2FoFc and FoFc maps will be mostly not useful to consider here."
+        ]
+    },
+    "D_1001405411": {
+        "_pdbx_deposit_group.group_title": [
+            "To be published"
+        ],
+        "_pdbx_deposit_group.group_description": [
+            "A set of fabp crystal structures"
+        ]
+    },
+    "D_1001405412": {
+        "_pdbx_deposit_group.group_title": [
+            "To be published"
+        ],
+        "_pdbx_deposit_group.group_description": [
+            "A set of fabp crystal structures"
+        ]
+    },
+    "D_1001405413": {
+        "_pdbx_deposit_group.group_title": [
+            "To be published"
+        ],
+        "_pdbx_deposit_group.group_description": [
+            "A set of fabp crystal structures"
+        ]
+    }
 }

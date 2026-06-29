@@ -1,8 +1,50 @@
 {
-    "_diffrn_radiation_wavelength.wavelength": [
-        "0.700010"
-    ],
-    "_diffrn_source.type": [
-        "SLS BEAMLINE X10SA"
-    ]
+    "D_1001404927": {
+        "_diffrn_radiation_wavelength.wavelength": [
+            "0.999900"
+        ],
+        "_diffrn_source.type": [
+            "MAX IV BEAMLINE BioMAX"
+        ]
+    },
+    "D_1001404928": {
+        "_diffrn_radiation_wavelength.wavelength": [
+            "0.999900"
+        ],
+        "_diffrn_source.type": [
+            "MAX IV BEAMLINE BioMAX"
+        ]
+    },
+    "D_1001404929": {
+        "_diffrn_radiation_wavelength.wavelength": [
+            "0.999900"
+        ],
+        "_diffrn_source.type": [
+            "MAX IV BEAMLINE BioMAX"
+        ]
+    },
+    "D_1001405411": {
+        "_diffrn_radiation_wavelength.wavelength": [
+            "1.000000"
+        ],
+        "_diffrn_source.type": [
+            "SLS BEAMLINE X10SA"
+        ]
+    },
+    "D_1001405412": {
+        "_diffrn_radiation_wavelength.wavelength": [
+            "0.700000"
+        ],
+        "_diffrn_source.type": [
+            "SLS BEAMLINE X10SA"
+        ]
+    },
+    "D_1001405413": {
+        "_diffrn_radiation_wavelength.wavelength": [
+            "0.700010"
+        ],
+        "_diffrn_source.type": [
+            "SLS BEAMLINE X10SA"
+        ]
+    }
 }

@@ -1,12 +1,74 @@
 {
-    "_citation.title": [
-        "A high-resolution data set of fatty acid-binding protein structures. III. Unexpectedly high occurrence of wrong ligands."
-    ],
-    "_citation_author.name": [
-        "Ehler, A.",
-        "Bartelmus, C.",
-        "Benz, J.",
-        "Plitzko, I.",
-        "Rudolph, M.G."
-    ]
+    "D_1001404927": {
+        "_citation.title": [
+            "Large-Scale Crystallographic Fragment Screening Expedites Compound Optimization and Identifies Putative Protein-Protein Interaction Sites."
+        ],
+        "_citation_author.name": [
+            "Barthel, T.",
+            "Wollenhaupt, J.",
+            "Lima, G.M.A.",
+            "Wahl, M.C.",
+            "Weiss, M.S."
+        ]
+    },
+    "D_1001404928": {
+        "_citation.title": [
+            "Large-Scale Crystallographic Fragment Screening Expedites Compound Optimization and Identifies Putative Protein-Protein Interaction Sites."
+        ],
+        "_citation_author.name": [
+            "Barthel, T.",
+            "Wollenhaupt, J.",
+            "Lima, G.M.A.",
+            "Wahl, M.C.",
+            "Weiss, M.S."
+        ]
+    },
+    "D_1001404929": {
+        "_citation.title": [
+            "Large-Scale Crystallographic Fragment Screening Expedites Compound Optimization and Identifies Putative Protein-Protein Interaction Sites."
+        ],
+        "_citation_author.name": [
+            "Barthel, T.",
+            "Wollenhaupt, J.",
+            "Lima, G.M.A.",
+            "Wahl, M.C.",
+            "Weiss, M.S."
+        ]
+    },
+    "D_1001405411": {
+        "_citation.title": [
+            "A high-resolution data set of fatty acid-binding protein structures. III. Unexpectedly high occurrence of wrong ligands."
+        ],
+        "_citation_author.name": [
+            "Ehler, A.",
+            "Bartelmus, C.",
+            "Benz, J.",
+            "Plitzko, I.",
+            "Rudolph, M.G."
+        ]
+    },
+    "D_1001405412": {
+        "_citation.title": [
+            "A high-resolution data set of fatty acid-binding protein structures. III. Unexpectedly high occurrence of wrong ligands."
+        ],
+        "_citation_author.name": [
+            "Ehler, A.",
+            "Bartelmus, C.",
+            "Benz, J.",
+            "Plitzko, I.",
+            "Rudolph, M.G."
+        ]
+    },
+    "D_1001405413": {
+        "_citation.title": [
+            "A high-resolution data set of fatty acid-binding protein structures. III. Unexpectedly high occurrence of wrong ligands."
+        ],
+        "_citation_author.name": [
+            "Ehler, A.",
+            "Bartelmus, C.",
+            "Benz, J.",
+            "Plitzko, I.",
+            "Rudolph, M.G."
+        ]
+    }
 }

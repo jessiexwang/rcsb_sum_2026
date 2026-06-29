@@ -1,5 +1,32 @@
 {
-    "_refine.ls_d_res_high": [
-        "1.0400"
-    ]
+    "D_1001404927": {
+        "_refine.ls_d_res_high": [
+            "1.54"
+        ]
+    },
+    "D_1001404928": {
+        "_refine.ls_d_res_high": [
+            "1.58"
+        ]
+    },
+    "D_1001404929": {
+        "_refine.ls_d_res_high": [
+            "1.53"
+        ]
+    },
+    "D_1001405411": {
+        "_refine.ls_d_res_high": [
+            "1.2400"
+        ]
+    },
+    "D_1001405412": {
+        "_refine.ls_d_res_high": [
+            "1.0800"
+        ]
+    },
+    "D_1001405413": {
+        "_refine.ls_d_res_high": [
+            "1.0400"
+        ]
+    }
 }

@@ -1,8 +1,50 @@
 {
-    "_pdbx_struct_assembly.oligomeric_details": [
-        "monomeric"
-    ],
-    "_pdbx_struct_assembly_gen.asym_id_list": [
-        "A,B,C,D,E,F"
-    ]
+    "D_1001404927": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404928": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001404929": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "dimeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405411": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E"
+        ]
+    },
+    "D_1001405412": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C"
+        ]
+    },
+    "D_1001405413": {
+        "_pdbx_struct_assembly.oligomeric_details": [
+            "monomeric"
+        ],
+        "_pdbx_struct_assembly_gen.asym_id_list": [
+            "A,B,C,D,E,F"
+        ]
+    }
 }
