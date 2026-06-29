@@ -54,7 +54,7 @@ def jsonOut(destination, l_id, fp, fn):
     
     for id in l_id:
         print(id)
-        dict.update(classification[id])
+        dict[id] = classification[id]
         
     print(dict)
 
