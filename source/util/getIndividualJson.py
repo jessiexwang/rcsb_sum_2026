@@ -1,6 +1,8 @@
 import os
 import json
 import sys
+import functools
+from concurrent.futures import ProcessPoolExecutor
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 SRC_DIR = os.path.dirname(DIR)
@@ -55,3 +57,36 @@ def jsonOut(destination, id, fp):
     with open(fp_category_json, 'w') as fp:
         json.dump(dict, fp, indent= 4)
 
+def mapGetIndiviudal(destination, l_id, l_fp):
+
+    partial_get = functools.partial(jsonOut, destination)
+
+    with ProcessPoolExecutor() as executor:
+        results = executor.map(partial_get, l_id, l_fp)
+
+
+    
+
+def main():
+
+    assem = os.path.join(DATA_DIR, "consolidating", "assembly.json")
+    auth = os.path.join(DATA_DIR, "consolidating", "authorship.json")
+    cell_div = os.path.join(DATA_DIR, "consolidating", "cell_divisions.json")
+    citation = os.path.join(DATA_DIR, "consolidating", "citation.json")
+    data_coll = os.path.join(DATA_DIR, "consolidating", "data_collection.json")
+    exptl = os.path.join(DATA_DIR, "consolidating", "exptl_crystal_grow.json")  
+    dep = os.path.join(DATA_DIR, "consolidating", "pdbx_deposit_group.json")    
+    poly = os.path.join(DATA_DIR, "consolidating", "polymer.json")    
+    ref = os.path.join(DATA_DIR, "consolidating", "refine.json")         
+    src = os.path.join(DATA_DIR, "consolidating", "source.json") 
+
+    l_fp = [assem, auth, cell_div, citation, data_coll, exptl, dep, poly, ref, src]
+    l_id = ["D_1001404927", "D_1001404928", "D_1001404929", "D_1001405411", "D_1001405412", "D_1001405413"]     
+    
+    destination = os.path.join(DATA_DIR, "test_data")
+
+    mapGetIndiviudal(destination, l_id, l_fp)
+    
+
+if __name__ == "__main__":
+    main()
