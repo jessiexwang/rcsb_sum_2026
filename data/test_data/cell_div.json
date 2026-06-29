@@ -1,0 +1,32 @@
+{
+    "_cell.entry_id": [
+        "D_1001405413"
+    ],
+    "_cell.length_a": [
+        "32.305"
+    ],
+    "_cell.length_b": [
+        "53.826"
+    ],
+    "_cell.length_c": [
+        "75.102"
+    ],
+    "_cell.angle_alpha": [
+        "90.000"
+    ],
+    "_cell.angle_beta": [
+        "90.000"
+    ],
+    "_cell.angle_gamma": [
+        "90.000"
+    ],
+    "_cell.Z_PDB": [
+        "4"
+    ],
+    "_cell.pdbx_unique_axis": [
+        "?"
+    ],
+    "_symmetry.space_group_name_H-M": [
+        "P 21 21 21"
+    ]
+}
