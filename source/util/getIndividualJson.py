@@ -53,8 +53,10 @@ def jsonOut(destination, l_id, fp, fn):
     classification = readJson(fp)
     
     for id in l_id:
+        print(id)
         dict.update(classification[id])
         
+    print(dict)
 
     fn_json = fn + ".json"
     fp_category_json = os.path.join(DATA_DIR, destination , fn_json)
