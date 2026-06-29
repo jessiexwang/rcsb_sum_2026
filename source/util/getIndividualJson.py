@@ -67,10 +67,8 @@ def jsonOut(destination, l_id, fp, fn):
 
 def mapGetIndiviudal(destination, l_fp, l_id, l_fn):
 
-    partial_get = functools.partial(jsonOut, destination, l_id)
-
-    with ProcessPoolExecutor() as executor:
-        results = executor.map(partial_get, l_fp, l_fn)
+    for i in range(len(l_fp)):
+        jsonOut(destination, l_id, l_fp[i], l_fn[i])
 
 
     
