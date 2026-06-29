@@ -48,21 +48,26 @@ def filterId(id, fp):
 
     return one_d
 
-def jsonOut(destination, id, fp):
-    dict = filterId(id, fp)
+def jsonOut(destination, l_id, fp, fn):
+    dict = {}
+    classification = readJson(fp)
+    
+    for item in l_id:
+        dict.update(classification[id])
+        
 
-    fn_json = id + ".json"
+    fn_json = fn + ".json"
     fp_category_json = os.path.join(DATA_DIR, destination , fn_json)
     
     with open(fp_category_json, 'w') as fp:
         json.dump(dict, fp, indent= 4)
 
-def mapGetIndiviudal(destination, l_id, l_fp):
+def mapGetIndiviudal(destination, l_fp, l_id, l_fn):
 
-    partial_get = functools.partial(jsonOut, destination)
+    partial_get = functools.partial(jsonOut, destination, l_id)
 
     with ProcessPoolExecutor() as executor:
-        results = executor.map(partial_get, l_id, l_fp)
+        results = executor.map(partial_get, l_fp, l_fn)
 
 
     
@@ -85,7 +90,9 @@ def main():
     
     destination = os.path.join(DATA_DIR, "test_data")
 
-    mapGetIndiviudal(destination, l_id, l_fp)
+    l_fn  = ["assem", "auth", "cell_div", "citation", "data_coll", "exptl", "dep", "poly", "ref", "src"]
+
+    mapGetIndiviudal(destination, l_id, l_fp, l_fn)
     
 
 if __name__ == "__main__":
