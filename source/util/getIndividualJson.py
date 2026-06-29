@@ -52,7 +52,7 @@ def jsonOut(destination, l_id, fp, fn):
     dict = {}
     classification = readJson(fp)
     
-    for item in l_id:
+    for id in l_id:
         dict.update(classification[id])
         
 
@@ -61,6 +61,7 @@ def jsonOut(destination, l_id, fp, fn):
     
     with open(fp_category_json, 'w') as fp:
         json.dump(dict, fp, indent= 4)
+
 
 def mapGetIndiviudal(destination, l_fp, l_id, l_fn):
 
