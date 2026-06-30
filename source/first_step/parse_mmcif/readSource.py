@@ -91,7 +91,7 @@ class readSource:
         reader.cleanDict() #clean
         rt_data = {}
         for item in reader.d_category:
-            if reader.d_category[item] != ["?"] or reader.d_category[item] != ["?", "?"]:
+            if reader.d_category[item] != ["?"] and reader.d_category[item] != ["?", "?"]:
                 rt_data[item] = reader.d_category[item]
         return rt_data
     
@@ -113,7 +113,7 @@ class readSource:
         reader.cleanDict() #clean
         rt_data = {}
         for item in reader.d_category:
-            if reader.d_category[item] != ["?"] or reader.d_category[item] != ["?", "?"]:
+            if reader.d_category[item] != ["?"] and reader.d_category[item] != ["?", "?"]:
                 rt_data[item] = reader.d_category[item]
         return rt_data
     
@@ -133,7 +133,7 @@ class readSource:
         reader.cleanDict() #clean
         rt_data = {}
         for item in reader.d_category:
-            if reader.d_category[item] != ["?"] or reader.d_category[item] != ["?", "?"]:
+            if reader.d_category[item] != ["?"] and reader.d_category[item] != ["?", "?"]:
                 rt_data[item] = reader.d_category[item]
         return rt_data
 
