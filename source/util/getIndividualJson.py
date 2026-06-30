@@ -90,14 +90,14 @@ def main():
     dep = os.path.join(DATA_DIR, "consolidating", "pdbx_deposit_group.json")    
     poly = os.path.join(DATA_DIR, "consolidating", "polymer.json")    
     ref = os.path.join(DATA_DIR, "consolidating", "refine.json")         
-    src = os.path.join(DATA_DIR, "consolidating", "source.json") 
+    #src = os.path.join(DATA_DIR, "consolidating", "source.json") 
 
-    l_fp = [assem, auth, cell_div, citation, data_coll, exptl, dep, poly, ref, src]
+    l_fp = [assem, auth, cell_div, citation, data_coll, exptl, dep, poly, ref]
     l_id = ["D_1001404927", "D_1001404928", "D_1001404929", "D_1001405411", "D_1001405412", "D_1001405413"]     
     
     destination = os.path.join(DATA_DIR, "test_data")
 
-    l_fn  = ["assem", "auth", "cell_div", "citation", "data_coll", "exptl", "dep", "poly", "ref", "src"]
+    l_fn  = ["assem", "auth", "cell_div", "citation", "data_coll", "exptl", "dep", "poly", "ref"]
 
     mapGetIndiviudal(destination, l_id, l_fp, l_fn)
     
