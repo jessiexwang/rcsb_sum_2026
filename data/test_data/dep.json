@@ -12,7 +12,7 @@
             "PanDDA analysis group deposition"
         ],
         "_pdbx_deposit_group.group_description": [
-            "Aar2/RNaseH complexed with fragments of the F2X-Universal Library. Deposited are the PanDDA bound state models after inspection and ligand placement based on PanDDA event maps. The event maps are included in the mmcif and are the determining evidence for the ligands. 2FoFc and FoFc maps will be mostly not useful to consider here."
+            "Aar2/RNaseH complexed with fragments of the F2X-Universal Library. Deposited are the PanDDA bound state models after inspection and ligand placement based on PanDDA event maps. The event maps are included in the mmcif and are the determining evidence for the ligands. 2FoFc and FoFc maps will be mostly not useful to consider here. blah blah blah"
         ]
     },
     "D_1001404929": {
@@ -20,7 +20,7 @@
             "PanDDA analysis group deposition"
         ],
         "_pdbx_deposit_group.group_description": [
-            "Aar2/RNaseH complexed with fragments of the F2X-Universal Library. Deposited are the PanDDA bound state models after inspection and ligand placement based on PanDDA event maps. The event maps are included in the mmcif and are the determining evidence for the ligands. 2FoFc and FoFc maps will be mostly not useful to consider here."
+            "Aar2/RNaseH complexed with fragments of the F2X-Universal Library. Deposited are the PanDA bound state models after inspection and ligand placement based on PanDDA event maps. The event maps are included in the mmcif and are the determining evidence for the ligands. 2FoFc and FoFc maps will be mostly not useful to consider here."
         ]
     },
     "D_1001405411": {
@@ -33,7 +33,7 @@
     },
     "D_1001405412": {
         "_pdbx_deposit_group.group_title": [
-            "To be published"
+            "To be published, just kidding"
         ],
         "_pdbx_deposit_group.group_description": [
             "A set of fabp crystal structures"

@@ -4,12 +4,12 @@
             "293"
         ],
         "_exptl_crystal_grow.method": [
-            "VAPOR DIFFUSION, SITTING DROP"
+            "VAPOR, SITTING DROP"
         ]
     },
     "D_1001404928": {
         "_exptl_crystal_grow.temp": [
-            "293"
+            "1000000"
         ],
         "_exptl_crystal_grow.method": [
             "VAPOR DIFFUSION, SITTING DROP"
@@ -17,7 +17,7 @@
     },
     "D_1001404929": {
         "_exptl_crystal_grow.temp": [
-            "293"
+            "5"
         ],
         "_exptl_crystal_grow.method": [
             "VAPOR DIFFUSION, SITTING DROP"
@@ -28,7 +28,7 @@
             "293"
         ],
         "_exptl_crystal_grow.method": [
-            "VAPOR DIFFUSION, SITTING DROP"
+            "VAPOR DIFFUSIOS, SITTING DROP"
         ]
     },
     "D_1001405412": {

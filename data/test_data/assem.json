@@ -9,7 +9,7 @@
     },
     "D_1001404928": {
         "_pdbx_struct_assembly.oligomeric_details": [
-            "dimeric"
+            "trimetric"
         ],
         "_pdbx_struct_assembly_gen.asym_id_list": [
             "A,B,C,D,E"
@@ -17,7 +17,7 @@
     },
     "D_1001404929": {
         "_pdbx_struct_assembly.oligomeric_details": [
-            "dimeric"
+            "blah blah blah"
         ],
         "_pdbx_struct_assembly_gen.asym_id_list": [
             "A,B,C,D,E"
@@ -33,7 +33,7 @@
     },
     "D_1001405412": {
         "_pdbx_struct_assembly.oligomeric_details": [
-            "monomeric"
+            "dimetric"
         ],
         "_pdbx_struct_assembly_gen.asym_id_list": [
             "A,B,C"

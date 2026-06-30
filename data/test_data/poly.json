@@ -233,7 +233,7 @@
             "?"
         ],
         "_entity_poly.pdbx_seq_one_letter_code": [
-            "GAMNSSNYAELFNNDIKLFVDDTNVYRVTVHKTFEGNVATKAINGCIFTLNPKTGHLFLKIIHTSVWAGQKRLSQLAKWK TAEEVSALVRSLPKEEQPKQIIVTRKAMLDPLEVHMLDFPNIAIRPTELRLPFSAAMSIDKLSDVVMKATEPQMVLFNIY DDWLDRISSYTAFSRLTLLLRALKTNEESAKMILLSDPTITIKSYHLWPSFTDEQWITIESQMRDLILTEYGRKYNVNIS ALTQTEIKDIILGQNIKA",
+            "GAMNSSNYAELFNNDIKLFVDDTNVYRVTVHKTFEGNVATKAINGCIFTLNPKTGHLFLKIIHTSVWAGQKRLSQLAKLO TAEEVSALVRSLPKEEQPKQIIVTRKAMLDPLEVHMLDFPNIAIRPTELRLPFSAAMSIDKLSDVVMKATEPQMVLFNIY DDWLDRISSYTAFSRLTLLLRALKTNEESAKMILLSDPTITIKSYHLWPSFTDEQWITIESQMRDLILTEYGRKYNVNIS ALTQTEIKDIILGQNIKA",
             "GAMAMNTVPFTSAPIEVTIGIDQYSFNVKENQPFHGIKDIPIGHVHVIHFQHADNSSMRYGYWFDCRMGNFYIQYDPKDG LYKMMEERDGAKFENIVHNFKERQMMVSYPKIDEDDTWYNLTEFVQMDKIRKIVRKDENQFSYVDSSMTTVQENELSSSS SDPAHSLNYTVINFKSREAIRPGHEMEDFLDKSYYLNTVMLQGIFKNSSNYFGELQFAFLNAMFFGNYGSSLQWHAMIEL ICSSATVPKHMLDKLDEILYYQIKTLPEQYSDILLNERVWNICLYSSFQKNSLHNTEKIMENKYPELL"
         ],
         "_struct_ref.db_code": [
@@ -255,7 +255,7 @@
             ],
             "_entity_src_gen.pdbx_seq_type": [
                 "Biological sequence",
-                "Biological sequence"
+                "Biological dance"
             ],
             "_entity_src_gen.pdbx_beg_seq_num": [
                 "1",
@@ -446,7 +446,7 @@
         ],
         "_entity.pdbx_description": [
             "Pre-mRNA-splicing factor 8",
-            "Pre-mRNA-splicing factor 8"
+            "Pre-mRNA-splicing factor 1000"
         ],
         "_entity.pdbx_mutation": [
             "?",
@@ -483,7 +483,7 @@
             ],
             "_entity_src_gen.pdbx_end_seq_num": [
                 "258",
-                "308"
+                "1000000"
             ],
             "_entity_src_gen.gene_src_common_name": [
                 "?",
@@ -503,7 +503,7 @@
             ],
             "_entity_src_gen.gene_src_strain": [
                 "ATCC 204508 / S288c",
-                "ATCC 204508 / S288c"
+                "ATCC 204508 / S288z"
             ],
             "_entity_src_gen.gene_src_tissue": [
                 "?",
@@ -762,7 +762,7 @@
                 "FABP4"
             ],
             "_entity_src_gen.pdbx_gene_src_scientific_name": [
-                "Homo sapiens"
+                "Homosexuals"
             ],
             "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
                 "9606"
@@ -771,7 +771,7 @@
                 "Escherichia coli BL21(DE3)"
             ],
             "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
-                "469008"
+                "10000469008"
             ],
             "_entity_src_gen.pdbx_host_org_vector_type": [
                 "plasmid"
