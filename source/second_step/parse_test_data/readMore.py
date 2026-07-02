@@ -111,12 +111,12 @@ class readMore:
 
         # # fn = file_name +".tsv"
         # # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        # fn_json = file_name + ".json"
-        # fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+        fn_json = file_name + ".json"
+        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
 
-        # with open(fp_category_json, 'w') as fp:
-        #     json.dump(d_category_all, fp, indent= 4)
+        with open(fp_category_json, 'w') as fp:
+            json.dump(d_category_all, fp, indent= 4)
 
 def main():
    l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]
