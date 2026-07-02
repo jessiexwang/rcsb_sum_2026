@@ -41,7 +41,7 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 class readMore:
-    """a class to read mmcif data files and extract certain metadata from any amount of groups about the entry's structure assembly
+    """a class to read mmcif data files and extract certain metadata from any amount of groups about the entry
     Attributes:
         list: list to combine dictionaries
         l_cat: list of select attributes
@@ -112,7 +112,7 @@ class readMore:
         # # fn = file_name +".tsv"
         # # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
         fn_json = file_name + ".json"
-        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+        fp_category_json = os.path.join(DATA_DIR, "chenghua_test_data", fn_json)
 
 
         with open(fp_category_json, 'w') as fp:

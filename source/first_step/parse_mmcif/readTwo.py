@@ -42,7 +42,7 @@ logger.addHandler(c_handler)
 #-----------------------------
 
 class readTwo:
-    """a class to read mmcif data files and extract certain metadata from two groups about the entry's structure assembly
+    """a class to read mmcif data files and extract certain metadata from two groups about the entry
     Attributes:
         list: list to combine dictionaries
         l_cat: list of select attributes
