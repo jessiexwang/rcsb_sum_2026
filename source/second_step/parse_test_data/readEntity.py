@@ -98,4 +98,27 @@ class readEntity():
                 json.dump(d_src_all, fp, indent= 4)
 
 
+def main():
+
+    l_id = []
+    for i in range(16):
+        id = 1001407490 + i
+        dep_id = "D_" + str(id)
+        l_id.append(dep_id)
+
+
+
+    group = 'G_1002307'
+    
+
+
+    rE= readEntity()
+    rE.readEntity(group, l_id)
+    # dict = rm.readManyCat(group, "pdbx_contact_author", "D_1001407490")
+    # print(dict)
+
+if __name__ == "__main__":
+    main()
+
+
         
