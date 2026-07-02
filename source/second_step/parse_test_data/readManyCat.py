@@ -134,7 +134,8 @@ def main():
             "diffrn_source", "diffrn_detector", "diffrn", "diffrn_radiation","diffrn_radiation_wavelength","reflns",
             'reflns_shell','refine','refine_ls_shell','software','pdbx_audit_support','pdbx_deposit_group',
             'pdbx_entity_instance_feature','pdbx_entity_nonpoly','pdbx_initial_refinement_model','pdbx_struct_assembly']
-   
+    
+    print(l_cat)
 
     rm= readManyCat()
     rm.mapManyCat_category(group, l_cat, l_id)
