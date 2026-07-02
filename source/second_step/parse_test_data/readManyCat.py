@@ -126,15 +126,18 @@ def main():
         dep_id = "D_" + str(id)
         l_id.append(dep_id)
 
-    print(l_id)
 
 
-#    group = 'G_1002307'
-#    l_cat = ["citation", "citation_author", "struct"]
+    group = 'G_1002307'
+    l_cat = ["pdbx_contact_author","audit_author","struct","struct_keywords","citation","citation_author",
+             "entity_poly","entity_src_gen","exptl_crystal_grow","exptl_crystal","cell","symmetry",
+             "diffrn_source","diffrn_detector",'diffrn','diffrn_radiation','diffrn_radiation_wavelength','reflns',
+             'reflns_shell','refine','refine_ls_shell','software','pdbx_audit_support','pdbx_deposit_group',
+             'pdbx_entity_instance_feature','pdbx_entity_nonpoly','pdbx_initial_refinement_model','pdbx_struct_assembly']
    
 
-#    rm= readManyCat()
-#    rm.mapManyCat_category(group, l_cat, l_id)
+    rm= readManyCat()
+    rm.mapManyCat_category(group, l_cat, l_id)
 
 if __name__ == "__main__":
     main()
