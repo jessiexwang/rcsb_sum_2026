@@ -48,7 +48,7 @@ class readManyCat:
         l_cat: list of select attributes
     """
     def __init__(self):
-        pass
+        self.random = ""
 
 
     def readManyCat(self, group, category, id):
@@ -135,7 +135,7 @@ def main():
             'reflns_shell','refine','refine_ls_shell','software','pdbx_audit_support','pdbx_deposit_group',
             'pdbx_entity_instance_feature','pdbx_entity_nonpoly','pdbx_initial_refinement_model','pdbx_struct_assembly']
     
-    print(l_cat)
+
 
     rm= readManyCat()
     rm.mapManyCat_category(group, l_cat, l_id)
