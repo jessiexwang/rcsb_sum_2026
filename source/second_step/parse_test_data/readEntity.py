@@ -46,7 +46,7 @@ class readEntity():
         pass
 
 
-    def readNonPolymer(group, id):
+    def readNonPolymer(self, group, id):
 
         fp = os.path.join(DATA_DIR, group, id + ".cif")
 
