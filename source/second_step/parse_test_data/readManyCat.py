@@ -66,7 +66,7 @@ class readManyCat:
             d_new = {}      
 
             
-            if category.contains("."):
+            if "." in category :
                 attr = category.index(".")
                 actual_cat = category[:attr]
 
@@ -100,7 +100,7 @@ class readManyCat:
                 logger.error("entry %s with error %s", id, e)
                 continue
 
-        if category.contains("."):
+        if "." in category:
             category.replace(".", "-")
 
         fn_category_json = category + ".json"
