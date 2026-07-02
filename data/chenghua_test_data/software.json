@@ -1,0 +1,1266 @@
+{
+    "D_1001407490": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407491": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407492": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407493": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407494": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407495": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407496": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407497": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407498": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407499": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407500": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407501": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407502": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407503": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407504": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    },
+    "D_1001407505": {
+        "_software.pdbx_ordinal": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_software.name": [
+            "PHENIX",
+            "Aimless",
+            "PDB_EXTRACT",
+            "XDS",
+            "PHASER"
+        ],
+        "_software.version": [
+            "1.21.1_5286",
+            "0.7.15",
+            "3.22",
+            "Jun 30, 2023",
+            "2.8.3"
+        ],
+        "_software.date": [
+            "?",
+            "02/11/23",
+            "July. 13, 2016",
+            "Jun. 30, 2023",
+            "May 17, 2020"
+        ],
+        "_software.type": [
+            "package",
+            "program",
+            "package",
+            "program",
+            "program"
+        ],
+        "_software.contact_author": [
+            "Paul D. Adams",
+            "Phil Evans",
+            "PDB",
+            "Wolfgang Kabsch",
+            "Randy J. Read"
+        ],
+        "_software.contact_author_email": [
+            "PDAdams@lbl.gov",
+            "?",
+            "deposit@deposit.rcsb.org",
+            "Wolfgang.Kabsch@mpimf-heidelberg.mpg.de",
+            "cimr-phaser@lists.cam.ac.uk"
+        ],
+        "_software.classification": [
+            "refinement",
+            "data scaling",
+            "data extraction",
+            "data reduction",
+            "phasing"
+        ],
+        "_software.location": [
+            "http://www.phenix-online.org/",
+            "http://www.mrc-lmb.cam.ac.uk/harry/pre/aimless.html",
+            "http://sw-tools.pdb.org/apps/PDB_EXTRACT/",
+            "http://xds.mpimf-heidelberg.mpg.de",
+            "https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software"
+        ],
+        "_software.language": [
+            "C++",
+            "?",
+            "C++",
+            "?",
+            "?"
+        ],
+        "_software.citation_id": [
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+        ]
+    }
+}

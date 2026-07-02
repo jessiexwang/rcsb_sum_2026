@@ -1,0 +1,1090 @@
+{
+    "D_1001407490": {
+        "_reflns.d_resolution_high": [
+            "0.980"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.380"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1101487"
+        ],
+        "_reflns.number_obs": [
+            "175588"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.042"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "19.900"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.300"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.200"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.045"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.018"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "9.900"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407490"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407491": {
+        "_reflns.d_resolution_high": [
+            "1.020"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.320"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1010568"
+        ],
+        "_reflns.number_obs": [
+            "156275"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.044"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "19.500"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.500"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.800"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.048"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.019"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "9.320"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407491"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407492": {
+        "_reflns.d_resolution_high": [
+            "1.030"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.450"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "977315"
+        ],
+        "_reflns.number_obs": [
+            "152504"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.090"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "9.400"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.400"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.700"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.099"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.039"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.310"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407492"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407493": {
+        "_reflns.d_resolution_high": [
+            "1.020"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.400"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1009359"
+        ],
+        "_reflns.number_obs": [
+            "156105"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.060"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "13.800"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.500"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.800"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.066"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.026"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.020"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407493"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407494": {
+        "_reflns.d_resolution_high": [
+            "1.030"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.410"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "983856"
+        ],
+        "_reflns.number_obs": [
+            "152361"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.053"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "15.100"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.500"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.900"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.057"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.022"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "11.040"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407494"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407495": {
+        "_reflns.d_resolution_high": [
+            "1.010"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.400"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1019396"
+        ],
+        "_reflns.number_obs": [
+            "159894"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.080"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "10.000"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.400"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.800"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.087"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.034"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.510"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407495"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407496": {
+        "_reflns.d_resolution_high": [
+            "1.010"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.390"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1042035"
+        ],
+        "_reflns.number_obs": [
+            "161413"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.053"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "15.000"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.500"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.900"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.057"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.022"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "11.180"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407496"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407497": {
+        "_reflns.d_resolution_high": [
+            "1.010"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.350"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1045013"
+        ],
+        "_reflns.number_obs": [
+            "161117"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.047"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "17.900"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.500"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.900"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.051"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.020"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "1.000"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.810"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407497"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407498": {
+        "_reflns.d_resolution_high": [
+            "1.000"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.350"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1047758"
+        ],
+        "_reflns.number_obs": [
+            "164699"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.063"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "12.700"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.400"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.400"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.069"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.027"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.130"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407498"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407499": {
+        "_reflns.d_resolution_high": [
+            "1.020"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.420"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1006294"
+        ],
+        "_reflns.number_obs": [
+            "156580"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.065"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "12.100"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.400"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.800"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.071"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.028"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.440"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407499"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407500": {
+        "_reflns.d_resolution_high": [
+            "1.030"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.310"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "983120"
+        ],
+        "_reflns.number_obs": [
+            "150834"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.065"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "13.300"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.500"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.900"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.071"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.028"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.790"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407500"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407501": {
+        "_reflns.d_resolution_high": [
+            "1.020"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.380"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1015583"
+        ],
+        "_reflns.number_obs": [
+            "155831"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.047"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "16.800"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.500"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.800"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.051"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.020"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.650"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407501"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407502": {
+        "_reflns.d_resolution_high": [
+            "1.000"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.360"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1063098"
+        ],
+        "_reflns.number_obs": [
+            "165024"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.051"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "14.700"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.400"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.700"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.055"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.021"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "11.630"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407502"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407503": {
+        "_reflns.d_resolution_high": [
+            "1.020"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.420"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1026929"
+        ],
+        "_reflns.number_obs": [
+            "156699"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.047"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "16.200"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.600"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.800"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.051"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.020"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "11.620"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407503"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407504": {
+        "_reflns.d_resolution_high": [
+            "0.990"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.370"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "1106047"
+        ],
+        "_reflns.number_obs": [
+            "170251"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.058"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "14.200"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.500"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.500"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.063"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.024"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "0.999"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "10.640"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407504"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    },
+    "D_1001407505": {
+        "_reflns.d_resolution_high": [
+            "1.090"
+        ],
+        "_reflns.d_resolution_low": [
+            "44.370"
+        ],
+        "_reflns.pdbx_number_measured_all": [
+            "834800"
+        ],
+        "_reflns.number_obs": [
+            "127365"
+        ],
+        "_reflns.pdbx_Rmerge_I_obs": [
+            "0.038"
+        ],
+        "_reflns.pdbx_netI_over_sigmaI": [
+            "24.000"
+        ],
+        "_reflns.pdbx_redundancy": [
+            "6.600"
+        ],
+        "_reflns.percent_possible_obs": [
+            "99.600"
+        ],
+        "_reflns.pdbx_Rrim_I_all": [
+            "0.041"
+        ],
+        "_reflns.pdbx_Rpim_I_all": [
+            "0.016"
+        ],
+        "_reflns.pdbx_CC_half": [
+            "1.000"
+        ],
+        "_reflns.B_iso_Wilson_estimate": [
+            "11.680"
+        ],
+        "_reflns.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_reflns.pdbx_ordinal": [
+            "1"
+        ],
+        "_reflns.entry_id": [
+            "D_1001407505"
+        ],
+        "_reflns.observed_criterion_sigma_I": [
+            "?"
+        ],
+        "_reflns.observed_criterion_sigma_F": [
+            "?"
+        ],
+        "_reflns.number_all": [
+            "?"
+        ],
+        "_reflns.pdbx_Rsym_value": [
+            "?"
+        ],
+        "_reflns.pdbx_CC_star": [
+            "?"
+        ],
+        "_reflns.pdbx_Rpim_I_all_anomalous": [
+            "?"
+        ],
+        "_reflns.pdbx_Rrim_I_all_anomalous": [
+            "?"
+        ]
+    }
+}

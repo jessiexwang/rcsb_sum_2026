@@ -1,0 +1,2386 @@
+{
+    "D_1001407490": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407491": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407492": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407493": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407494": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407495": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407496": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407497": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407498": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407499": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407500": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407501": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407502": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407503": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407504": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    },
+    "D_1001407505": {
+        "_entity_src_gen.entity_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_src_id": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_alt_source_flag": [
+            "sample"
+        ],
+        "_entity_src_gen.pdbx_seq_type": [
+            "Biological sequence"
+        ],
+        "_entity_src_gen.pdbx_beg_seq_num": [
+            "1"
+        ],
+        "_entity_src_gen.pdbx_end_seq_num": [
+            "169"
+        ],
+        "_entity_src_gen.gene_src_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_gene": [
+            "rep, 1a-1b"
+        ],
+        "_entity_src_gen.gene_src_species": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_strain": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.gene_src_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_fragment": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_scientific_name": [
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "_entity_src_gen.pdbx_gene_src_ncbi_taxonomy_id": [
+            "2697049"
+        ],
+        "_entity_src_gen.pdbx_gene_src_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organ": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_gene_src_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_common_name": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_scientific_name": [
+            "Escherichia coli BL21(DE3)"
+        ],
+        "_entity_src_gen.pdbx_host_org_ncbi_taxonomy_id": [
+            "469008"
+        ],
+        "_entity_src_gen.host_org_genus": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_gene": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organ": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_species": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_tissue_fraction": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_strain": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_variant": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell_line": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_atcc": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_culture_collection": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cell": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_organelle": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_cellular_location": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector_type": [
+            "plasmid"
+        ],
+        "_entity_src_gen.pdbx_host_org_vector": [
+            "?"
+        ],
+        "_entity_src_gen.host_org_details": [
+            "?"
+        ],
+        "_entity_src_gen.expression_system_id": [
+            "?"
+        ],
+        "_entity_src_gen.plasmid_name": [
+            "pET22b(+)"
+        ],
+        "_entity_src_gen.plasmid_details": [
+            "?"
+        ],
+        "_entity_src_gen.pdbx_description": [
+            "?"
+        ]
+    }
+}

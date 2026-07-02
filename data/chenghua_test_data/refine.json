@@ -1,0 +1,3202 @@
+{
+    "D_1001407490": {
+        "_refine.entry_id": [
+            "D_1001407490"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "0.9800"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.3800"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.350"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.1600"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "175539"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1333"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1325"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1483"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "8467"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "167072"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "15.8796"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.0800"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "56.160"
+        ],
+        "_refine.B_iso_min": [
+            "4.270"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "13.5600"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407491": {
+        "_refine.entry_id": [
+            "D_1001407491"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0200"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.3200"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.7000"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "156230"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1378"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1368"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1574"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7528"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "148702"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "14.5412"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.0900"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "48.820"
+        ],
+        "_refine.B_iso_min": [
+            "4.840"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "13.7800"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407492": {
+        "_refine.entry_id": [
+            "D_1001407492"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0300"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.4500"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.6700"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "152429"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1581"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1570"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1793"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8500"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7387"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "145042"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "16.6553"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1300"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "54.190"
+        ],
+        "_refine.B_iso_min": [
+            "5.500"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "19.6200"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407493": {
+        "_refine.entry_id": [
+            "D_1001407493"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0200"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.4000"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.7700"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "156067"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1473"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1464"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1660"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7529"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "148538"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "16.1050"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.0900"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "57.520"
+        ],
+        "_refine.B_iso_min": [
+            "5.490"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "16.5800"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407494": {
+        "_refine.entry_id": [
+            "D_1001407494"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0300"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.4100"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.8900"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "152261"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1485"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1475"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1682"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8500"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7382"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "144879"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "18.0231"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1100"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "62.700"
+        ],
+        "_refine.B_iso_min": [
+            "7.240"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "17.4600"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407495": {
+        "_refine.entry_id": [
+            "D_1001407495"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0100"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.4000"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.7100"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "159772"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1631"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1621"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1825"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8100"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7692"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "152080"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "16.9243"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1300"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "66.870"
+        ],
+        "_refine.B_iso_min": [
+            "6.230"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "19.6500"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407496": {
+        "_refine.entry_id": [
+            "D_1001407496"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0100"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.3900"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.8400"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "161340"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1550"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1542"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1723"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7773"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "153567"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "18.6722"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1100"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "59.240"
+        ],
+        "_refine.B_iso_min": [
+            "7.070"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "19.7300"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407497": {
+        "_refine.entry_id": [
+            "D_1001407497"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0100"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.3500"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.8900"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "161076"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1522"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1513"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1696"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7756"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "153320"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "18.1035"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1100"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "65.880"
+        ],
+        "_refine.B_iso_min": [
+            "4.950"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "18.3000"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407498": {
+        "_refine.entry_id": [
+            "D_1001407498"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0000"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.3500"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.350"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.3600"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "164660"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1448"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1439"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1622"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8300"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7945"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "156715"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "15.8542"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.0900"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "57.610"
+        ],
+        "_refine.B_iso_min": [
+            "3.660"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "16.2900"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407499": {
+        "_refine.entry_id": [
+            "D_1001407499"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0200"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.4200"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.7800"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "156533"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1503"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1494"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1678"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7552"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "148981"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "17.1492"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1000"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "55.760"
+        ],
+        "_refine.B_iso_min": [
+            "6.150"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "17.4300"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407500": {
+        "_refine.entry_id": [
+            "D_1001407500"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0300"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.3100"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.8000"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "150733"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1525"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1515"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1709"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8600"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7322"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "143411"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "17.5968"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1300"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "59.960"
+        ],
+        "_refine.B_iso_min": [
+            "6.690"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "18.4200"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407501": {
+        "_refine.entry_id": [
+            "D_1001407501"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0200"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.3800"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.7800"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "155788"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1459"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1451"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1623"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8300"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7517"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "148271"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "17.3626"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1000"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "61.060"
+        ],
+        "_refine.B_iso_min": [
+            "6.340"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "16.5400"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407502": {
+        "_refine.entry_id": [
+            "D_1001407502"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0000"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.3600"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.330"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.6100"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "164907"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1612"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1604"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1779"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7953"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "156954"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "19.8168"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1200"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "71.380"
+        ],
+        "_refine.B_iso_min": [
+            "6.330"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "21.2100"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407503": {
+        "_refine.entry_id": [
+            "D_1001407503"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0200"
+        ],
+        "_refine.ls_d_res_low": [
+            "44.4200"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.350"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.7800"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "156644"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1551"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1541"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1742"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "7553"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "149091"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "19.2731"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1000"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "61.130"
+        ],
+        "_refine.B_iso_min": [
+            "7.030"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "19.8500"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407504": {
+        "_refine.entry_id": [
+            "D_1001407504"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "0.9900"
+        ],
+        "_refine.ls_d_res_low": [
+            "39.6900"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.340"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.3800"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "170162"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1466"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1458"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1624"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8200"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "8199"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "161963"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "17.3881"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1100"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "64.480"
+        ],
+        "_refine.B_iso_min": [
+            "4.080"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "17.2300"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    },
+    "D_1001407505": {
+        "_refine.entry_id": [
+            "D_1001407505"
+        ],
+        "_refine.pdbx_refine_id": [
+            "X-RAY DIFFRACTION"
+        ],
+        "_refine.ls_d_res_high": [
+            "1.0900"
+        ],
+        "_refine.ls_d_res_low": [
+            "39.6900"
+        ],
+        "_refine.pdbx_ls_sigma_F": [
+            "1.330"
+        ],
+        "_refine.pdbx_data_cutoff_high_absF": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_low_absF": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_obs": [
+            "99.4900"
+        ],
+        "_refine.ls_number_reflns_obs": [
+            "127195"
+        ],
+        "_refine.ls_number_reflns_all": [
+            "?"
+        ],
+        "_refine.pdbx_ls_cross_valid_method": [
+            "THROUGHOUT"
+        ],
+        "_refine.ls_matrix_type": [
+            "?"
+        ],
+        "_refine.pdbx_R_Free_selection_details": [
+            "?"
+        ],
+        "_refine.details": [
+            "?"
+        ],
+        "_refine.ls_R_factor_all": [
+            "?"
+        ],
+        "_refine.ls_R_factor_obs": [
+            "0.1536"
+        ],
+        "_refine.ls_R_factor_R_work": [
+            "0.1526"
+        ],
+        "_refine.ls_wR_factor_R_work": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free": [
+            "0.1733"
+        ],
+        "_refine.ls_wR_factor_R_free": [
+            "?"
+        ],
+        "_refine.ls_percent_reflns_R_free": [
+            "4.8100"
+        ],
+        "_refine.ls_number_reflns_R_free": [
+            "6117"
+        ],
+        "_refine.ls_number_reflns_R_work": [
+            "121078"
+        ],
+        "_refine.ls_R_factor_R_free_error": [
+            "?"
+        ],
+        "_refine.B_iso_mean": [
+            "19.5391"
+        ],
+        "_refine.solvent_model_param_bsol": [
+            "?"
+        ],
+        "_refine.solvent_model_param_ksol": [
+            "?"
+        ],
+        "_refine.pdbx_isotropic_thermal_model": [
+            "?"
+        ],
+        "_refine.aniso_B[1][1]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[3][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][2]": [
+            "?"
+        ],
+        "_refine.aniso_B[1][3]": [
+            "?"
+        ],
+        "_refine.aniso_B[2][3]": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc": [
+            "?"
+        ],
+        "_refine.correlation_coeff_Fo_to_Fc_free": [
+            "?"
+        ],
+        "_refine.overall_SU_R_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Cruickshank_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_Blow_DPI": [
+            "?"
+        ],
+        "_refine.pdbx_overall_SU_R_free_Blow_DPI": [
+            "?"
+        ],
+        "_refine.overall_SU_R_free": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R": [
+            "?"
+        ],
+        "_refine.pdbx_overall_ESU_R_Free": [
+            "?"
+        ],
+        "_refine.overall_SU_ML": [
+            "0.1200"
+        ],
+        "_refine.overall_SU_B": [
+            "?"
+        ],
+        "_refine.solvent_model_details": [
+            "FLAT BULK SOLVENT MODEL"
+        ],
+        "_refine.pdbx_solvent_vdw_probe_radii": [
+            "1.1000"
+        ],
+        "_refine.pdbx_solvent_ion_probe_radii": [
+            "?"
+        ],
+        "_refine.pdbx_solvent_shrinkage_radii": [
+            "0.9000"
+        ],
+        "_refine.ls_number_parameters": [
+            "?"
+        ],
+        "_refine.ls_number_restraints": [
+            "?"
+        ],
+        "_refine.pdbx_starting_model": [
+            "?"
+        ],
+        "_refine.pdbx_method_to_determine_struct": [
+            "MOLECULAR REPLACEMENT"
+        ],
+        "_refine.pdbx_stereochemistry_target_values": [
+            "ML"
+        ],
+        "_refine.pdbx_stereochem_target_val_spec_case": [
+            "?"
+        ],
+        "_refine.overall_FOM_work_R_set": [
+            "?"
+        ],
+        "_refine.B_iso_max": [
+            "77.800"
+        ],
+        "_refine.B_iso_min": [
+            "8.390"
+        ],
+        "_refine.pdbx_overall_phase_error": [
+            "19.6200"
+        ],
+        "_refine.occupancy_max": [
+            "?"
+        ],
+        "_refine.occupancy_min": [
+            "?"
+        ],
+        "_refine.pdbx_diffrn_id": [
+            "1"
+        ],
+        "_refine.pdbx_TLS_residual_ADP_flag": [
+            "?"
+        ],
+        "_refine.pdbx_ls_sigma_I": [
+            "?"
+        ],
+        "_refine.pdbx_data_cutoff_high_rms_absF": [
+            "?"
+        ],
+        "_refine.ls_R_factor_R_free_error_details": [
+            "?"
+        ]
+    }
+}

@@ -1,0 +1,514 @@
+{
+    "D_1001407490": {
+        "_struct.entry_id": [
+            "D_1001407490"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000411"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-30.99538511612909"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.923500823612686"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1679232600528358"
+        ]
+    },
+    "D_1001407491": {
+        "_struct.entry_id": [
+            "D_1001407491"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000372"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.127762559797805"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-12.027680861289474"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1544769921224316"
+        ]
+    },
+    "D_1001407492": {
+        "_struct.entry_id": [
+            "D_1001407492"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000528"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.073024829710857"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.849814323399539"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1193346753779114"
+        ]
+    },
+    "D_1001407493": {
+        "_struct.entry_id": [
+            "D_1001407493"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000527"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.115983126894527"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.956463516421787"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1612062855580787"
+        ]
+    },
+    "D_1001407494": {
+        "_struct.entry_id": [
+            "D_1001407494"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000724"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.026033662521293"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.8595884920632"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.239616203174743"
+        ]
+    },
+    "D_1001407495": {
+        "_struct.entry_id": [
+            "D_1001407495"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000729"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.11623647701403"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.823567203115065"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1501463160582264"
+        ]
+    },
+    "D_1001407496": {
+        "_struct.entry_id": [
+            "D_1001407496"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000700"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.01189875929185"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.780819916088397"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.168002253951416"
+        ]
+    },
+    "D_1001407497": {
+        "_struct.entry_id": [
+            "D_1001407497"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000703"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-30.97671948749879"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.722149571024275"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1731754332409892"
+        ]
+    },
+    "D_1001407498": {
+        "_struct.entry_id": [
+            "D_1001407498"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000708"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.00254872878486"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.778874211991337"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1818474682004971"
+        ]
+    },
+    "D_1001407499": {
+        "_struct.entry_id": [
+            "D_1001407499"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000712"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.02867981441882"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.815161544783969"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1812291086739697"
+        ]
+    },
+    "D_1001407500": {
+        "_struct.entry_id": [
+            "D_1001407500"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000682"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-30.995652711937662"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.762589917651542"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.2038710436205868"
+        ]
+    },
+    "D_1001407501": {
+        "_struct.entry_id": [
+            "D_1001407501"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000688"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.009219140792442"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.82213440233902"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.2182335235049035"
+        ]
+    },
+    "D_1001407502": {
+        "_struct.entry_id": [
+            "D_1001407502"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000689"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.084704058483414"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.771702423498054"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.200094517674877"
+        ]
+    },
+    "D_1001407503": {
+        "_struct.entry_id": [
+            "D_1001407503"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000737"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-30.959604201848407"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.720827480579187"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.2063455866359833"
+        ]
+    },
+    "D_1001407504": {
+        "_struct.entry_id": [
+            "D_1001407504"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004099"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.05901356080766"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.813067038121149"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1044442596927173"
+        ]
+    },
+    "D_1001407505": {
+        "_struct.entry_id": [
+            "D_1001407505"
+        ],
+        "_struct.title": [
+            "PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004197"
+        ],
+        "_struct.pdbx_CASP_flag": [
+            "?"
+        ],
+        "_struct.pdbx_descriptor": [
+            "Non-structural protein 3 (E.C.3.4.19.121, 3.4.22.-)"
+        ],
+        "_struct.pdbx_model_details": [
+            "?"
+        ],
+        "_struct.pdbx_details": [
+            "?"
+        ],
+        "_struct.pdbx_model_type_details": [
+            "?"
+        ],
+        "_struct.pdbx_center_of_mass_x": [
+            "-31.027550450693973"
+        ],
+        "_struct.pdbx_center_of_mass_y": [
+            "-11.860124296119732"
+        ],
+        "_struct.pdbx_center_of_mass_z": [
+            "1.1553782000727613"
+        ]
+    }
+}

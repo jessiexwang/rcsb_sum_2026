@@ -1,0 +1,247 @@
+{
+    "D_1001407490": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "1-({6-[(1H-indazol-5-yl)amino]pyrimidin-4-yl}amino)pyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7O",
+            "HOH"
+        ]
+    },
+    "D_1001407491": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "DIMETHYL SULFOXIDE",
+            "1-{[(5P)-5-(3-fluoropyridin-2-yl)pyrimidin-4-yl]amino}pyrrolidin-2-one",
+            "BROMIDE ION",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "DMS",
+            "A1A7P",
+            "BR",
+            "HOH"
+        ]
+    },
+    "D_1001407492": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(3R)-3-(2,4-difluorophenyl)-3-[(6,7-dihydro-5H-cyclopenta[c]pyridine-4-carbonyl)amino]propanoic acid",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7M",
+            "HOH"
+        ]
+    },
+    "D_1001407493": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3",
+            "4"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "DIMETHYL SULFOXIDE",
+            "(3R)-3-(2,4-difluorophenyl)-3-{[(4R)-[1,2,4]triazolo[1,5-a]pyridine-5-carbonyl]amino}propanoic acid",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "DMS",
+            "A1A7L",
+            "HOH"
+        ]
+    },
+    "D_1001407494": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(5-iodo-7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]-5-(thiophen-2-yl)pyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7K",
+            "HOH"
+        ]
+    },
+    "D_1001407495": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3",
+            "4"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "DIMETHYL SULFOXIDE",
+            "4-{[(5S)-2-oxo-5-(thiophen-2-yl)pyrrolidin-1-yl]amino}-7H-pyrrolo[2,3-d]pyrimidine-5-carboxamide",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "DMS",
+            "A1A7J",
+            "HOH"
+        ]
+    },
+    "D_1001407496": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(5-ethyl-7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]-5-phenylpyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7I",
+            "HOH"
+        ]
+    },
+    "D_1001407497": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(5-bromo-7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]-5-phenylpyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7H",
+            "HOH"
+        ]
+    },
+    "D_1001407498": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3",
+            "4"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(5-ethyl-7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]-5-methylpyrrolidin-2-one",
+            "CHLORIDE ION",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7G",
+            "CL",
+            "HOH"
+        ]
+    },
+    "D_1001407499": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(6-bromo-7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]-5-phenylpyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7F",
+            "HOH"
+        ]
+    },
+    "D_1001407500": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(6-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]-5-phenylpyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7E",
+            "HOH"
+        ]
+    },
+    "D_1001407501": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(6-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]-5-(thiophen-2-yl)pyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7D",
+            "HOH"
+        ]
+    },
+    "D_1001407502": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino]-5-phenylpyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7C",
+            "HOH"
+        ]
+    },
+    "D_1001407503": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(5S)-1-[(9H-pyrimido[4,5-b]indol-4-yl)amino]-5-(thiophen-2-yl)pyrrolidin-2-one",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7B",
+            "HOH"
+        ]
+    },
+    "D_1001407504": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3",
+            "4"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(2R)-3-methyl-2-{[(6P)-6-(1H-pyrazol-3-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]amino}butan-1-ol",
+            "CHLORIDE ION",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A69",
+            "CL",
+            "HOH"
+        ]
+    },
+    "D_1001407505": {
+        "_pdbx_entity_nonpoly.entity_id": [
+            "2",
+            "3",
+            "4"
+        ],
+        "_pdbx_entity_nonpoly.name": [
+            "(2R)-2-[(8-amino-9H-pyrimido[4,5-b]indol-4-yl)amino]-3-methylbutan-1-ol",
+            "CHLORIDE ION",
+            "water"
+        ],
+        "_pdbx_entity_nonpoly.comp_id": [
+            "A1A7A",
+            "CL",
+            "HOH"
+        ]
+    }
+}
