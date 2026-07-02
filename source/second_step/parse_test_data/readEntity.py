@@ -91,7 +91,7 @@ class readEntity():
 
 
         fn_category_json = "entity.json"
-        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_category_json)
+        fp_category_json = os.path.join(DATA_DIR, "chenghua_test_data", fn_category_json)
 
     
         with open(fp_category_json, 'w') as fp:
