@@ -40,19 +40,15 @@ logger.addHandler(f_handler)
 logger.addHandler(c_handler)
 #-----------------------------
 
-
-# TO BE FIXED!!!!!!!!!!
-
-
-
 class readMore:
     """a class to read mmcif data files and extract certain metadata from any amount of groups about the entry's structure assembly
     Attributes:
+        list: list to combine dictionaries
         l_cat: list of select attributes
     """
     def __init__(self):
         self.list = []
- 
+        self.l_cat_attr = []
 
     def readMoreCat(self, group, l_cat, id):
         """method to read the two categories+ their attributes needed
@@ -65,25 +61,21 @@ class readMore:
         Returns:
             dict: dictionary of combined parsed info
         """
-   
-        d_new = {}      
+        dict_all = {}
 
-        for item in l_cat:
-            if item.contains("."):
-                index = item.index(".")
-                category = item[:index]
+        for category in l_cat:
+            d1 = workerOne_all(category, group, id)
+            dict_all.update(d1)
+        
+        d_new = {}
 
-                d1 = workerOne_all(category, group, id)
-                d_new[item] = d1[item]
-            else:
-                category = item
-                d1 = workerOne_all(category, group, id)
-                d_new.update(d1)
-               
+
+        for item in self.l_cat_attr:
+            d_new[item] = dict_all[item]
 
         return d_new
     
-    def readMore(self, group, l_cat, l_id, file_name):
+    def readMore(self, group, l_cat, l_id, l_cat_attr, file_name):
         """method to parse out all the needed information about an entry
 
         Args:
@@ -94,7 +86,7 @@ class readMore:
             l_cat (str): list of attributes to parse
             file_name (str): name of file out
         """
-     
+        self.l_cat_attr = l_cat_attr.copy()
 
         partial_readTwoCat = functools.partial(self.readMoreCat, group, l_cat)
 
@@ -117,28 +109,27 @@ class readMore:
                 continue
 
 
-        # fn = file_name +".tsv"
-        # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
-        fn_json = file_name + ".json"
-        fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
+        # # fn = file_name +".tsv"
+        # # fp = os.path.join(DATA_DIR, "parse_mmcif", fn)
+        # fn_json = file_name + ".json"
+        # fp_category_json = os.path.join(DATA_DIR, "parse_mmcif", fn_json)
 
 
-        with open(fp_category_json, 'w') as fp:
-            json.dump(d_category_all, fp, indent= 4)
+        # with open(fp_category_json, 'w') as fp:
+        #     json.dump(d_category_all, fp, indent= 4)
 
 def main():
-#    l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]
-#    group = 'G_1002329'
-#    l_cat = ["citation", "citation_author", "struct"]
-#    cat1 = "citation"
-#    cat2 = "citation_author"
-#    #l_cat = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
-#    l_attr = ["_citation.title", "_citation_author.name", "_struct.title"]
-#    fn = "test"
+   l_id = ["D_1001407944", "D_1001407945", "D_1001407946"]
+   group = 'G_1002329'
+   l_cat = ["citation", "citation_author", "struct"]
+   cat1 = "citation"
+   cat2 = "citation_author"
+   #l_cat = ["_audit_author.name", "_audit_author.pdbx_ordinal", "_struct.title"]
+   l_attr = ["_citation.title", "_citation_author.name", "_struct.title"]
+   fn = "test"
 
-#    rm= readMore()
-#    rm.readMore(group, l_cat, l_id, l_attr, fn)
-    pass
+   rm= readMore()
+   rm.readMore(group, l_cat, l_id, l_attr, fn)
 
 if __name__ == "__main__":
     main()
