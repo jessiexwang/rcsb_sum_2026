@@ -138,7 +138,9 @@ def main():
 
 
     rm= readManyCat()
-    rm.mapManyCat_category(group, l_cat, l_id)
+    # rm.mapManyCat_category(group, l_cat, l_id)
+    dict = rm.readManyCat(group, "pdbx_contact_author", "D_1001407490")
+    print(dict)
 
 if __name__ == "__main__":
     main()
