@@ -129,11 +129,11 @@ def main():
 
 
     group = 'G_1002307'
-    l_cat = ["pdbx_contact_author","audit_author","struct","struct_keywords","citation","citation_author",
-             "entity_poly","entity_src_gen","exptl_crystal_grow","exptl_crystal","cell","symmetry",
-             "diffrn_source","diffrn_detector",'diffrn','diffrn_radiation','diffrn_radiation_wavelength','reflns',
-             'reflns_shell','refine','refine_ls_shell','software','pdbx_audit_support','pdbx_deposit_group',
-             'pdbx_entity_instance_feature','pdbx_entity_nonpoly','pdbx_initial_refinement_model','pdbx_struct_assembly']
+    l_cat = ["pdbx_contact_author", "audit_author", "struct", "struct_keywords", "citation", "citation_author",
+            "entity_poly", "entity_src_gen", "exptl_crystal_grow", "exptl_crystal", "cell", "symmetry",
+            "diffrn_source", "diffrn_detector", "diffrn", "diffrn_radiation","diffrn_radiation_wavelength","reflns",
+            'reflns_shell','refine','refine_ls_shell','software','pdbx_audit_support','pdbx_deposit_group',
+            'pdbx_entity_instance_feature','pdbx_entity_nonpoly','pdbx_initial_refinement_model','pdbx_struct_assembly']
    
 
     rm= readManyCat()
